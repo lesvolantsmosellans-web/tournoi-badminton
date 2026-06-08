@@ -81,7 +81,7 @@ function showTab(id,btn){
 
 async function fetchState(){
   try{
-    var r=await fetch(`${stateUrl}?t=${Date.now()}`);
+    var r=await fetch('./state.json?t='+Date.now());
     if(!r.ok) throw new Error('HTTP '+r.status);
     var data=await r.json();
     lastData=data;
