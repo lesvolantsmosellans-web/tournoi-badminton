@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-08T21:32:51.478Z",
+    "updatedAt": "2026-06-08T21:32:54.917Z",
     "phase": "poules",
     "numTeams": 24,
     "poolSize": 4,
@@ -133,12 +133,12 @@
       "teams": [
         {
           "name": "Bears Strong",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 32,
-          "setsWon": 2,
-          "setsLost": 0,
+          "draws": 1,
+          "pointsDiff": 11,
+          "setsWon": 1,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -164,11 +164,11 @@
         {
           "name": "Lightning Fast",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -32,
-          "setsWon": 0,
-          "setsLost": 2,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -11,
+          "setsWon": 1,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -380,14 +380,14 @@
       "poolName": "Poule B",
       "court": 2,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Bears Strong",
       "team2": "Lightning Fast",
       "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": 11,
-      "set2Team2": "",
-      "winner": "Bears Strong"
+      "set2Team2": 21,
+      "winner": null
     },
     {
       "poolName": "Poule C",
