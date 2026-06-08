@@ -160,15 +160,30 @@ function renderPlanning(d){
   var el=document.getElementById('t-planning');
   var upcoming=d.poolMatches.filter(function(m){return m.status==='upcoming';});
   var ongoing=d.poolMatches.filter(function(m){return m.status==='ongoing';});
-  if(!upcoming.length && !ongoing.length){el.innerHTML='<div class="empty">Aucun match à venir.</div>';return;}
+  // Collecter les matchs de tournois (phase finale)
+  var tournOngoing=[], tournNext=[];
+  var tkeys=Object.keys(d.tournaments||{});
+  tkeys.forEach(function(tk){
+    var t=d.tournaments[tk];
+    if(!t||!t.matches) return;
+    t.matches.forEach(function(m){
+      if(!m.team1||!m.team2) return;
+      var card={poolName:t.name,court:m.court,time:m.time,status:m.winner?'finished':(m.court?'ongoing':'upcoming'),
+                team1:m.team1,team2:m.team2,set1Team1:m.score1,set1Team2:m.score2,winner:m.winner,_tourn:true};
+      if(card.status==='ongoing') tournOngoing.push(card);
+      else if(card.status==='upcoming') tournNext.push(card);
+    });
+  });
+  var allOngoing=ongoing.concat(tournOngoing);
+  var allUpcoming=upcoming.concat(tournNext);
+  if(!allOngoing.length && !allUpcoming.length){el.innerHTML='<div class="empty">Aucun match à venir.</div>';return;}
   var html='';
-  if(ongoing.length){
-    html+='<div style="font-size:11px;font-weight:700;color:#3498db;text-transform:uppercase;letter-spacing:1px;margin:8px 0 6px;padding-left:4px">⚡ En cours ('+ongoing.length+')</div>';
-    ongoing.forEach(function(m){html+=buildMatchCard(m,'ongoing');});
+  if(allOngoing.length){
+    html+='<div style="font-size:11px;font-weight:700;color:#3498db;text-transform:uppercase;letter-spacing:1px;margin:8px 0 6px;padding-left:4px">⚡ En cours ('+allOngoing.length+')</div>';
+    allOngoing.forEach(function(m){html+=buildMatchCard(m,'ongoing');});
   }
-  // Grouper par heure
   var byTime={};
-  upcoming.forEach(function(m){var k=m.time||'À planifier';if(!byTime[k])byTime[k]=[];byTime[k].push(m);});
+  allUpcoming.forEach(function(m){var k=m.time||'À planifier';if(!byTime[k])byTime[k]=[];byTime[k].push(m);});
   Object.keys(byTime).sort().forEach(function(t){
     html+='<div style="font-size:11px;font-weight:700;color:#9b59b6;text-transform:uppercase;letter-spacing:1px;margin:12px 0 6px;padding-left:4px">⏰ '+t+'</div>';
     byTime[t].forEach(function(m){html+=buildMatchCard(m,'next');});
@@ -179,11 +194,22 @@ function renderPlanning(d){
 function renderResultats(d){
   var el=document.getElementById('t-resultats');
   var done=d.poolMatches.filter(function(m){return m.status==='finished';}).slice().reverse();
+  // Ajouter les matchs de tournois terminés
+  var tkeys=Object.keys(d.tournaments||{});
+  tkeys.forEach(function(tk){
+    var t=d.tournaments[tk];
+    if(!t||!t.matches) return;
+    t.matches.forEach(function(m){
+      if(m.winner) done.push({poolName:t.name,team1:m.team1,team2:m.team2,
+        set1Team1:m.score1,set1Team2:m.score2,winner:m.winner,status:'finished',_tourn:true});
+    });
+  });
   if(!done.length){el.innerHTML='<div class="empty">Aucun résultat disponible.</div>';return;}
   var html='<div style="font-size:11px;font-weight:700;color:#27ae60;text-transform:uppercase;letter-spacing:1px;margin:0 0 8px;padding-left:4px">✅ Matchs terminés ('+done.length+')</div>';
   done.forEach(function(m){html+=buildMatchCard(m,'done');});
   el.innerHTML=html;
 }
+
 
 function buildMatchCard(m,type){
   var w=m.winner;
