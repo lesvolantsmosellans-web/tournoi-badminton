@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T18:24:56.136Z",
+    "updatedAt": "2026-06-09T18:25:06.526Z",
     "phase": "tournois",
     "numTeams": 30,
     "poolSize": 4,
@@ -1821,15 +1821,15 @@
           "team2": "Equipe 10",
           "score1": {
             "s1": 21,
-            "s2": "",
-            "s3": ""
+            "s2": 21,
+            "s3": 0
           },
           "score2": {
-            "s1": "",
-            "s2": "",
-            "s3": ""
+            "s1": 15,
+            "s2": 4,
+            "s3": 0
           },
-          "winner": null
+          "winner": "Equipe 26"
         },
         {
           "phase": "Poule B - M3",
