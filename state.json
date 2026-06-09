@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T17:59:42.933Z",
+    "updatedAt": "2026-06-09T17:59:45.395Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -255,7 +255,7 @@
     },
     {
       "poolName": "Poule D",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
@@ -269,17 +269,17 @@
           "poolPosition": 1
         },
         {
-          "name": "Equipe 16",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 0,
+          "name": "Equipe 17",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": 7,
           "setsWon": 1,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 2
         },
         {
-          "name": "Equipe 18",
+          "name": "Equipe 16",
           "wins": 0,
           "losses": 0,
           "draws": 1,
@@ -289,12 +289,12 @@
           "poolPosition": 3
         },
         {
-          "name": "Equipe 17",
+          "name": "Equipe 18",
           "wins": 0,
           "losses": 1,
-          "draws": 0,
-          "pointsDiff": -15,
-          "setsWon": 0,
+          "draws": 1,
+          "pointsDiff": -22,
+          "setsWon": 1,
           "setsLost": 2,
           "poolPosition": 4
         }
@@ -668,7 +668,7 @@
       "poolName": "Poule C",
       "court": 2,
       "time": "11:30",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Equipe 13",
       "team2": "Equipe 14",
       "set1Team1": 21,
@@ -684,11 +684,11 @@
       "status": "ongoing",
       "team1": "Equipe 17",
       "team2": "Equipe 18",
-      "set1Team1": "",
+      "set1Team1": 22,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 17"
     },
     {
       "poolName": "Poule B",
