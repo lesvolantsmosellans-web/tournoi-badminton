@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T17:48:21.720Z",
+    "updatedAt": "2026-06-09T17:50:13.446Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -302,16 +302,16 @@
     },
     {
       "poolName": "Poule E",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
           "name": "Equipe 19",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -326,7 +326,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Equipe 21",
+          "name": "Equipe 22",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -336,13 +336,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Equipe 22",
+          "name": "Equipe 21",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -450,11 +450,11 @@
       "status": "ongoing",
       "team1": "Equipe 19",
       "team2": "Equipe 21",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 19"
     },
     {
       "poolName": "Poule F",
@@ -525,7 +525,7 @@
       "poolName": "Poule G",
       "court": 7,
       "time": "10:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Equipe 28",
       "team2": "Equipe 29",
       "set1Team1": "",
