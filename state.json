@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T17:59:34.276Z",
+    "updatedAt": "2026-06-09T17:59:38.035Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -208,25 +208,25 @@
     },
     {
       "poolName": "Poule C",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
+        {
+          "name": "Equipe 13",
+          "wins": 1,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 22,
+          "setsWon": 2,
+          "setsLost": 1,
+          "poolPosition": 1
+        },
         {
           "name": "Equipe 11",
           "wins": 0,
           "losses": 0,
           "draws": 1,
           "pointsDiff": 3,
-          "setsWon": 1,
-          "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Equipe 13",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 1,
           "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 2
@@ -244,11 +244,11 @@
         {
           "name": "Equipe 14",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 1,
-          "pointsDiff": -3,
+          "pointsDiff": -24,
           "setsWon": 1,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -316,16 +316,6 @@
           "poolPosition": 1
         },
         {
-          "name": "Equipe 21",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": 18,
-          "setsWon": 2,
-          "setsLost": 2,
-          "poolPosition": 2
-        },
-        {
           "name": "Equipe 19",
           "wins": 1,
           "losses": 0,
@@ -333,6 +323,16 @@
           "pointsDiff": 8,
           "setsWon": 2,
           "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Equipe 21",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -2,
+          "setsWon": 2,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -340,7 +340,7 @@
           "wins": 0,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -59,
+          "pointsDiff": -39,
           "setsWon": 0,
           "setsLost": 4,
           "poolPosition": 4
@@ -655,13 +655,13 @@
       "poolName": "Poule E",
       "court": 1,
       "time": "11:30",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Equipe 21",
       "team2": "Equipe 22",
       "set1Team1": 21,
       "set1Team2": 17,
       "set2Team1": 22,
-      "set2Team2": "",
+      "set2Team2": 20,
       "winner": "Equipe 21"
     },
     {
@@ -671,11 +671,11 @@
       "status": "ongoing",
       "team1": "Equipe 13",
       "team2": "Equipe 14",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 13"
     },
     {
       "poolName": "Poule D",
