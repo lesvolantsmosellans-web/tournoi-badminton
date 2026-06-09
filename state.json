@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T18:07:05.408Z",
+    "updatedAt": "2026-06-09T18:07:09.086Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -94,7 +94,7 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 8,
+      "played": 9,
       "total": 10,
       "teams": [
         {
@@ -102,7 +102,7 @@
           "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 45,
+          "pointsDiff": 37,
           "setsWon": 4,
           "setsLost": 2,
           "poolPosition": 1
@@ -120,30 +120,30 @@
         {
           "name": "Equipe 5",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 2,
-          "pointsDiff": 8,
+          "pointsDiff": -13,
           "setsWon": 4,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
+        },
+        {
+          "name": "Equipe 4",
+          "wins": 1,
+          "losses": 2,
+          "draws": 1,
+          "pointsDiff": -19,
+          "setsWon": 2,
+          "setsLost": 5,
+          "poolPosition": 4
         },
         {
           "name": "Equipe 3",
           "wins": 0,
           "losses": 1,
           "draws": 3,
-          "pointsDiff": -34,
+          "pointsDiff": -26,
           "setsWon": 3,
-          "setsLost": 5,
-          "poolPosition": 4
-        },
-        {
-          "name": "Equipe 4",
-          "wins": 0,
-          "losses": 2,
-          "draws": 1,
-          "pointsDiff": -40,
-          "setsWon": 1,
           "setsLost": 5,
           "poolPosition": 5
         }
@@ -1032,13 +1032,13 @@
       "poolName": "Poule A",
       "court": 1,
       "time": "14:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Equipe 1",
       "team2": "Equipe 3",
       "set1Team1": 21,
       "set1Team2": 6,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 8,
       "winner": "Equipe 1"
     },
     {
@@ -1048,11 +1048,11 @@
       "status": "ongoing",
       "team1": "Equipe 4",
       "team2": "Equipe 5",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 4"
     },
     {
       "poolName": "Poule B",
