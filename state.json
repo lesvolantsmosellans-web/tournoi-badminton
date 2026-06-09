@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T18:05:55.541Z",
+    "updatedAt": "2026-06-09T18:05:59.926Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -349,7 +349,7 @@
     },
     {
       "poolName": "Poule F",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -364,11 +364,11 @@
         },
         {
           "name": "Equipe 25",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 1,
-          "pointsDiff": 7,
-          "setsWon": 3,
+          "pointsDiff": 28,
+          "setsWon": 4,
           "setsLost": 1,
           "poolPosition": 2
         },
@@ -385,11 +385,11 @@
         {
           "name": "Equipe 26",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -41,
+          "pointsDiff": -62,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -404,7 +404,7 @@
           "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 44,
+          "pointsDiff": 28,
           "setsWon": 4,
           "setsLost": 2,
           "poolPosition": 1
@@ -424,7 +424,7 @@
           "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -12,
+          "pointsDiff": 4,
           "setsWon": 4,
           "setsLost": 2,
           "poolPosition": 3
@@ -928,13 +928,13 @@
       "poolName": "Poule G",
       "court": 5,
       "time": "13:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Equipe 28",
       "team2": "Equipe 30",
       "set1Team1": 21,
       "set1Team2": 15,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 16,
       "winner": "Equipe 28"
     },
     {
@@ -944,11 +944,11 @@
       "status": "ongoing",
       "team1": "Equipe 25",
       "team2": "Equipe 26",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 25"
     },
     {
       "poolName": "Poule A",
