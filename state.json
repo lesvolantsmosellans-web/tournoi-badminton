@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T17:55:42.262Z",
+    "updatedAt": "2026-06-09T17:55:45.878Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -396,7 +396,7 @@
     },
     {
       "poolName": "Poule G",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
         {
@@ -411,22 +411,22 @@
         },
         {
           "name": "Equipe 27",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 16,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 2
         },
         {
           "name": "Equipe 30",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -16,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 3
         },
         {
@@ -619,11 +619,11 @@
       "status": "ongoing",
       "team1": "Equipe 27",
       "team2": "Equipe 30",
-      "set1Team1": "",
+      "set1Team1": 16,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 27"
     },
     {
       "poolName": "Poule A",
