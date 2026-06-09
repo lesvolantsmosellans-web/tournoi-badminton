@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T18:04:19.856Z",
+    "updatedAt": "2026-06-09T18:04:22.763Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -396,9 +396,19 @@
     },
     {
       "poolName": "Poule G",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
+        {
+          "name": "Equipe 27",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": 21,
+          "setsWon": 3,
+          "setsLost": 2,
+          "poolPosition": 1
+        },
         {
           "name": "Equipe 30",
           "wins": 2,
@@ -407,7 +417,7 @@
           "pointsDiff": 15,
           "setsWon": 4,
           "setsLost": 0,
-          "poolPosition": 1
+          "poolPosition": 2
         },
         {
           "name": "Equipe 28",
@@ -417,26 +427,16 @@
           "pointsDiff": 17,
           "setsWon": 2,
           "setsLost": 2,
-          "poolPosition": 2
-        },
-        {
-          "name": "Equipe 27",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 2,
-          "setsLost": 2,
           "poolPosition": 3
         },
         {
           "name": "Equipe 29",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -32,
+          "pointsDiff": -53,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -863,7 +863,7 @@
       "poolName": "Poule B",
       "court": 3,
       "time": "12:30",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Equipe 6",
       "team2": "Equipe 10",
       "set1Team1": 21,
@@ -879,11 +879,11 @@
       "status": "ongoing",
       "team1": "Equipe 27",
       "team2": "Equipe 29",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Equipe 27"
     },
     {
       "poolName": "Poule F",
