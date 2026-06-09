@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T18:07:20.432Z",
+    "updatedAt": "2026-06-09T18:07:22.210Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -159,7 +159,7 @@
           "wins": 4,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 79,
+          "pointsDiff": 59,
           "setsWon": 8,
           "setsLost": 0,
           "poolPosition": 1
@@ -189,7 +189,7 @@
           "wins": 1,
           "losses": 2,
           "draws": 1,
-          "pointsDiff": -41,
+          "pointsDiff": -21,
           "setsWon": 3,
           "setsLost": 5,
           "poolPosition": 4
@@ -1064,7 +1064,7 @@
       "set1Team1": 21,
       "set1Team2": 13,
       "set2Team1": 22,
-      "set2Team2": "",
+      "set2Team2": 20,
       "winner": "Equipe 6"
     },
     {
