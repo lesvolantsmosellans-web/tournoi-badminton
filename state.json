@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-09T18:03:31.789Z",
+    "updatedAt": "2026-06-09T18:03:34.310Z",
     "phase": "poules",
     "numTeams": 30,
     "poolSize": 4,
@@ -850,7 +850,7 @@
       "poolName": "Poule E",
       "court": 2,
       "time": "12:30",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Equipe 20",
       "team2": "Equipe 21",
       "set1Team1": "",
@@ -863,7 +863,7 @@
       "poolName": "Poule B",
       "court": 3,
       "time": "12:30",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Equipe 6",
       "team2": "Equipe 10",
       "set1Team1": "",
