@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:13:22.808Z",
+    "updatedAt": "2026-06-12T20:13:27.196Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -132,20 +132,20 @@
       "total": 6,
       "teams": [
         {
-          "name": "Comet Tail",
-          "wins": 0,
+          "name": "Dragons Fire",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Dragons Fire",
+          "name": "Comet Tail",
           "wins": 0,
           "losses": 0,
-          "draws": 1,
+          "draws": 0,
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
@@ -164,11 +164,11 @@
         {
           "name": "Tornado Spin",
           "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -370,11 +370,11 @@
       "status": "ongoing",
       "team1": "Dragons Fire",
       "team2": "Tornado Spin",
-      "set1Team1": 0,
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Dragons Fire"
     },
     {
       "poolName": "Poule C",
