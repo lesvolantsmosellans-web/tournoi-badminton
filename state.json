@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:13:29.684Z",
+    "updatedAt": "2026-06-12T20:13:32.484Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -136,7 +136,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 32,
+          "pointsDiff": 21,
           "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
@@ -166,7 +166,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -32,
+          "pointsDiff": -21,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -373,7 +373,7 @@
       "set1Team1": 21,
       "set1Team2": 10,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 11,
       "winner": "Dragons Fire"
     },
     {
