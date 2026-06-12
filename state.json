@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:12:00.562Z",
+    "updatedAt": "2026-06-12T20:13:22.808Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -128,7 +128,7 @@
     },
     {
       "poolName": "Poule B",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
@@ -145,7 +145,7 @@
           "name": "Dragons Fire",
           "wins": 0,
           "losses": 0,
-          "draws": 0,
+          "draws": 1,
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
@@ -165,7 +165,7 @@
           "name": "Tornado Spin",
           "wins": 0,
           "losses": 0,
-          "draws": 0,
+          "draws": 1,
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
@@ -370,7 +370,7 @@
       "status": "ongoing",
       "team1": "Dragons Fire",
       "team2": "Tornado Spin",
-      "set1Team1": "",
+      "set1Team1": 0,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
