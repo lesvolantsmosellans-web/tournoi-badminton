@@ -1,9 +1,9 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:09:46.641Z",
-    "phase": "config",
-    "numTeams": 24,
+    "updatedAt": "2026-06-12T20:09:59.460Z",
+    "phase": "poules",
+    "numTeams": 32,
     "poolSize": 4,
     "poolSizes": [
       4,
@@ -16,9 +16,822 @@
     "bracketSize": 8,
     "numTournois": 3
   },
-  "pools": [],
-  "poolRankings": [],
-  "poolMatches": [],
+  "pools": [
+    {
+      "id": 1,
+      "name": "Poule A",
+      "teams": [
+        "Lions United",
+        "Pulsar Wave",
+        "Alpha Squad",
+        "Sharks Attack"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Poule B",
+      "teams": [
+        "Comet Tail",
+        "Dragons Fire",
+        "Galaxy Stars",
+        "Tornado Spin"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Poule C",
+      "teams": [
+        "Gamma Team",
+        "Meteor Strike",
+        "Eta United",
+        "Hurricane Power"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Poule D",
+      "teams": [
+        "Cyclone Speed",
+        "Stellar Light",
+        "Tigers Team",
+        "Epsilon Pro"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Poule E",
+      "teams": [
+        "Supernova Blast",
+        "Theta Elite",
+        "Eagles FC",
+        "Quasar Beam"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Poule F",
+      "teams": [
+        "Delta Strike",
+        "Lightning Fast",
+        "Storm Force",
+        "Zeta Club"
+      ]
+    }
+  ],
+  "poolRankings": [
+    {
+      "poolName": "Poule A",
+      "played": 0,
+      "total": 6,
+      "teams": [
+        {
+          "name": "Lions United",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Pulsar Wave",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Alpha Squad",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Sharks Attack",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 4
+        }
+      ]
+    },
+    {
+      "poolName": "Poule B",
+      "played": 0,
+      "total": 6,
+      "teams": [
+        {
+          "name": "Comet Tail",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Dragons Fire",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Galaxy Stars",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Tornado Spin",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 4
+        }
+      ]
+    },
+    {
+      "poolName": "Poule C",
+      "played": 0,
+      "total": 6,
+      "teams": [
+        {
+          "name": "Gamma Team",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Meteor Strike",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Eta United",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Hurricane Power",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 4
+        }
+      ]
+    },
+    {
+      "poolName": "Poule D",
+      "played": 0,
+      "total": 6,
+      "teams": [
+        {
+          "name": "Cyclone Speed",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Stellar Light",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Tigers Team",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Epsilon Pro",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 4
+        }
+      ]
+    },
+    {
+      "poolName": "Poule E",
+      "played": 0,
+      "total": 6,
+      "teams": [
+        {
+          "name": "Supernova Blast",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Theta Elite",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Eagles FC",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Quasar Beam",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 4
+        }
+      ]
+    },
+    {
+      "poolName": "Poule F",
+      "played": 0,
+      "total": 6,
+      "teams": [
+        {
+          "name": "Delta Strike",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Lightning Fast",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
+          "name": "Storm Force",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Zeta Club",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 0,
+          "setsWon": 0,
+          "setsLost": 0,
+          "poolPosition": 4
+        }
+      ]
+    }
+  ],
+  "poolMatches": [
+    {
+      "poolName": "Poule C",
+      "court": 1,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Meteor Strike",
+      "team2": "Hurricane Power",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 2,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Stellar Light",
+      "team2": "Epsilon Pro",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 3,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Lions United",
+      "team2": "Alpha Squad",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 4,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Dragons Fire",
+      "team2": "Galaxy Stars",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 5,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Delta Strike",
+      "team2": "Lightning Fast",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 6,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Theta Elite",
+      "team2": "Eagles FC",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 7,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Supernova Blast",
+      "team2": "Quasar Beam",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 1,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Gamma Team",
+      "team2": "Eta United",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 2,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Cyclone Speed",
+      "team2": "Tigers Team",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 3,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Comet Tail",
+      "team2": "Tornado Spin",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 4,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Storm Force",
+      "team2": "Zeta Club",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 5,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Pulsar Wave",
+      "team2": "Sharks Attack",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 1,
+      "time": "10:20",
+      "status": "upcoming",
+      "team1": "Supernova Blast",
+      "team2": "Eagles FC",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 2,
+      "time": "10:20",
+      "status": "upcoming",
+      "team1": "Theta Elite",
+      "team2": "Quasar Beam",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 1,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Gamma Team",
+      "team2": "Meteor Strike",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 2,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Cyclone Speed",
+      "team2": "Epsilon Pro",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 3,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Pulsar Wave",
+      "team2": "Alpha Squad",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 4,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Comet Tail",
+      "team2": "Galaxy Stars",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 5,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Delta Strike",
+      "team2": "Storm Force",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 6,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Lightning Fast",
+      "team2": "Zeta Club",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 7,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Eta United",
+      "team2": "Hurricane Power",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 1,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Stellar Light",
+      "team2": "Tigers Team",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 2,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Lions United",
+      "team2": "Sharks Attack",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 3,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Dragons Fire",
+      "team2": "Tornado Spin",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 4,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Eagles FC",
+      "team2": "Quasar Beam",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 5,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Supernova Blast",
+      "team2": "Theta Elite",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 1,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Meteor Strike",
+      "team2": "Eta United",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 2,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Lightning Fast",
+      "team2": "Storm Force",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 3,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Gamma Team",
+      "team2": "Hurricane Power",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 4,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Delta Strike",
+      "team2": "Zeta Club",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 1,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Alpha Squad",
+      "team2": "Sharks Attack",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 2,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Comet Tail",
+      "team2": "Dragons Fire",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 3,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Cyclone Speed",
+      "team2": "Stellar Light",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 4,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Lions United",
+      "team2": "Pulsar Wave",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 5,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Tigers Team",
+      "team2": "Epsilon Pro",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 6,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Galaxy Stars",
+      "team2": "Tornado Spin",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    }
+  ],
   "tournaments": {},
   "qualifications": {
     "gold": [],
