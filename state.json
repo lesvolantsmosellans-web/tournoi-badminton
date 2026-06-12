@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:11:49.850Z",
+    "updatedAt": "2026-06-12T20:11:55.637Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -380,7 +380,7 @@
       "poolName": "Poule C",
       "court": 2,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Meteor Strike",
       "team2": "Eta United",
       "set1Team1": "",
