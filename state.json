@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:13:32.484Z",
+    "updatedAt": "2026-06-12T20:13:38.709Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -175,21 +175,21 @@
     },
     {
       "poolName": "Poule C",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Gamma Team",
-          "wins": 0,
+          "name": "Meteor Strike",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 11,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Meteor Strike",
+          "name": "Gamma Team",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -199,7 +199,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Eta United",
+          "name": "Hurricane Power",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -209,13 +209,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Hurricane Power",
+          "name": "Eta United",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -11,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -367,7 +367,7 @@
       "poolName": "Poule B",
       "court": 1,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Dragons Fire",
       "team2": "Tornado Spin",
       "set1Team1": 21,
@@ -383,11 +383,11 @@
       "status": "ongoing",
       "team1": "Meteor Strike",
       "team2": "Eta United",
-      "set1Team1": "",
+      "set1Team1": 11,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Meteor Strike"
     },
     {
       "poolName": "Poule D",
