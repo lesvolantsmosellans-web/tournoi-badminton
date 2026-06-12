@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:13:38.709Z",
+    "updatedAt": "2026-06-12T20:13:40.817Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -180,12 +180,12 @@
       "teams": [
         {
           "name": "Meteor Strike",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 11,
+          "draws": 1,
+          "pointsDiff": 5,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -211,10 +211,10 @@
         {
           "name": "Eta United",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -11,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -5,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -384,10 +384,10 @@
       "team1": "Meteor Strike",
       "team2": "Eta United",
       "set1Team1": 11,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 15,
       "set2Team2": "",
-      "winner": "Meteor Strike"
+      "winner": null
     },
     {
       "poolName": "Poule D",
