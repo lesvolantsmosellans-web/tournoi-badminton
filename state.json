@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-12T20:14:04.866Z",
+    "updatedAt": "2026-06-12T20:14:07.625Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -222,21 +222,21 @@
     },
     {
       "poolName": "Poule D",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Cyclone Speed",
-          "wins": 0,
+          "name": "Tigers Team",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Stellar Light",
+          "name": "Cyclone Speed",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -246,7 +246,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Tigers Team",
+          "name": "Stellar Light",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -258,11 +258,11 @@
         {
           "name": "Epsilon Pro",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -396,11 +396,11 @@
       "status": "finished",
       "team1": "Tigers Team",
       "team2": "Epsilon Pro",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Tigers Team"
     },
     {
       "poolName": "Poule F",
