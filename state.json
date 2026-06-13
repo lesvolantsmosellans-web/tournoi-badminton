@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:40:19.669Z",
+    "updatedAt": "2026-06-13T07:40:21.431Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -111,8 +111,8 @@
           "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 27,
-          "setsWon": 5,
+          "pointsDiff": 30,
+          "setsWon": 6,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -121,9 +121,9 @@
           "wins": 1,
           "losses": 1,
           "draws": 1,
-          "pointsDiff": 37,
+          "pointsDiff": 34,
           "setsWon": 3,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 2
         },
         {
@@ -1060,8 +1060,8 @@
       "team2": "Quasar Beam",
       "set1Team1": 21,
       "set1Team2": 17,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 21,
+      "set2Team2": 18,
       "winner": "Eta United"
     },
     {
