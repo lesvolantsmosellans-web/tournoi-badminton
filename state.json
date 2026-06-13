@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:34.015Z",
+    "updatedAt": "2026-06-13T07:19:36.290Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -626,7 +626,7 @@
       "poolName": "Poule B",
       "court": 6,
       "time": "09:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Stellar Light",
       "team2": "Tornado Spin",
       "set1Team1": "",
