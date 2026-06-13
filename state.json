@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:18.141Z",
+    "updatedAt": "2026-06-13T07:19:20.643Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -352,14 +352,24 @@
           "poolPosition": 1
         },
         {
+          "name": "Phoenix Rise",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 6,
+          "setsWon": 2,
+          "setsLost": 0,
+          "poolPosition": 2
+        },
+        {
           "name": "Beta Force",
           "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 15,
-          "setsWon": 1,
-          "setsLost": 1,
-          "poolPosition": 2
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -6,
+          "setsWon": 0,
+          "setsLost": 2,
+          "poolPosition": 3
         },
         {
           "name": "Theta Elite",
@@ -369,16 +379,6 @@
           "pointsDiff": -13,
           "setsWon": 0,
           "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Phoenix Rise",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -15,
-          "setsWon": 1,
-          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -593,8 +593,8 @@
       "set1Team1": 17,
       "set1Team2": 21,
       "set2Team1": 19,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Phoenix Rise"
     },
     {
       "poolName": "Poule A",
