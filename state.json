@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:36:47.195Z",
+    "updatedAt": "2026-06-13T07:36:49.697Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -385,27 +385,27 @@
     },
     {
       "poolName": "Poule G",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
-          "name": "Wolves Pack",
-          "wins": 1,
+          "name": "Sharks Attack",
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 18,
-          "setsWon": 2,
+          "pointsDiff": 33,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Sharks Attack",
+          "name": "Wolves Pack",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 12,
+          "pointsDiff": -3,
           "setsWon": 2,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -847,7 +847,7 @@
       "poolName": "Poule D",
       "court": 6,
       "time": "11:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Zeta Club",
       "team2": "Eagles FC",
       "set1Team1": 21,
@@ -863,11 +863,11 @@
       "status": "upcoming",
       "team1": "Sharks Attack",
       "team2": "Wolves Pack",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Sharks Attack"
     },
     {
       "poolName": "Poule A",
