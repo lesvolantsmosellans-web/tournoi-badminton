@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:27.588Z",
+    "updatedAt": "2026-06-13T07:39:30.444Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,7 +244,7 @@
     },
     {
       "poolName": "Poule D",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -269,22 +269,22 @@
         },
         {
           "name": "Eagles FC",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "draws": 1,
-          "pointsDiff": -13,
-          "setsWon": 1,
+          "pointsDiff": 8,
+          "setsWon": 2,
           "setsLost": 3,
           "poolPosition": 3
         },
         {
           "name": "Bears Strong",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -16,
+          "pointsDiff": -37,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -990,7 +990,7 @@
       "poolName": "Poule G",
       "court": 3,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Sharks Attack",
       "team2": "Meteor Strike",
       "set1Team1": 1,
@@ -1006,11 +1006,11 @@
       "status": "upcoming",
       "team1": "Eagles FC",
       "team2": "Bears Strong",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Eagles FC"
     },
     {
       "poolName": "Poule E",
