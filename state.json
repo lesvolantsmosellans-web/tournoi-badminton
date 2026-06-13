@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:36:40.617Z",
+    "updatedAt": "2026-06-13T07:36:43.873Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,9 +244,19 @@
     },
     {
       "poolName": "Poule D",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
+        {
+          "name": "Zeta Club",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 25,
+          "setsWon": 3,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Comet Tail",
           "wins": 1,
@@ -255,27 +265,7 @@
           "pointsDiff": 13,
           "setsWon": 3,
           "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Zeta Club",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 4,
-          "setsWon": 2,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Eagles FC",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -1,
-          "setsWon": 1,
-          "setsLost": 1,
-          "poolPosition": 3
         },
         {
           "name": "Bears Strong",
@@ -285,6 +275,16 @@
           "pointsDiff": -16,
           "setsWon": 0,
           "setsLost": 4,
+          "poolPosition": 3
+        },
+        {
+          "name": "Eagles FC",
+          "wins": 0,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": -22,
+          "setsWon": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -834,7 +834,7 @@
       "poolName": "Poule H",
       "court": 4,
       "time": "11:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Cyclone Speed",
       "team2": "Nebula Dream",
       "set1Team1": 21,
@@ -850,11 +850,11 @@
       "status": "upcoming",
       "team1": "Zeta Club",
       "team2": "Eagles FC",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Zeta Club"
     },
     {
       "poolName": "Poule G",
