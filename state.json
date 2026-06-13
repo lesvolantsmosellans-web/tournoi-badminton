@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:03:21.415Z",
+    "updatedAt": "2026-06-13T07:05:17.070Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -483,7 +483,7 @@
       "poolName": "Poule F",
       "court": 1,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Tigers Team",
       "team2": "Theta Elite",
       "set1Team1": "",
