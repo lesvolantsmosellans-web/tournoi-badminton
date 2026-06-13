@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:24:10.249Z",
+    "updatedAt": "2026-06-13T08:24:38.480Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1483,13 +1483,13 @@
           "phase": "Quart 2",
           "team1": "Theta Elite",
           "team2": "Pulsar Wave",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 15,
+          "set2Team1": 15,
+          "set2Team2": 21,
+          "set3Team1": 23,
+          "set3Team2": 21,
+          "winner": "Theta Elite",
           "time": "14:00"
         },
         {
@@ -1521,7 +1521,7 @@
         {
           "phase": "Demi 1",
           "team1": "Eagles FC",
-          "team2": "Gagnant Q2",
+          "team2": "Theta Elite",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1572,7 +1572,7 @@
         },
         {
           "phase": "Demi 5-8 (2)",
-          "team1": "Perdant Q2",
+          "team1": "Pulsar Wave",
           "team2": "Perdant Q4",
           "set1Team1": "",
           "set1Team2": "",
