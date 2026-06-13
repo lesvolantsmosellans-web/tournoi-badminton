@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:43:19.079Z",
+    "updatedAt": "2026-06-13T08:43:22.519Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1349,13 +1349,13 @@
           "phase": "Demi 1",
           "team1": "Delta Strike",
           "team2": "Quasar Beam",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Quasar Beam",
           "time": "22:15"
         },
         {
@@ -1373,7 +1373,7 @@
         },
         {
           "phase": "Finale",
-          "team1": "Gagnant D1",
+          "team1": "Quasar Beam",
           "team2": "Gagnant D2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1412,7 +1412,7 @@
         },
         {
           "phase": "3ème place",
-          "team1": "Perdant D1",
+          "team1": "Delta Strike",
           "team2": "Perdant D2",
           "set1Team1": "",
           "set1Team2": "",
