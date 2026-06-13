@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:38.863Z",
+    "updatedAt": "2026-06-13T07:33:41.454Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,16 +197,16 @@
     },
     {
       "poolName": "Poule C",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
           "name": "Galaxy Stars",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 28,
-          "setsWon": 2,
+          "pointsDiff": 49,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -233,11 +233,11 @@
         {
           "name": "Supernova Blast",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -8,
+          "pointsDiff": -29,
           "setsWon": 0,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -743,7 +743,7 @@
       "poolName": "Poule E",
       "court": 7,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Pulsar Wave",
       "team2": "Gamma Team",
       "set1Team1": 21,
@@ -759,11 +759,11 @@
       "status": "upcoming",
       "team1": "Galaxy Stars",
       "team2": "Supernova Blast",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Galaxy Stars"
     },
     {
       "poolName": "Poule D",
