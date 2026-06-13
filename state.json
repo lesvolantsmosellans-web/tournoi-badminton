@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:40:21.431Z",
+    "updatedAt": "2026-06-13T07:40:23.398Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,7 +150,7 @@
     },
     {
       "poolName": "Poule B",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -165,22 +165,22 @@
         },
         {
           "name": "Panthers Pro",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 20,
-          "setsWon": 2,
+          "pointsDiff": 41,
+          "setsWon": 3,
           "setsLost": 2,
           "poolPosition": 2
         },
         {
           "name": "Stellar Light",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -25,
+          "pointsDiff": -46,
           "setsWon": 2,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -1071,11 +1071,11 @@
       "status": "upcoming",
       "team1": "Panthers Pro",
       "team2": "Stellar Light",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Panthers Pro"
     },
     {
       "poolName": "Poule F",
