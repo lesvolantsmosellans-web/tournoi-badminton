@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:33:48.947Z",
+    "updatedAt": "2026-06-13T08:33:54.023Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1415,9 +1415,9 @@
           "team1": "Panthers Pro",
           "team2": "Sharks Attack",
           "set1Team1": "",
-          "set1Team2": "",
+          "set1Team2": 1,
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 1,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null,
@@ -1613,13 +1613,13 @@
           "phase": "7ème place",
           "team1": "Meteor Strike",
           "team2": "Alpha Squad",
-          "set1Team1": "",
+          "set1Team1": 0,
           "set1Team2": 1,
-          "set2Team1": "",
+          "set2Team1": 0,
           "set2Team2": 1,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Alpha Squad",
           "time": "01:00"
         }
       ]
