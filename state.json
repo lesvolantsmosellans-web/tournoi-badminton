@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:50:21.835Z",
+    "updatedAt": "2026-06-13T08:08:01.168Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1643,12 +1643,12 @@
           "phase": "Quart 1",
           "team1": "Beta Force",
           "team2": "Tornado Spin",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 23,
+          "set2Team1": 21,
+          "set2Team2": 19,
+          "set3Team1": 21,
+          "set3Team2": 10,
           "winner": null,
           "time": "14:00"
         },
