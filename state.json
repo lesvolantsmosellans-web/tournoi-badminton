@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:29:37.943Z",
+    "updatedAt": "2026-06-13T08:29:40.460Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1125,12 +1125,12 @@
           "team1": "Thunder Bolt",
           "team2": "Cyclone Speed",
           "set1Team1": 21,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 21,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Thunder Bolt",
           "time": "14:55"
         },
         {
@@ -1174,7 +1174,7 @@
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Thunder Bolt",
           "team2": "Gagnant Q2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1213,7 +1213,7 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
+          "team1": "Cyclone Speed",
           "team2": "Perdant Q3",
           "set1Team1": "",
           "set1Team2": "",
