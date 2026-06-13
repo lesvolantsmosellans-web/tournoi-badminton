@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:38:41.745Z",
+    "updatedAt": "2026-06-13T07:38:45.780Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,7 +197,7 @@
     },
     {
       "poolName": "Poule C",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -212,11 +212,11 @@
         },
         {
           "name": "Lightning Fast",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -15,
-          "setsWon": 2,
+          "pointsDiff": 6,
+          "setsWon": 3,
           "setsLost": 2,
           "poolPosition": 2
         },
@@ -233,11 +233,11 @@
         {
           "name": "Supernova Blast",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -25,
+          "pointsDiff": -46,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -925,7 +925,7 @@
       "poolName": "Poule F",
       "court": 4,
       "time": "12:20",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Phoenix Rise",
       "team2": "Theta Elite",
       "set1Team1": "",
@@ -941,11 +941,11 @@
       "status": "upcoming",
       "team1": "Lightning Fast",
       "team2": "Supernova Blast",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Lightning Fast"
     },
     {
       "poolName": "Poule B",
