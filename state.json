@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:31.053Z",
+    "updatedAt": "2026-06-13T07:33:34.627Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,7 +291,7 @@
     },
     {
       "poolName": "Poule E",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
@@ -315,23 +315,23 @@
           "poolPosition": 2
         },
         {
-          "name": "Gamma Team",
-          "wins": 0,
+          "name": "Pulsar Wave",
+          "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -17,
-          "setsWon": 0,
+          "pointsDiff": -6,
+          "setsWon": 1,
           "setsLost": 2,
           "poolPosition": 3
         },
         {
-          "name": "Pulsar Wave",
+          "name": "Gamma Team",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -27,
+          "pointsDiff": -38,
           "setsWon": 0,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -730,7 +730,7 @@
       "poolName": "Poule C",
       "court": 6,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Lightning Fast",
       "team2": "Alpha Squad",
       "set1Team1": 21,
@@ -746,11 +746,11 @@
       "status": "ongoing",
       "team1": "Pulsar Wave",
       "team2": "Gamma Team",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Pulsar Wave"
     },
     {
       "poolName": "Poule C",
