@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:46.412Z",
+    "updatedAt": "2026-06-13T07:39:48.746Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -131,8 +131,8 @@
           "wins": 1,
           "losses": 1,
           "draws": 1,
-          "pointsDiff": 10,
-          "setsWon": 2,
+          "pointsDiff": 16,
+          "setsWon": 3,
           "setsLost": 3,
           "poolPosition": 3
         },
@@ -141,9 +141,9 @@
           "wins": 0,
           "losses": 3,
           "draws": 0,
-          "pointsDiff": -74,
+          "pointsDiff": -80,
           "setsWon": 0,
-          "setsLost": 5,
+          "setsLost": 6,
           "poolPosition": 4
         }
       ]
@@ -1046,8 +1046,8 @@
       "team1": "Hawks Elite",
       "team2": "Epsilon Pro",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 15,
+      "set2Team1": 21,
       "set2Team2": "",
       "winner": "Hawks Elite"
     },
