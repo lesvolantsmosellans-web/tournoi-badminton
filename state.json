@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:45:28.167Z",
+    "updatedAt": "2026-06-13T08:45:31.328Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1600,13 +1600,13 @@
           "phase": "5ème place",
           "team1": "Pulsar Wave",
           "team2": "Dragons Fire",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Dragons Fire",
           "time": "01:00"
         },
         {
