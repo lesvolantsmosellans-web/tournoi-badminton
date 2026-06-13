@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:26:29.997Z",
+    "updatedAt": "2026-06-13T07:26:35.476Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -252,8 +252,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 22,
-          "setsWon": 1,
+          "pointsDiff": 27,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -282,9 +282,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -22,
+          "pointsDiff": -27,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -656,8 +656,8 @@
       "team1": "Zeta Club",
       "team2": "Bears Strong",
       "set1Team1": 22,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 20,
+      "set2Team1": 25,
       "set2Team2": "",
       "winner": "Zeta Club"
     },
