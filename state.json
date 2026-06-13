@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:06:25.723Z",
+    "updatedAt": "2026-06-13T07:06:36.622Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -533,7 +533,7 @@
     },
     {
       "poolName": "Poule E",
-      "court": 2,
+      "court": 7,
       "time": "09:00",
       "status": "ongoing",
       "team1": "Hurricane Power",
