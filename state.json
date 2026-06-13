@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:51.009Z",
+    "updatedAt": "2026-06-13T07:40:18.101Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,27 +103,27 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
           "name": "Eta United",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 23,
-          "setsWon": 4,
+          "pointsDiff": 44,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
           "name": "Quasar Beam",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 1,
-          "pointsDiff": 41,
+          "pointsDiff": 20,
           "setsWon": 3,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 2
         },
         {
@@ -1042,7 +1042,7 @@
       "poolName": "Poule A",
       "court": 7,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Hawks Elite",
       "team2": "Epsilon Pro",
       "set1Team1": 21,
@@ -1058,11 +1058,11 @@
       "status": "upcoming",
       "team1": "Eta United",
       "team2": "Quasar Beam",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Eta United"
     },
     {
       "poolName": "Poule B",
