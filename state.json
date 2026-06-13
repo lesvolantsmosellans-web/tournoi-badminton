@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:01.065Z",
+    "updatedAt": "2026-06-13T07:39:08.278Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -964,7 +964,7 @@
       "poolName": "Poule D",
       "court": 1,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Comet Tail",
       "team2": "Zeta Club",
       "set1Team1": 21,
@@ -1027,7 +1027,7 @@
     },
     {
       "poolName": "Poule G",
-      "court": 7,
+      "court": 6,
       "time": "13:00",
       "status": "upcoming",
       "team1": "Wolves Pack",
