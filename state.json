@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:36:19.961Z",
+    "updatedAt": "2026-06-13T07:36:23.445Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,27 +291,27 @@
     },
     {
       "poolName": "Poule E",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
-          "name": "Hurricane Power",
-          "wins": 1,
+          "name": "Thunder Bolt",
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 27,
-          "setsWon": 2,
+          "pointsDiff": 38,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Thunder Bolt",
+          "name": "Hurricane Power",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 17,
+          "pointsDiff": 6,
           "setsWon": 2,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -811,11 +811,11 @@
       "status": "finished",
       "team1": "Thunder Bolt",
       "team2": "Hurricane Power",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Thunder Bolt"
     },
     {
       "poolName": "Poule A",
