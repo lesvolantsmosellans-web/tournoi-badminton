@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:24:07.708Z",
+    "updatedAt": "2026-06-13T08:24:10.249Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1471,12 +1471,12 @@
           "team1": "Eagles FC",
           "team2": "Dragons Fire",
           "set1Team1": 21,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 21,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Eagles FC",
           "time": "14:00"
         },
         {
@@ -1520,7 +1520,7 @@
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Eagles FC",
           "team2": "Gagnant Q2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1559,7 +1559,7 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
+          "team1": "Dragons Fire",
           "team2": "Perdant Q3",
           "set1Team1": "",
           "set1Team2": "",
