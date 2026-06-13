@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:33:33.427Z",
+    "updatedAt": "2026-06-13T08:33:41.205Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1588,9 +1588,9 @@
           "team1": "Eagles FC",
           "team2": "Stellar Light",
           "set1Team1": "",
-          "set1Team2": "",
+          "set1Team2": 1,
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 1,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null,
