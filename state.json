@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:30:34.865Z",
+    "updatedAt": "2026-06-13T08:30:50.564Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1150,13 +1150,13 @@
           "phase": "Quart 3",
           "team1": "Galaxy Stars",
           "team2": "Wolves Pack",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Galaxy Stars",
           "time": "15:50"
         },
         {
@@ -1187,7 +1187,7 @@
         },
         {
           "phase": "Demi 2",
-          "team1": "Gagnant Q3",
+          "team1": "Galaxy Stars",
           "team2": "Gagnant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1214,7 +1214,7 @@
         {
           "phase": "Demi 5-8 (1)",
           "team1": "Cyclone Speed",
-          "team2": "Perdant Q3",
+          "team2": "Wolves Pack",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1350,12 +1350,12 @@
           "team1": "Quasar Beam",
           "team2": "Panthers Pro",
           "set1Team1": 1,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 1,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Quasar Beam",
           "time": "22:15"
         },
         {
@@ -1373,7 +1373,7 @@
         },
         {
           "phase": "Finale",
-          "team1": "Gagnant D1",
+          "team1": "Quasar Beam",
           "team2": "Gagnant D2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1412,7 +1412,7 @@
         },
         {
           "phase": "3ème place",
-          "team1": "Perdant D1",
+          "team1": "Panthers Pro",
           "team2": "Perdant D2",
           "set1Team1": "",
           "set1Team2": "",
