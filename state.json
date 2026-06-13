@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:43:51.165Z",
+    "updatedAt": "2026-06-13T08:45:28.167Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1587,13 +1587,13 @@
           "phase": "3ème place",
           "team1": "Lions United",
           "team2": "Phoenix Rise",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Phoenix Rise",
           "time": "01:00"
         },
         {
