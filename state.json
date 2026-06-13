@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:30:58.357Z",
+    "updatedAt": "2026-06-13T08:31:04.803Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1164,12 +1164,12 @@
           "team1": "Eta United",
           "team2": "Comet Tail",
           "set1Team1": 1,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 1,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Eta United",
           "time": "15:50"
         },
         {
@@ -1188,7 +1188,7 @@
         {
           "phase": "Demi 2",
           "team1": "Galaxy Stars",
-          "team2": "Gagnant Q4",
+          "team2": "Eta United",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1227,7 +1227,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Lions United",
-          "team2": "Perdant Q4",
+          "team2": "Comet Tail",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1734,9 +1734,9 @@
           "phase": "Demi 5-8 (1)",
           "team1": "Tornado Spin",
           "team2": "Epsilon Pro",
-          "set1Team1": "",
+          "set1Team1": 1,
           "set1Team2": "",
-          "set2Team1": "",
+          "set2Team1": 1,
           "set2Team2": "",
           "set3Team1": "",
           "set3Team2": "",
