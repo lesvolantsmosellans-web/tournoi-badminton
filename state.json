@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:30:50.564Z",
+    "updatedAt": "2026-06-13T08:30:58.357Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1163,9 +1163,9 @@
           "phase": "Quart 4",
           "team1": "Eta United",
           "team2": "Comet Tail",
-          "set1Team1": "",
+          "set1Team1": 1,
           "set1Team2": "",
-          "set2Team1": "",
+          "set2Team1": 1,
           "set2Team2": "",
           "set3Team1": "",
           "set3Team2": "",
