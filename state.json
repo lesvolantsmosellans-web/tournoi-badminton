@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:45:44.247Z",
+    "updatedAt": "2026-06-13T08:45:46.936Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1241,13 +1241,13 @@
           "phase": "3ème place",
           "team1": "Galaxy Stars",
           "team2": "Gamma Team",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Galaxy Stars",
           "time": "02:50"
         },
         {
