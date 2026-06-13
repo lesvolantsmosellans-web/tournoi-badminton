@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:38:34.302Z",
+    "updatedAt": "2026-06-13T07:38:36.367Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -164,6 +164,16 @@
           "poolPosition": 1
         },
         {
+          "name": "Panthers Pro",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": 20,
+          "setsWon": 2,
+          "setsLost": 2,
+          "poolPosition": 2
+        },
+        {
           "name": "Stellar Light",
           "wins": 1,
           "losses": 0,
@@ -171,16 +181,6 @@
           "pointsDiff": 17,
           "setsWon": 2,
           "setsLost": 0,
-          "poolPosition": 2
-        },
-        {
-          "name": "Panthers Pro",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -1,
-          "setsWon": 1,
-          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -188,9 +188,9 @@
           "wins": 0,
           "losses": 3,
           "draws": 0,
-          "pointsDiff": -58,
+          "pointsDiff": -79,
           "setsWon": 0,
-          "setsLost": 5,
+          "setsLost": 6,
           "poolPosition": 4
         }
       ]
@@ -917,7 +917,7 @@
       "team2": "Tornado Spin",
       "set1Team1": 21,
       "set1Team2": "",
-      "set2Team1": "",
+      "set2Team1": 21,
       "set2Team2": "",
       "winner": "Panthers Pro"
     },
