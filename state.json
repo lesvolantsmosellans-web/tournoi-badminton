@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:43:12.120Z",
+    "updatedAt": "2026-06-13T08:43:15.414Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1522,13 +1522,13 @@
           "phase": "Demi 1",
           "team1": "Panthers Pro",
           "team2": "Lions United",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Panthers Pro",
           "time": "21:20"
         },
         {
@@ -1546,7 +1546,7 @@
         },
         {
           "phase": "Finale",
-          "team1": "Gagnant D1",
+          "team1": "Panthers Pro",
           "team2": "Gagnant D2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1585,7 +1585,7 @@
         },
         {
           "phase": "3ème place",
-          "team1": "Perdant D1",
+          "team1": "Lions United",
           "team2": "Perdant D2",
           "set1Team1": "",
           "set1Team2": "",
