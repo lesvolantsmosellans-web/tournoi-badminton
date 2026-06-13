@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:06.879Z",
+    "updatedAt": "2026-06-13T07:33:08.898Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -155,12 +155,12 @@
       "teams": [
         {
           "name": "Lions United",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "draws": 1,
-          "pointsDiff": 21,
-          "setsWon": 3,
-          "setsLost": 1,
+          "draws": 0,
+          "pointsDiff": 42,
+          "setsWon": 4,
+          "setsLost": 0,
           "poolPosition": 1
         },
         {
@@ -174,16 +174,6 @@
           "poolPosition": 2
         },
         {
-          "name": "Tornado Spin",
-          "wins": 0,
-          "losses": 1,
-          "draws": 1,
-          "pointsDiff": -16,
-          "setsWon": 1,
-          "setsLost": 3,
-          "poolPosition": 3
-        },
-        {
           "name": "Panthers Pro",
           "wins": 0,
           "losses": 1,
@@ -191,6 +181,16 @@
           "pointsDiff": -22,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Tornado Spin",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -37,
+          "setsWon": 0,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -710,8 +710,8 @@
       "set1Team1": 10,
       "set1Team2": 21,
       "set2Team1": 12,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Lions United"
     },
     {
       "poolName": "Poule G",
