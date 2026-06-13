@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:27:36.722Z",
+    "updatedAt": "2026-06-13T08:29:35.817Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1124,9 +1124,9 @@
           "phase": "Quart 1",
           "team1": "Thunder Bolt",
           "team2": "Cyclone Speed",
-          "set1Team1": "",
+          "set1Team1": 21,
           "set1Team2": "",
-          "set2Team1": "",
+          "set2Team1": 21,
           "set2Team2": "",
           "set3Team1": "",
           "set3Team2": "",
