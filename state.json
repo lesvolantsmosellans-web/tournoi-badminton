@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:20.376Z",
+    "updatedAt": "2026-06-13T07:39:22.507Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -385,16 +385,16 @@
     },
     {
       "poolName": "Poule G",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
           "name": "Sharks Attack",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 54,
-          "setsWon": 4,
+          "pointsDiff": 55,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -421,11 +421,11 @@
         {
           "name": "Meteor Strike",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -25,
+          "pointsDiff": -26,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -977,7 +977,7 @@
       "poolName": "Poule H",
       "court": 2,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Nebula Dream",
       "team2": "Dragons Fire",
       "set1Team1": 21,
@@ -993,11 +993,11 @@
       "status": "upcoming",
       "team1": "Sharks Attack",
       "team2": "Meteor Strike",
-      "set1Team1": "",
+      "set1Team1": 1,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Sharks Attack"
     },
     {
       "poolName": "Poule D",
