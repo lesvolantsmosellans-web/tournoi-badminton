@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:31:18.134Z",
+    "updatedAt": "2026-06-13T08:31:24.827Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1575,10 +1575,10 @@
           "team1": "Pulsar Wave",
           "team2": "Alpha Squad",
           "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
+          "set1Team2": 1,
+          "set2Team1": 1,
           "set2Team2": "",
-          "set3Team1": "",
+          "set3Team1": 1,
           "set3Team2": "",
           "winner": null,
           "time": "17:40"
