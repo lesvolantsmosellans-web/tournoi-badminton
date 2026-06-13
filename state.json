@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:42:07.309Z",
+    "updatedAt": "2026-06-13T08:42:11.467Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1336,13 +1336,13 @@
           "phase": "Quart 4",
           "team1": "Nebula Dream",
           "team2": "Tornado Spin",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Tornado Spin",
           "time": "14:55"
         },
         {
@@ -1361,7 +1361,7 @@
         {
           "phase": "Demi 2",
           "team1": "Alpha Squad",
-          "team2": "Gagnant Q4",
+          "team2": "Tornado Spin",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1400,7 +1400,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Thunder Bolt",
-          "team2": "Perdant Q4",
+          "team2": "Nebula Dream",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
