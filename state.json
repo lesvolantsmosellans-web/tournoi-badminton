@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:31:09.198Z",
+    "updatedAt": "2026-06-13T08:31:15.883Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1562,10 +1562,10 @@
           "team1": "Dragons Fire",
           "team2": "Meteor Strike",
           "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
+          "set1Team2": 1,
+          "set2Team1": 1,
           "set2Team2": "",
-          "set3Team1": "",
+          "set3Team1": 1,
           "set3Team2": "",
           "winner": null,
           "time": "17:40"
@@ -1748,12 +1748,12 @@
           "team1": "Supernova Blast",
           "team2": "Bears Strong",
           "set1Team1": 1,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 1,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Supernova Blast",
           "time": "16:45"
         },
         {
@@ -1772,7 +1772,7 @@
         {
           "phase": "5ème place",
           "team1": "Tornado Spin",
-          "team2": "Gagnant D5-8(2)",
+          "team2": "Supernova Blast",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1785,7 +1785,7 @@
         {
           "phase": "7ème place",
           "team1": "Epsilon Pro",
-          "team2": "Perdant D5-8(2)",
+          "team2": "Bears Strong",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
