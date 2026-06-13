@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:08.898Z",
+    "updatedAt": "2026-06-13T07:33:21.326Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -385,7 +385,7 @@
     },
     {
       "poolName": "Poule G",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
@@ -410,22 +410,22 @@
         },
         {
           "name": "Storm Force",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -12,
-          "setsWon": 0,
+          "pointsDiff": 9,
+          "setsWon": 1,
           "setsLost": 2,
           "poolPosition": 3
         },
         {
           "name": "Meteor Strike",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -18,
+          "pointsDiff": -39,
           "setsWon": 0,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -704,7 +704,7 @@
       "poolName": "Poule B",
       "court": 3,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Tornado Spin",
       "team2": "Lions United",
       "set1Team1": 10,
@@ -720,11 +720,11 @@
       "status": "ongoing",
       "team1": "Storm Force",
       "team2": "Meteor Strike",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Storm Force"
     },
     {
       "poolName": "Poule C",
