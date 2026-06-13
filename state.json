@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:12:05.102Z",
+    "updatedAt": "2026-06-13T07:12:09.256Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -650,7 +650,7 @@
     },
     {
       "poolName": "Poule D",
-      "court": 6,
+      "court": 1,
       "time": "09:40",
       "status": "upcoming",
       "team1": "Zeta Club",
