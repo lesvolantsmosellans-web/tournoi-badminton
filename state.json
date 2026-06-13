@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:11:48.453Z",
+    "updatedAt": "2026-06-13T07:11:50.330Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -201,13 +201,13 @@
       "total": 6,
       "teams": [
         {
-          "name": "Lightning Fast",
-          "wins": 1,
+          "name": "Galaxy Stars",
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 5,
+          "draws": 1,
+          "pointsDiff": 7,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -231,12 +231,12 @@
           "poolPosition": 3
         },
         {
-          "name": "Galaxy Stars",
+          "name": "Lightning Fast",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -5,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -7,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -565,10 +565,10 @@
       "team1": "Lightning Fast",
       "team2": "Galaxy Stars",
       "set1Team1": 5,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 9,
       "set2Team2": "",
-      "winner": "Lightning Fast"
+      "winner": null
     },
     {
       "poolName": "Poule G",
