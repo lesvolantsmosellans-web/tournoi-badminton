@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:32:51.973Z",
+    "updatedAt": "2026-06-13T07:32:58.046Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -432,16 +432,16 @@
     },
     {
       "poolName": "Poule H",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Delta Strike",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 10,
-          "setsWon": 2,
+          "pointsDiff": 31,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -456,16 +456,6 @@
           "poolPosition": 2
         },
         {
-          "name": "Nebula Dream",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
-        },
-        {
           "name": "Dragons Fire",
           "wins": 0,
           "losses": 1,
@@ -473,6 +463,16 @@
           "pointsDiff": -7,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Nebula Dream",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
+          "setsWon": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -678,7 +678,7 @@
       "poolName": "Poule H",
       "court": 1,
       "time": "10:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Cyclone Speed",
       "team2": "Dragons Fire",
       "set1Team1": 21,
@@ -694,11 +694,11 @@
       "status": "ongoing",
       "team1": "Delta Strike",
       "team2": "Nebula Dream",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Delta Strike"
     },
     {
       "poolName": "Poule B",
