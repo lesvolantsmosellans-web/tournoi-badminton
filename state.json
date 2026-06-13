@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:41:30.885Z",
+    "updatedAt": "2026-06-13T08:41:36.304Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1682,13 +1682,13 @@
           "phase": "Quart 4",
           "team1": "Tigers Team",
           "team2": "Supernova Blast",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 0,
+          "set2Team1": 21,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Tigers Team",
           "time": "14:00"
         },
         {
@@ -1707,7 +1707,7 @@
         {
           "phase": "Demi 2",
           "team1": "Comet Tail",
-          "team2": "Gagnant Q4",
+          "team2": "Tigers Team",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1746,7 +1746,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Epsilon Pro",
-          "team2": "Perdant Q4",
+          "team2": "Supernova Blast",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
