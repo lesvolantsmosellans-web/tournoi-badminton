@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:42.263Z",
+    "updatedAt": "2026-06-13T07:39:46.412Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,7 +103,7 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
@@ -128,22 +128,22 @@
         },
         {
           "name": "Hawks Elite",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "draws": 1,
-          "pointsDiff": -11,
-          "setsWon": 1,
+          "pointsDiff": 10,
+          "setsWon": 2,
           "setsLost": 3,
           "poolPosition": 3
         },
         {
           "name": "Epsilon Pro",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -53,
+          "pointsDiff": -74,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -1029,7 +1029,7 @@
       "poolName": "Poule G",
       "court": 6,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Wolves Pack",
       "team2": "Storm Force",
       "set1Team1": 21,
@@ -1045,11 +1045,11 @@
       "status": "upcoming",
       "team1": "Hawks Elite",
       "team2": "Epsilon Pro",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Hawks Elite"
     },
     {
       "poolName": "Poule A",
