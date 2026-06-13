@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:11:27.899Z",
+    "updatedAt": "2026-06-13T08:24:07.708Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1470,9 +1470,9 @@
           "phase": "Quart 1",
           "team1": "Eagles FC",
           "team2": "Dragons Fire",
-          "set1Team1": "",
+          "set1Team1": 21,
           "set1Team2": "",
-          "set2Team1": "",
+          "set2Team1": 21,
           "set2Team2": "",
           "set3Team1": "",
           "set3Team2": "",
@@ -1683,12 +1683,12 @@
           "team1": "Gamma Team",
           "team2": "Bears Strong",
           "set1Team1": 21,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 21,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Gamma Team",
           "time": "14:00"
         },
         {
@@ -1707,7 +1707,7 @@
         {
           "phase": "Demi 2",
           "team1": "Nebula Dream",
-          "team2": "Gagnant Q4",
+          "team2": "Gamma Team",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1746,7 +1746,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Supernova Blast",
-          "team2": "Perdant Q4",
+          "team2": "Bears Strong",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
