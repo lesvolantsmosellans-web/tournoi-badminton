@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:36:52.286Z",
+    "updatedAt": "2026-06-13T07:36:55.377Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,7 +103,7 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
@@ -118,11 +118,11 @@
         },
         {
           "name": "Quasar Beam",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 1,
-          "pointsDiff": -1,
-          "setsWon": 1,
+          "pointsDiff": 20,
+          "setsWon": 2,
           "setsLost": 1,
           "poolPosition": 2
         },
@@ -139,11 +139,11 @@
         {
           "name": "Epsilon Pro",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -11,
+          "pointsDiff": -32,
           "setsWon": 0,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -860,7 +860,7 @@
       "poolName": "Poule G",
       "court": 6,
       "time": "11:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Sharks Attack",
       "team2": "Wolves Pack",
       "set1Team1": 21,
@@ -876,11 +876,11 @@
       "status": "upcoming",
       "team1": "Quasar Beam",
       "team2": "Epsilon Pro",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Quasar Beam"
     },
     {
       "poolName": "Poule F",
