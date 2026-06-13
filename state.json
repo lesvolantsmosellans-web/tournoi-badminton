@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:11:36.294Z",
+    "updatedAt": "2026-06-13T07:11:38.415Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -299,7 +299,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 37,
+          "pointsDiff": 27,
           "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
@@ -329,7 +329,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -37,
+          "pointsDiff": -27,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -541,7 +541,7 @@
       "set1Team1": 21,
       "set1Team2": 5,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 10,
       "winner": "Hurricane Power"
     },
     {
