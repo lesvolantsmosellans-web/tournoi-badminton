@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:38:47.741Z",
+    "updatedAt": "2026-06-13T07:38:51.042Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,16 +150,16 @@
     },
     {
       "poolName": "Poule B",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
           "name": "Lions United",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 42,
-          "setsWon": 4,
+          "pointsDiff": 63,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -176,11 +176,11 @@
         {
           "name": "Stellar Light",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 17,
+          "pointsDiff": -4,
           "setsWon": 2,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 3
         },
         {
@@ -938,7 +938,7 @@
       "poolName": "Poule C",
       "court": 6,
       "time": "12:20",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Lightning Fast",
       "team2": "Supernova Blast",
       "set1Team1": 21,
@@ -955,10 +955,10 @@
       "team1": "Stellar Light",
       "team2": "Lions United",
       "set1Team1": "",
-      "set1Team2": "",
+      "set1Team2": 21,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Lions United"
     },
     {
       "poolName": "Poule D",
