@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:01.909Z",
+    "updatedAt": "2026-06-13T07:33:04.495Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,19 +150,9 @@
     },
     {
       "poolName": "Poule B",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
-        {
-          "name": "Lions United",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 22,
-          "setsWon": 2,
-          "setsLost": 0,
-          "poolPosition": 1
-        },
         {
           "name": "Stellar Light",
           "wins": 1,
@@ -171,15 +161,25 @@
           "pointsDiff": 17,
           "setsWon": 2,
           "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Lions United",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": 12,
+          "setsWon": 2,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
           "name": "Tornado Spin",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -17,
-          "setsWon": 0,
+          "pointsDiff": -7,
+          "setsWon": 1,
           "setsLost": 2,
           "poolPosition": 3
         },
@@ -691,7 +691,7 @@
       "poolName": "Poule H",
       "court": 4,
       "time": "10:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Delta Strike",
       "team2": "Nebula Dream",
       "set1Team1": 21,
@@ -707,11 +707,11 @@
       "status": "ongoing",
       "team1": "Tornado Spin",
       "team2": "Lions United",
-      "set1Team1": "",
+      "set1Team1": 10,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Tornado Spin"
     },
     {
       "poolName": "Poule G",
