@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:08.278Z",
+    "updatedAt": "2026-06-13T07:39:13.781Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -432,7 +432,7 @@
     },
     {
       "poolName": "Poule H",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -456,22 +456,22 @@
           "poolPosition": 2
         },
         {
-          "name": "Dragons Fire",
-          "wins": 0,
-          "losses": 1,
-          "draws": 1,
-          "pointsDiff": 7,
+          "name": "Nebula Dream",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": 0,
           "setsWon": 1,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
-          "name": "Nebula Dream",
+          "name": "Dragons Fire",
           "wins": 0,
           "losses": 2,
-          "draws": 0,
-          "pointsDiff": -21,
-          "setsWon": 0,
+          "draws": 1,
+          "pointsDiff": -14,
+          "setsWon": 1,
           "setsLost": 4,
           "poolPosition": 4
         }
@@ -980,11 +980,11 @@
       "status": "upcoming",
       "team1": "Nebula Dream",
       "team2": "Dragons Fire",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Nebula Dream"
     },
     {
       "poolName": "Poule G",
