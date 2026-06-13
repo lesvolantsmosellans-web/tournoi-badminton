@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:26:38.504Z",
+    "updatedAt": "2026-06-13T07:27:03.972Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -652,7 +652,7 @@
       "poolName": "Poule D",
       "court": 1,
       "time": "09:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Zeta Club",
       "team2": "Bears Strong",
       "set1Team1": 22,
@@ -676,7 +676,7 @@
     },
     {
       "poolName": "Poule H",
-      "court": 2,
+      "court": 1,
       "time": "10:20",
       "status": "ongoing",
       "team1": "Cyclone Speed",
