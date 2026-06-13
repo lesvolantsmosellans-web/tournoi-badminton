@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:40:25.076Z",
+    "updatedAt": "2026-06-13T07:40:27.278Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -168,7 +168,7 @@
           "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 43,
+          "pointsDiff": 24,
           "setsWon": 4,
           "setsLost": 2,
           "poolPosition": 2
@@ -178,7 +178,7 @@
           "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -48,
+          "pointsDiff": -29,
           "setsWon": 2,
           "setsLost": 4,
           "poolPosition": 3
@@ -1074,7 +1074,7 @@
       "set1Team1": 21,
       "set1Team2": 19,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 19,
       "winner": "Panthers Pro"
     },
     {
