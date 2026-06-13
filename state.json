@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:25.323Z",
+    "updatedAt": "2026-06-13T07:33:28.048Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,7 +197,7 @@
     },
     {
       "poolName": "Poule C",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
@@ -211,14 +211,24 @@
           "poolPosition": 1
         },
         {
+          "name": "Lightning Fast",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -7,
+          "setsWon": 1,
+          "setsLost": 2,
+          "poolPosition": 2
+        },
+        {
           "name": "Alpha Squad",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 8,
+          "pointsDiff": -13,
           "setsWon": 2,
-          "setsLost": 0,
-          "poolPosition": 2
+          "setsLost": 1,
+          "poolPosition": 3
         },
         {
           "name": "Supernova Blast",
@@ -226,16 +236,6 @@
           "losses": 1,
           "draws": 0,
           "pointsDiff": -8,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Lightning Fast",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -28,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -717,7 +717,7 @@
       "poolName": "Poule G",
       "court": 5,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Storm Force",
       "team2": "Meteor Strike",
       "set1Team1": 21,
@@ -733,11 +733,11 @@
       "status": "ongoing",
       "team1": "Lightning Fast",
       "team2": "Alpha Squad",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Lightning Fast"
     },
     {
       "poolName": "Poule E",
