@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:22.507Z",
+    "updatedAt": "2026-06-13T07:39:24.860Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -390,13 +390,23 @@
       "teams": [
         {
           "name": "Sharks Attack",
-          "wins": 3,
-          "losses": 0,
+          "wins": 2,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 55,
-          "setsWon": 5,
-          "setsLost": 0,
+          "pointsDiff": 34,
+          "setsWon": 4,
+          "setsLost": 1,
           "poolPosition": 1
+        },
+        {
+          "name": "Meteor Strike",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -5,
+          "setsWon": 1,
+          "setsLost": 4,
+          "poolPosition": 2
         },
         {
           "name": "Storm Force",
@@ -406,7 +416,7 @@
           "pointsDiff": -5,
           "setsWon": 2,
           "setsLost": 2,
-          "poolPosition": 2
+          "poolPosition": 3
         },
         {
           "name": "Wolves Pack",
@@ -416,16 +426,6 @@
           "pointsDiff": -24,
           "setsWon": 2,
           "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Meteor Strike",
-          "wins": 0,
-          "losses": 3,
-          "draws": 0,
-          "pointsDiff": -26,
-          "setsWon": 0,
-          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -994,10 +994,10 @@
       "team1": "Sharks Attack",
       "team2": "Meteor Strike",
       "set1Team1": 1,
-      "set1Team2": "",
+      "set1Team2": 21,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": "Sharks Attack"
+      "winner": "Meteor Strike"
     },
     {
       "poolName": "Poule D",
