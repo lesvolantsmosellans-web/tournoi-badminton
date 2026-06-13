@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:32.439Z",
+    "updatedAt": "2026-06-13T07:19:34.015Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -678,7 +678,7 @@
       "poolName": "Poule H",
       "court": 2,
       "time": "10:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Cyclone Speed",
       "team2": "Dragons Fire",
       "set1Team1": "",
@@ -691,7 +691,7 @@
       "poolName": "Poule H",
       "court": 4,
       "time": "10:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Delta Strike",
       "team2": "Nebula Dream",
       "set1Team1": "",
