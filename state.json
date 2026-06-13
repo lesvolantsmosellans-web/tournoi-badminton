@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:05:34.945Z",
+    "updatedAt": "2026-06-13T07:05:47.532Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -437,12 +437,12 @@
       "teams": [
         {
           "name": "Cyclone Speed",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 15,
+          "draws": 1,
+          "pointsDiff": 1711,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -468,10 +468,10 @@
         {
           "name": "Delta Strike",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -15,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -1711,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -500,10 +500,10 @@
       "team1": "Cyclone Speed",
       "team2": "Delta Strike",
       "set1Team1": 15,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 1717,
       "set2Team2": "",
-      "winner": "Cyclone Speed"
+      "winner": null
     },
     {
       "poolName": "Poule D",
