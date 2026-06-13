@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:48.376Z",
+    "updatedAt": "2026-06-13T07:26:08.583Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,7 +150,7 @@
     },
     {
       "poolName": "Poule B",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
         {
@@ -165,22 +165,22 @@
         },
         {
           "name": "Stellar Light",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 2
         },
         {
           "name": "Tornado Spin",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 3
         },
         {
@@ -613,7 +613,7 @@
       "poolName": "Poule E",
       "court": 5,
       "time": "09:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Thunder Bolt",
       "team2": "Gamma Team",
       "set1Team1": 21,
@@ -629,11 +629,11 @@
       "status": "ongoing",
       "team1": "Stellar Light",
       "team2": "Tornado Spin",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Stellar Light"
     },
     {
       "poolName": "Poule C",
