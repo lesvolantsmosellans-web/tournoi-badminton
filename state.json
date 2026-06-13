@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:32.885Z",
+    "updatedAt": "2026-06-13T07:39:35.426Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,16 +291,16 @@
     },
     {
       "poolName": "Poule E",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
           "name": "Thunder Bolt",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 57,
-          "setsWon": 4,
+          "pointsDiff": 78,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -317,11 +317,11 @@
         {
           "name": "Pulsar Wave",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -20,
+          "pointsDiff": -41,
           "setsWon": 2,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -1003,7 +1003,7 @@
       "poolName": "Poule D",
       "court": 4,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Eagles FC",
       "team2": "Bears Strong",
       "set1Team1": 21,
@@ -1019,11 +1019,11 @@
       "status": "upcoming",
       "team1": "Thunder Bolt",
       "team2": "Pulsar Wave",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Thunder Bolt"
     },
     {
       "poolName": "Poule G",
