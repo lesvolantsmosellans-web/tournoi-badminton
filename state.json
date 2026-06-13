@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:27:35.884Z",
+    "updatedAt": "2026-06-13T07:27:38.273Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -107,16 +107,6 @@
       "total": 6,
       "teams": [
         {
-          "name": "Hawks Elite",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 22,
-          "setsWon": 2,
-          "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
           "name": "Eta United",
           "wins": 1,
           "losses": 0,
@@ -124,7 +114,27 @@
           "pointsDiff": 11,
           "setsWon": 2,
           "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Hawks Elite",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 1,
+          "setsWon": 1,
+          "setsLost": 1,
           "poolPosition": 2
+        },
+        {
+          "name": "Quasar Beam",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -1,
+          "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
         },
         {
           "name": "Epsilon Pro",
@@ -132,16 +142,6 @@
           "losses": 1,
           "draws": 0,
           "pointsDiff": -11,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Quasar Beam",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -22,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -671,8 +671,8 @@
       "set1Team1": 21,
       "set1Team2": 17,
       "set2Team1": 18,
-      "set2Team2": "",
-      "winner": "Hawks Elite"
+      "set2Team2": 21,
+      "winner": null
     },
     {
       "poolName": "Poule H",
