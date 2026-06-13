@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:36:17.842Z",
+    "updatedAt": "2026-06-13T07:36:19.961Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -808,7 +808,7 @@
       "poolName": "Poule E",
       "court": 2,
       "time": "11:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Thunder Bolt",
       "team2": "Hurricane Power",
       "set1Team1": "",
