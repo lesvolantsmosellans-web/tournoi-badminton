@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:37:10.393Z",
+    "updatedAt": "2026-06-13T07:38:28.316Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,28 +197,18 @@
     },
     {
       "poolName": "Poule C",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
           "name": "Galaxy Stars",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 45,
-          "setsWon": 4,
+          "pointsDiff": 66,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
-        },
-        {
-          "name": "Alpha Squad",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -5,
-          "setsWon": 2,
-          "setsLost": 2,
-          "poolPosition": 2
         },
         {
           "name": "Lightning Fast",
@@ -228,6 +218,16 @@
           "pointsDiff": -15,
           "setsWon": 2,
           "setsLost": 2,
+          "poolPosition": 2
+        },
+        {
+          "name": "Alpha Squad",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -26,
+          "setsWon": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -902,11 +902,11 @@
       "status": "upcoming",
       "team1": "Galaxy Stars",
       "team2": "Alpha Squad",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Galaxy Stars"
     },
     {
       "poolName": "Poule B",
