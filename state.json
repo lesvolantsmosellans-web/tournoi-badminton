@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:24.860Z",
+    "updatedAt": "2026-06-13T07:39:27.588Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -393,9 +393,9 @@
           "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 34,
+          "pointsDiff": 14,
           "setsWon": 4,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 1
         },
         {
@@ -403,8 +403,8 @@
           "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -5,
-          "setsWon": 1,
+          "pointsDiff": 15,
+          "setsWon": 2,
           "setsLost": 4,
           "poolPosition": 2
         },
@@ -995,8 +995,8 @@
       "team2": "Meteor Strike",
       "set1Team1": 1,
       "set1Team2": 21,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 1,
+      "set2Team2": 21,
       "winner": "Meteor Strike"
     },
     {
