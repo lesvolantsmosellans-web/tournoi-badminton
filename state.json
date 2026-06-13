@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:31:26.527Z",
+    "updatedAt": "2026-06-13T08:31:32.657Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1389,9 +1389,9 @@
           "team1": "Lightning Fast",
           "team2": "Perdant Q3",
           "set1Team1": "",
-          "set1Team2": "",
+          "set1Team2": 1,
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 1,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null,
