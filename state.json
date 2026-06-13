@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:34:55.846Z",
+    "updatedAt": "2026-06-13T08:35:07.414Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1548,13 +1548,13 @@
           "phase": "Finale",
           "team1": "Theta Elite",
           "team2": "Hawks Elite",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 17,
+          "set2Team1": 17,
+          "set2Team2": 21,
+          "set3Team1": 24,
+          "set3Team2": 22,
+          "winner": "Theta Elite",
           "time": "04:40"
         },
         {
