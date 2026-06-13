@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:32:37.658Z",
+    "updatedAt": "2026-06-13T08:32:42.411Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1522,13 +1522,13 @@
           "phase": "Demi 1",
           "team1": "Eagles FC",
           "team2": "Theta Elite",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Theta Elite",
           "time": "21:20"
         },
         {
@@ -1546,7 +1546,7 @@
         },
         {
           "phase": "Finale",
-          "team1": "Gagnant D1",
+          "team1": "Theta Elite",
           "team2": "Gagnant D2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1585,7 +1585,7 @@
         },
         {
           "phase": "3ème place",
-          "team1": "Perdant D1",
+          "team1": "Eagles FC",
           "team2": "Perdant D2",
           "set1Team1": "",
           "set1Team2": "",
