@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:26:24.024Z",
+    "updatedAt": "2026-06-13T07:26:29.997Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,9 +244,19 @@
     },
     {
       "poolName": "Poule D",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Zeta Club",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 22,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Comet Tail",
           "wins": 0,
@@ -255,27 +265,7 @@
           "pointsDiff": 1,
           "setsWon": 1,
           "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Zeta Club",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Bears Strong",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Eagles FC",
@@ -284,6 +274,16 @@
           "draws": 1,
           "pointsDiff": -1,
           "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
+        },
+        {
+          "name": "Bears Strong",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -22,
+          "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -655,11 +655,11 @@
       "status": "ongoing",
       "team1": "Zeta Club",
       "team2": "Bears Strong",
-      "set1Team1": "",
+      "set1Team1": 22,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Zeta Club"
     },
     {
       "poolName": "Poule A",
