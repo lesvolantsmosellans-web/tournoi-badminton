@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:42:20.803Z",
+    "updatedAt": "2026-06-13T08:42:24.154Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1163,13 +1163,13 @@
           "phase": "Quart 4",
           "team1": "Lightning Fast",
           "team2": "Meteor Strike",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Meteor Strike",
           "time": "15:50"
         },
         {
@@ -1188,7 +1188,7 @@
         {
           "phase": "Demi 2",
           "team1": "Gamma Team",
-          "team2": "Gagnant Q4",
+          "team2": "Meteor Strike",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1227,7 +1227,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Beta Force",
-          "team2": "Perdant Q4",
+          "team2": "Lightning Fast",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
