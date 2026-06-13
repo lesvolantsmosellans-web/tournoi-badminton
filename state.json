@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:03:06.581Z",
+    "updatedAt": "2026-06-13T07:03:08.763Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -522,7 +522,7 @@
       "poolName": "Poule B",
       "court": 2,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Panthers Pro",
       "team2": "Lions United",
       "set1Team1": "",
@@ -535,7 +535,7 @@
       "poolName": "Poule E",
       "court": 2,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Hurricane Power",
       "team2": "Pulsar Wave",
       "set1Team1": "",
