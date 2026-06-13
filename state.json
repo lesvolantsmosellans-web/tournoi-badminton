@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:07:06.066Z",
+    "updatedAt": "2026-06-13T07:07:10.077Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -154,12 +154,12 @@
       "total": 6,
       "teams": [
         {
-          "name": "Panthers Pro",
+          "name": "Lions United",
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 10,
-          "setsWon": 1,
+          "pointsDiff": 22,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -184,13 +184,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Lions United",
+          "name": "Panthers Pro",
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -10,
+          "pointsDiff": -22,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -526,10 +526,10 @@
       "team1": "Panthers Pro",
       "team2": "Lions United",
       "set1Team1": 10,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Panthers Pro"
+      "set1Team2": 21,
+      "set2Team1": 10,
+      "set2Team2": 21,
+      "winner": "Lions United"
     },
     {
       "poolName": "Poule E",
