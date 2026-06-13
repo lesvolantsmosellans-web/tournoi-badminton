@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:04.495Z",
+    "updatedAt": "2026-06-13T07:33:06.879Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -154,6 +154,16 @@
       "total": 6,
       "teams": [
         {
+          "name": "Lions United",
+          "wins": 1,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 21,
+          "setsWon": 3,
+          "setsLost": 1,
+          "poolPosition": 1
+        },
+        {
           "name": "Stellar Light",
           "wins": 1,
           "losses": 0,
@@ -161,26 +171,16 @@
           "pointsDiff": 17,
           "setsWon": 2,
           "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Lions United",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": 12,
-          "setsWon": 2,
-          "setsLost": 1,
           "poolPosition": 2
         },
         {
           "name": "Tornado Spin",
-          "wins": 1,
+          "wins": 0,
           "losses": 1,
-          "draws": 0,
-          "pointsDiff": -7,
+          "draws": 1,
+          "pointsDiff": -16,
           "setsWon": 1,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -708,10 +708,10 @@
       "team1": "Tornado Spin",
       "team2": "Lions United",
       "set1Team1": 10,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 12,
       "set2Team2": "",
-      "winner": "Tornado Spin"
+      "winner": null
     },
     {
       "poolName": "Poule G",
