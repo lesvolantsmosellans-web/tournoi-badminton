@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:27:20.927Z",
+    "updatedAt": "2026-06-13T07:27:23.071Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -717,7 +717,7 @@
       "poolName": "Poule G",
       "court": 5,
       "time": "11:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Storm Force",
       "team2": "Meteor Strike",
       "set1Team1": "",
@@ -730,7 +730,7 @@
       "poolName": "Poule C",
       "court": 6,
       "time": "11:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Lightning Fast",
       "team2": "Alpha Squad",
       "set1Team1": "",
