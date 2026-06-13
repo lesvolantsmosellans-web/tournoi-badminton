@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:33:44.930Z",
+    "updatedAt": "2026-06-13T08:33:48.947Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1614,9 +1614,9 @@
           "team1": "Meteor Strike",
           "team2": "Alpha Squad",
           "set1Team1": "",
-          "set1Team2": "",
+          "set1Team2": 1,
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 1,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null,
