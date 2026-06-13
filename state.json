@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:05:23.225Z",
+    "updatedAt": "2026-06-13T07:05:31.770Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -346,7 +346,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 32,
+          "pointsDiff": 13,
           "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
@@ -376,7 +376,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -32,
+          "pointsDiff": -13,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -489,14 +489,14 @@
       "set1Team1": 21,
       "set1Team2": 10,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 19,
       "winner": "Tigers Team"
     },
     {
       "poolName": "Poule H",
       "court": 1,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Cyclone Speed",
       "team2": "Delta Strike",
       "set1Team1": "",
