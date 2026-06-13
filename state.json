@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:34:03.082Z",
+    "updatedAt": "2026-06-13T07:34:05.568Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -437,12 +437,12 @@
       "teams": [
         {
           "name": "Delta Strike",
-          "wins": 3,
+          "wins": 2,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 26,
-          "setsWon": 6,
-          "setsLost": 0,
+          "draws": 1,
+          "pointsDiff": 5,
+          "setsWon": 5,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -456,6 +456,16 @@
           "poolPosition": 2
         },
         {
+          "name": "Dragons Fire",
+          "wins": 0,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": 7,
+          "setsWon": 1,
+          "setsLost": 3,
+          "poolPosition": 3
+        },
+        {
           "name": "Nebula Dream",
           "wins": 0,
           "losses": 1,
@@ -463,16 +473,6 @@
           "pointsDiff": -9,
           "setsWon": 0,
           "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Dragons Fire",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "pointsDiff": -14,
-          "setsWon": 0,
-          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -801,8 +801,8 @@
       "set1Team1": 21,
       "set1Team2": 15,
       "set2Team1": 1,
-      "set2Team2": "",
-      "winner": "Delta Strike"
+      "set2Team2": 21,
+      "winner": null
     },
     {
       "poolName": "Poule E",
