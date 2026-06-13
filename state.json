@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:33:15.677Z",
+    "updatedAt": "2026-06-13T08:33:25.467Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1760,13 +1760,13 @@
           "phase": "3ème place",
           "team1": "Beta Force",
           "team2": "Nebula Dream",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 1,
+          "set3Team2": 0,
+          "winner": "Beta Force",
           "time": "00:05"
         },
         {
