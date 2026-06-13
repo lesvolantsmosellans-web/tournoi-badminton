@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:52.400Z",
+    "updatedAt": "2026-06-13T07:33:55.915Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -338,27 +338,27 @@
     },
     {
       "poolName": "Poule F",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
-          "name": "Tigers Team",
-          "wins": 1,
+          "name": "Phoenix Rise",
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 13,
-          "setsWon": 2,
+          "pointsDiff": 26,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Phoenix Rise",
+          "name": "Tigers Team",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 6,
+          "pointsDiff": -7,
           "setsWon": 2,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -769,7 +769,7 @@
       "poolName": "Poule D",
       "court": 7,
       "time": "11:00",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Comet Tail",
       "team2": "Bears Strong",
       "set1Team1": 21,
@@ -785,11 +785,11 @@
       "status": "upcoming",
       "team1": "Tigers Team",
       "team2": "Phoenix Rise",
-      "set1Team1": "",
-      "set1Team2": "",
+      "set1Team1": 1,
+      "set1Team2": 21,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Phoenix Rise"
     },
     {
       "poolName": "Poule H",
