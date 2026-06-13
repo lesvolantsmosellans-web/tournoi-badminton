@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:36.290Z",
+    "updatedAt": "2026-06-13T07:19:37.829Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -639,7 +639,7 @@
       "poolName": "Poule C",
       "court": 7,
       "time": "09:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Supernova Blast",
       "team2": "Alpha Squad",
       "set1Team1": "",
@@ -652,7 +652,7 @@
       "poolName": "Poule D",
       "court": 1,
       "time": "09:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Zeta Club",
       "team2": "Bears Strong",
       "set1Team1": "",
