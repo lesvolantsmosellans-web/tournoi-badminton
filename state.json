@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:41:57.938Z",
+    "updatedAt": "2026-06-13T08:42:01.492Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1297,13 +1297,13 @@
           "phase": "Quart 1",
           "team1": "Hawks Elite",
           "team2": "Delta Strike",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Delta Strike",
           "time": "14:55"
         },
         {
@@ -1347,7 +1347,7 @@
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Delta Strike",
           "team2": "Gagnant Q2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1386,7 +1386,7 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
+          "team1": "Hawks Elite",
           "team2": "Perdant Q3",
           "set1Team1": "",
           "set1Team2": "",
