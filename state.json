@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:55.915Z",
+    "updatedAt": "2026-06-13T07:33:58.321Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -346,8 +346,8 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 26,
-          "setsWon": 3,
+          "pointsDiff": 46,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -356,9 +356,9 @@
           "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -7,
+          "pointsDiff": -27,
           "setsWon": 2,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 2
         },
         {
@@ -787,8 +787,8 @@
       "team2": "Phoenix Rise",
       "set1Team1": 1,
       "set1Team2": 21,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 1,
+      "set2Team2": 21,
       "winner": "Phoenix Rise"
     },
     {
