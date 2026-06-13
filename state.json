@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:08:36.930Z",
+    "updatedAt": "2026-06-13T08:10:32.930Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1669,10 +1669,10 @@
           "phase": "Quart 3",
           "team1": "Nebula Dream",
           "team2": "Epsilon Pro",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 10,
+          "set2Team1": 21,
+          "set2Team2": 10,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null,
