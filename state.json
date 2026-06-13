@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:38:31.626Z",
+    "updatedAt": "2026-06-13T07:38:34.302Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,7 +150,7 @@
     },
     {
       "poolName": "Poule B",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
@@ -175,22 +175,22 @@
         },
         {
           "name": "Panthers Pro",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -22,
-          "setsWon": 0,
+          "pointsDiff": -1,
+          "setsWon": 1,
           "setsLost": 2,
           "poolPosition": 3
         },
         {
           "name": "Tornado Spin",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -37,
+          "pointsDiff": -58,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -899,7 +899,7 @@
       "poolName": "Poule C",
       "court": 3,
       "time": "12:20",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Galaxy Stars",
       "team2": "Alpha Squad",
       "set1Team1": 21,
@@ -915,11 +915,11 @@
       "status": "upcoming",
       "team1": "Panthers Pro",
       "team2": "Tornado Spin",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Panthers Pro"
     },
     {
       "poolName": "Poule F",
