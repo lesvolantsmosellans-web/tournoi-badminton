@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:42:04.659Z",
+    "updatedAt": "2026-06-13T08:42:07.309Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1323,13 +1323,13 @@
           "phase": "Quart 3",
           "team1": "Alpha Squad",
           "team2": "Wolves Pack",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Alpha Squad",
           "time": "14:55"
         },
         {
@@ -1360,7 +1360,7 @@
         },
         {
           "phase": "Demi 2",
-          "team1": "Gagnant Q3",
+          "team1": "Alpha Squad",
           "team2": "Gagnant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1387,7 +1387,7 @@
         {
           "phase": "Demi 5-8 (1)",
           "team1": "Hawks Elite",
-          "team2": "Perdant Q3",
+          "team2": "Wolves Pack",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
