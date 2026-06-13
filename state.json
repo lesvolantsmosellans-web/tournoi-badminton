@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:25:16.386Z",
+    "updatedAt": "2026-06-13T08:26:51.125Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1509,13 +1509,13 @@
           "phase": "Quart 4",
           "team1": "Hawks Elite",
           "team2": "Alpha Squad",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 15,
+          "set2Team1": 21,
+          "set2Team2": 15,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Hawks Elite",
           "time": "14:55"
         },
         {
@@ -1534,7 +1534,7 @@
         {
           "phase": "Demi 2",
           "team1": "Stellar Light",
-          "team2": "Gagnant Q4",
+          "team2": "Hawks Elite",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1573,7 +1573,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Pulsar Wave",
-          "team2": "Perdant Q4",
+          "team2": "Alpha Squad",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
