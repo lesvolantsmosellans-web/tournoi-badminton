@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:18:42.605Z",
+    "updatedAt": "2026-06-13T07:19:15.268Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -338,9 +338,19 @@
     },
     {
       "poolName": "Poule F",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Beta Force",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 17,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Tigers Team",
           "wins": 1,
@@ -349,27 +359,7 @@
           "pointsDiff": 13,
           "setsWon": 2,
           "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Beta Force",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Phoenix Rise",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Theta Elite",
@@ -379,6 +369,16 @@
           "pointsDiff": -13,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Phoenix Rise",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -17,
+          "setsWon": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -574,7 +574,7 @@
       "poolName": "Poule G",
       "court": 2,
       "time": "09:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Sharks Attack",
       "team2": "Storm Force",
       "set1Team1": 21,
@@ -590,11 +590,11 @@
       "status": "ongoing",
       "team1": "Beta Force",
       "team2": "Phoenix Rise",
-      "set1Team1": "",
+      "set1Team1": 17,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Beta Force"
     },
     {
       "poolName": "Poule A",
