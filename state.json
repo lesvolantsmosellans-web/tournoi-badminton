@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:26:51.125Z",
+    "updatedAt": "2026-06-13T08:27:04.962Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1297,12 +1297,12 @@
           "phase": "Quart 1",
           "team1": "Lightning Fast",
           "team2": "Quasar Beam",
-          "set1Team1": "",
+          "set1Team1": 21,
           "set1Team2": "",
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 21,
           "set3Team1": "",
-          "set3Team2": "",
+          "set3Team2": 21,
           "winner": null,
           "time": "14:55"
         },
