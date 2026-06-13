@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:11:45.911Z",
+    "updatedAt": "2026-06-13T07:11:48.453Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,28 +197,18 @@
     },
     {
       "poolName": "Poule C",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
           "name": "Lightning Fast",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 5,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
-        },
-        {
-          "name": "Galaxy Stars",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 2
         },
         {
           "name": "Supernova Blast",
@@ -228,7 +218,7 @@
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
-          "poolPosition": 3
+          "poolPosition": 2
         },
         {
           "name": "Alpha Squad",
@@ -238,6 +228,16 @@
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
+          "poolPosition": 3
+        },
+        {
+          "name": "Galaxy Stars",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -5,
+          "setsWon": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -548,7 +548,7 @@
       "poolName": "Poule G",
       "court": 4,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Wolves Pack",
       "team2": "Meteor Strike",
       "set1Team1": 21,
@@ -564,11 +564,11 @@
       "status": "ongoing",
       "team1": "Lightning Fast",
       "team2": "Galaxy Stars",
-      "set1Team1": "",
+      "set1Team1": 5,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Lightning Fast"
     },
     {
       "poolName": "Poule G",
