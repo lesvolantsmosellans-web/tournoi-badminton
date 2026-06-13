@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:24:40.569Z",
+    "updatedAt": "2026-06-13T08:25:07.120Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1496,13 +1496,13 @@
           "phase": "Quart 3",
           "team1": "Meteor Strike",
           "team2": "Stellar Light",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 18,
+          "set2Team1": 18,
+          "set2Team2": 21,
+          "set3Team1": 18,
+          "set3Team2": 21,
+          "winner": "Stellar Light",
           "time": "14:00"
         },
         {
@@ -1533,7 +1533,7 @@
         },
         {
           "phase": "Demi 2",
-          "team1": "Gagnant Q3",
+          "team1": "Stellar Light",
           "team2": "Gagnant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1560,7 +1560,7 @@
         {
           "phase": "Demi 5-8 (1)",
           "team1": "Dragons Fire",
-          "team2": "Perdant Q3",
+          "team2": "Meteor Strike",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
