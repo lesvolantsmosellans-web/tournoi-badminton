@@ -287,6 +287,7 @@ function renderPlanningTournois(d,el){
       if(!m.team1||!m.team2) return;
       var isPlaceholder=function(n){return !n||n.startsWith('Gagnant')||n.startsWith('Perdant')||n.startsWith('1er')||n.startsWith('2e')||n.startsWith('3e')||n.startsWith('Meilleur')||n.startsWith('Autre');};
       var p1=isPlaceholder(m.team1), p2=isPlaceholder(m.team2);
+      var hasScore=(m.set1Team1!==''&&m.set1Team1!==null&&m.set1Team1!==undefined)||(m.set1Team2!==''&&m.set1Team2!==null&&m.set1Team2!==undefined);
       var entry={tournName:t.name,tournColor:t.color,tournEmoji:t.emoji||'🏸',
                  phase:m.phase,team1:m.team1,team2:m.team2,
                  set1Team1:m.set1Team1||'',set1Team2:m.set1Team2||'',
@@ -295,6 +296,7 @@ function renderPlanningTournois(d,el){
                  winner:m.winner,court:m.court,time:m.time,
                  placeholder:p1||p2};
       if(m.winner) done.push(entry);
+      else if(!p1&&!p2&&hasScore) ongoing.push(entry);
       else if(!p1&&!p2) upcoming.push(entry);
       // Les matchs avec placeholder ne sont pas listés dans le planning
     });
@@ -305,6 +307,10 @@ function renderPlanningTournois(d,el){
   }
 
   var html='';
+  if(ongoing.length){
+    html+='<div class="section-title" style="color:#3498db">⚡ En cours ('+ongoing.length+')</div>';
+    ongoing.forEach(function(m){html+=buildTournMatchCard(m,'ongoing');});
+  }
   if(upcoming.length){
     // Grouper par heure ou phase
     var byTime={};
