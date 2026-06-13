@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:41:25.701Z",
+    "updatedAt": "2026-06-13T08:41:30.885Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1669,13 +1669,13 @@
           "phase": "Quart 3",
           "team1": "Comet Tail",
           "team2": "Hurricane Power",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 0,
+          "set2Team1": 21,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Comet Tail",
           "time": "14:00"
         },
         {
@@ -1706,7 +1706,7 @@
         },
         {
           "phase": "Demi 2",
-          "team1": "Gagnant Q3",
+          "team1": "Comet Tail",
           "team2": "Gagnant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1733,7 +1733,7 @@
         {
           "phase": "Demi 5-8 (1)",
           "team1": "Storm Force",
-          "team2": "Perdant Q3",
+          "team2": "Hurricane Power",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
