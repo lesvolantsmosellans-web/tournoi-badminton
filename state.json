@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:27:19.140Z",
+    "updatedAt": "2026-06-13T07:27:20.927Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -704,7 +704,7 @@
       "poolName": "Poule B",
       "court": 3,
       "time": "11:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Tornado Spin",
       "team2": "Lions United",
       "set1Team1": "",
