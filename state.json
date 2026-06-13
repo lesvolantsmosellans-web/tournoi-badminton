@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:26:16.650Z",
+    "updatedAt": "2026-06-13T07:26:20.436Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -212,21 +212,21 @@
         },
         {
           "name": "Supernova Blast",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 15,
+          "draws": 1,
+          "pointsDiff": 14,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
           "name": "Alpha Squad",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -15,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -14,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 3
         },
@@ -643,10 +643,10 @@
       "team1": "Supernova Blast",
       "team2": "Alpha Squad",
       "set1Team1": 15,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 20,
       "set2Team2": "",
-      "winner": "Supernova Blast"
+      "winner": null
     },
     {
       "poolName": "Poule D",
