@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:06:14.498Z",
+    "updatedAt": "2026-06-13T07:06:17.202Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -249,13 +249,23 @@
       "teams": [
         {
           "name": "Comet Tail",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 21,
+          "draws": 1,
+          "pointsDiff": 0,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
+        },
+        {
+          "name": "Eagles FC",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 0,
+          "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 2
         },
         {
           "name": "Zeta Club",
@@ -265,7 +275,7 @@
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
-          "poolPosition": 2
+          "poolPosition": 3
         },
         {
           "name": "Bears Strong",
@@ -275,16 +285,6 @@
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
-          "poolPosition": 3
-        },
-        {
-          "name": "Eagles FC",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -21,
-          "setsWon": 0,
-          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -515,8 +515,8 @@
       "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Comet Tail"
+      "set2Team2": 21,
+      "winner": null
     },
     {
       "poolName": "Poule B",
