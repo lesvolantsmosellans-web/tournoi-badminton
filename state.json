@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:35:17.978Z",
+    "updatedAt": "2026-06-13T08:35:31.595Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1202,13 +1202,13 @@
           "phase": "Finale",
           "team1": "Tigers Team",
           "team2": "Galaxy Stars",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 25,
+          "set1Team2": 23,
+          "set2Team1": 23,
+          "set2Team2": 21,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Tigers Team",
           "time": "06:30"
         },
         {
@@ -1840,5 +1840,186 @@
       "Tornado Spin"
     ]
   },
-  "finalRanking": []
+  "finalRanking": [
+    {
+      "pos": 1,
+      "team": "Tigers Team",
+      "tourn": "OR",
+      "medal": "🥇"
+    },
+    {
+      "pos": 2,
+      "team": "Galaxy Stars",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 3,
+      "team": "Thunder Bolt",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 4,
+      "team": "Eta United",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 5,
+      "team": "Cyclone Speed",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 6,
+      "team": "Comet Tail",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 7,
+      "team": "Lions United",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 8,
+      "team": "Wolves Pack",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 9,
+      "team": "Quasar Beam",
+      "tourn": "ARGENT",
+      "medal": "🥈"
+    },
+    {
+      "pos": 10,
+      "team": "Zeta Club",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 11,
+      "team": "Sharks Attack",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 12,
+      "team": "Panthers Pro",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 13,
+      "team": "Hurricane Power",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 14,
+      "team": "Phoenix Rise",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 17,
+      "team": "Theta Elite",
+      "tourn": "BRONZE",
+      "medal": "🥉"
+    },
+    {
+      "pos": 18,
+      "team": "Hawks Elite",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 19,
+      "team": "Stellar Light",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 20,
+      "team": "Eagles FC",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 21,
+      "team": "Pulsar Wave",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 22,
+      "team": "Dragons Fire",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 23,
+      "team": "Alpha Squad",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 24,
+      "team": "Meteor Strike",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 25,
+      "team": "Storm Force",
+      "tourn": "CUIVRE",
+      "medal": "🏅"
+    },
+    {
+      "pos": 26,
+      "team": "Gamma Team",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 27,
+      "team": "Beta Force",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 28,
+      "team": "Nebula Dream",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 29,
+      "team": "Supernova Blast",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 30,
+      "team": "Tornado Spin",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 31,
+      "team": "Epsilon Pro",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 32,
+      "team": "Bears Strong",
+      "tourn": "CUIVRE",
+      "medal": ""
+    }
+  ]
 }
