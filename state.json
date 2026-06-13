@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:46:39.932Z",
+    "updatedAt": "2026-06-13T08:46:44.234Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1548,13 +1548,13 @@
           "phase": "Finale",
           "team1": "Panthers Pro",
           "team2": "Eta United",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Panthers Pro",
           "time": "04:40"
         },
         {
