@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:39:35.426Z",
+    "updatedAt": "2026-06-13T07:39:37.730Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -299,8 +299,8 @@
           "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 78,
-          "setsWon": 5,
+          "pointsDiff": 99,
+          "setsWon": 6,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -319,9 +319,9 @@
           "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -41,
+          "pointsDiff": -62,
           "setsWon": 2,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
@@ -1021,7 +1021,7 @@
       "team2": "Pulsar Wave",
       "set1Team1": 21,
       "set1Team2": "",
-      "set2Team1": "",
+      "set2Team1": 21,
       "set2Team2": "",
       "winner": "Thunder Bolt"
     },
