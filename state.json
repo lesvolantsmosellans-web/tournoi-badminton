@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:38:51.042Z",
+    "updatedAt": "2026-06-13T07:38:53.653Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -158,8 +158,8 @@
           "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 63,
-          "setsWon": 5,
+          "pointsDiff": 84,
+          "setsWon": 6,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -178,9 +178,9 @@
           "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -4,
+          "pointsDiff": -25,
           "setsWon": 2,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -957,7 +957,7 @@
       "set1Team1": "",
       "set1Team2": 21,
       "set2Team1": "",
-      "set2Team2": "",
+      "set2Team2": 21,
       "winner": "Lions United"
     },
     {
