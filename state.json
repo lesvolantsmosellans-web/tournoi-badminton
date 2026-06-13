@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:42:42.404Z",
+    "updatedAt": "2026-06-13T08:42:45.605Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1215,13 +1215,13 @@
           "phase": "Demi 5-8 (1)",
           "team1": "Stellar Light",
           "team2": "Sharks Attack",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 1,
+          "set2Team1": 0,
+          "set2Team2": 1,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Sharks Attack",
           "time": "19:30"
         },
         {
@@ -1252,7 +1252,7 @@
         },
         {
           "phase": "5ème place",
-          "team1": "Gagnant D5-8(1)",
+          "team1": "Sharks Attack",
           "team2": "Gagnant D5-8(2)",
           "set1Team1": "",
           "set1Team2": "",
@@ -1265,7 +1265,7 @@
         },
         {
           "phase": "7ème place",
-          "team1": "Perdant D5-8(1)",
+          "team1": "Stellar Light",
           "team2": "Perdant D5-8(2)",
           "set1Team1": "",
           "set1Team2": "",
