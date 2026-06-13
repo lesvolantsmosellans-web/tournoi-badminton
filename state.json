@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:27:14.814Z",
+    "updatedAt": "2026-06-13T07:27:19.140Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -728,7 +728,7 @@
     },
     {
       "poolName": "Poule C",
-      "court": 3,
+      "court": 6,
       "time": "11:00",
       "status": "upcoming",
       "team1": "Lightning Fast",
@@ -741,7 +741,7 @@
     },
     {
       "poolName": "Poule E",
-      "court": 3,
+      "court": 7,
       "time": "11:00",
       "status": "upcoming",
       "team1": "Pulsar Wave",
