@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:28.049Z",
+    "updatedAt": "2026-06-13T07:19:32.439Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -600,7 +600,7 @@
       "poolName": "Poule A",
       "court": 4,
       "time": "09:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Eta United",
       "team2": "Epsilon Pro",
       "set1Team1": 21,
@@ -665,7 +665,7 @@
       "poolName": "Poule A",
       "court": 2,
       "time": "10:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Hawks Elite",
       "team2": "Quasar Beam",
       "set1Team1": "",
