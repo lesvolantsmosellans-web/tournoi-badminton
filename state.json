@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:11:34.028Z",
+    "updatedAt": "2026-06-13T07:11:36.294Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -299,8 +299,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 1,
+          "pointsDiff": 37,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -329,9 +329,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -37,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -539,8 +539,8 @@
       "team1": "Hurricane Power",
       "team2": "Pulsar Wave",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 5,
+      "set2Team1": 21,
       "set2Team2": "",
       "winner": "Hurricane Power"
     },
