@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:40:27.278Z",
+    "updatedAt": "2026-06-13T07:40:51.570Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -338,7 +338,7 @@
     },
     {
       "poolName": "Poule F",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -364,20 +364,20 @@
         {
           "name": "Theta Elite",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": 29,
+          "pointsDiff": 8,
           "setsWon": 2,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
           "name": "Beta Force",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -48,
-          "setsWon": 0,
+          "pointsDiff": -27,
+          "setsWon": 1,
           "setsLost": 4,
           "poolPosition": 4
         }
@@ -1055,7 +1055,7 @@
       "poolName": "Poule A",
       "court": 1,
       "time": "13:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Eta United",
       "team2": "Quasar Beam",
       "set1Team1": 21,
@@ -1068,7 +1068,7 @@
       "poolName": "Poule B",
       "court": 3,
       "time": "13:40",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Panthers Pro",
       "team2": "Stellar Light",
       "set1Team1": 21,
@@ -1084,11 +1084,11 @@
       "status": "upcoming",
       "team1": "Beta Force",
       "team2": "Theta Elite",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Beta Force"
     },
     {
       "poolName": "Poule E",
