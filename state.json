@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:32:59.739Z",
+    "updatedAt": "2026-06-13T07:33:01.909Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -440,7 +440,7 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 35,
+          "pointsDiff": 19,
           "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
@@ -470,7 +470,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -25,
+          "pointsDiff": -9,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -697,7 +697,7 @@
       "set1Team1": 21,
       "set1Team2": 17,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 16,
       "winner": "Delta Strike"
     },
     {
