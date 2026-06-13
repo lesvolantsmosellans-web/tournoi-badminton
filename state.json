@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:07:10.077Z",
+    "updatedAt": "2026-06-13T07:07:28.645Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -522,7 +522,7 @@
       "poolName": "Poule B",
       "court": 2,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Panthers Pro",
       "team2": "Lions United",
       "set1Team1": 10,
