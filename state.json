@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:30:20.837Z",
+    "updatedAt": "2026-06-13T08:30:34.865Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1242,12 +1242,12 @@
           "team1": "Perdant D1",
           "team2": "Perdant D2",
           "set1Team1": 1,
-          "set1Team2": "",
+          "set1Team2": 0,
           "set2Team1": 1,
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Perdant D1",
           "time": "02:50"
         },
         {
@@ -1349,9 +1349,9 @@
           "phase": "Demi 1",
           "team1": "Quasar Beam",
           "team2": "Panthers Pro",
-          "set1Team1": "",
+          "set1Team1": 1,
           "set1Team2": "",
-          "set2Team1": "",
+          "set2Team1": 1,
           "set2Team2": "",
           "set3Team1": "",
           "set3Team2": "",
