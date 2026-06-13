@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:46:48.146Z",
+    "updatedAt": "2026-06-13T08:46:51.522Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1202,13 +1202,13 @@
           "phase": "Finale",
           "team1": "Eagles FC",
           "team2": "Meteor Strike",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Eagles FC",
           "time": "06:30"
         },
         {
@@ -1840,5 +1840,198 @@
       "Storm Force"
     ]
   },
-  "finalRanking": []
+  "finalRanking": [
+    {
+      "pos": 1,
+      "team": "Eagles FC",
+      "tourn": "OR",
+      "medal": "🥇"
+    },
+    {
+      "pos": 2,
+      "team": "Meteor Strike",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 3,
+      "team": "Galaxy Stars",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 4,
+      "team": "Gamma Team",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 5,
+      "team": "Lightning Fast",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 6,
+      "team": "Sharks Attack",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 7,
+      "team": "Beta Force",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 8,
+      "team": "Stellar Light",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 9,
+      "team": "Quasar Beam",
+      "tourn": "ARGENT",
+      "medal": "🥈"
+    },
+    {
+      "pos": 10,
+      "team": "Alpha Squad",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 11,
+      "team": "Tornado Spin",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 12,
+      "team": "Delta Strike",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 13,
+      "team": "Nebula Dream",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 14,
+      "team": "Wolves Pack",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 15,
+      "team": "Thunder Bolt",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 16,
+      "team": "Hawks Elite",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 17,
+      "team": "Panthers Pro",
+      "tourn": "BRONZE",
+      "medal": "🥉"
+    },
+    {
+      "pos": 18,
+      "team": "Eta United",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 19,
+      "team": "Phoenix Rise",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 20,
+      "team": "Lions United",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 21,
+      "team": "Dragons Fire",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 22,
+      "team": "Pulsar Wave",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 23,
+      "team": "Zeta Club",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 24,
+      "team": "Cyclone Speed",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 25,
+      "team": "Theta Elite",
+      "tourn": "CUIVRE",
+      "medal": "🏅"
+    },
+    {
+      "pos": 26,
+      "team": "Tigers Team",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 27,
+      "team": "Comet Tail",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 28,
+      "team": "Bears Strong",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 29,
+      "team": "Supernova Blast",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 30,
+      "team": "Hurricane Power",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 31,
+      "team": "Epsilon Pro",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 32,
+      "team": "Storm Force",
+      "tourn": "CUIVRE",
+      "medal": ""
+    }
+  ]
 }
