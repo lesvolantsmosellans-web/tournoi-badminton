@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:41.454Z",
+    "updatedAt": "2026-06-13T07:33:44.809Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -205,8 +205,8 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 49,
-          "setsWon": 3,
+          "pointsDiff": 45,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -235,9 +235,9 @@
           "wins": 0,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -29,
+          "pointsDiff": -25,
           "setsWon": 0,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -760,9 +760,9 @@
       "team1": "Galaxy Stars",
       "team2": "Supernova Blast",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 10,
+      "set2Team1": 21,
+      "set2Team2": 15,
       "winner": "Galaxy Stars"
     },
     {
