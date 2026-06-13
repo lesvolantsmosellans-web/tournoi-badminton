@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:38:53.653Z",
+    "updatedAt": "2026-06-13T07:38:56.550Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,26 +244,26 @@
     },
     {
       "poolName": "Poule D",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
-          "name": "Zeta Club",
+          "name": "Comet Tail",
           "wins": 2,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 16,
+          "draws": 1,
+          "pointsDiff": 34,
           "setsWon": 4,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
-          "name": "Comet Tail",
-          "wins": 1,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 13,
-          "setsWon": 3,
+          "name": "Zeta Club",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -5,
+          "setsWon": 4,
           "setsLost": 1,
           "poolPosition": 2
         },
@@ -951,7 +951,7 @@
       "poolName": "Poule B",
       "court": 6,
       "time": "12:20",
-      "status": "upcoming",
+      "status": "finished",
       "team1": "Stellar Light",
       "team2": "Lions United",
       "set1Team1": "",
@@ -967,11 +967,11 @@
       "status": "upcoming",
       "team1": "Comet Tail",
       "team2": "Zeta Club",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Comet Tail"
     },
     {
       "poolName": "Poule H",
