@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:33:28.048Z",
+    "updatedAt": "2026-06-13T07:33:31.053Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -211,23 +211,23 @@
           "poolPosition": 1
         },
         {
-          "name": "Lightning Fast",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -7,
-          "setsWon": 1,
-          "setsLost": 2,
-          "poolPosition": 2
-        },
-        {
           "name": "Alpha Squad",
           "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -13,
+          "pointsDiff": -5,
           "setsWon": 2,
-          "setsLost": 1,
+          "setsLost": 2,
+          "poolPosition": 2
+        },
+        {
+          "name": "Lightning Fast",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -15,
+          "setsWon": 2,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -734,9 +734,9 @@
       "team1": "Lightning Fast",
       "team2": "Alpha Squad",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 15,
+      "set2Team1": 21,
+      "set2Team2": 14,
       "winner": "Lightning Fast"
     },
     {
