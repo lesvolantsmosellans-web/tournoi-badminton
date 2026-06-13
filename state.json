@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T08:32:05.993Z",
+    "updatedAt": "2026-06-13T08:32:13.581Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1394,20 +1394,20 @@
           "set2Team2": 1,
           "set3Team1": 0,
           "set3Team2": 0,
-          "winner": "Perdant Q3",
+          "winner": "Phoenix Rise",
           "time": "18:35"
         },
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Hurricane Power",
           "team2": "Delta Strike",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 1,
+          "set1Team2": 0,
+          "set2Team1": 1,
+          "set2Team2": 0,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Hurricane Power",
           "time": "18:35"
         },
         {
@@ -1425,8 +1425,8 @@
         },
         {
           "phase": "5ème place",
-          "team1": "Perdant Q3",
-          "team2": "Gagnant D5-8(2)",
+          "team1": "Phoenix Rise",
+          "team2": "Hurricane Power",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1439,7 +1439,7 @@
         {
           "phase": "7ème place",
           "team1": "Lightning Fast",
-          "team2": "Perdant D5-8(2)",
+          "team2": "Delta Strike",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
