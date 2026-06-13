@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-13T07:19:45.873Z",
+    "updatedAt": "2026-06-13T07:19:48.376Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -295,16 +295,6 @@
       "total": 6,
       "teams": [
         {
-          "name": "Thunder Bolt",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 32,
-          "setsWon": 2,
-          "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
           "name": "Hurricane Power",
           "wins": 1,
           "losses": 0,
@@ -312,7 +302,27 @@
           "pointsDiff": 27,
           "setsWon": 2,
           "setsLost": 0,
+          "poolPosition": 1
+        },
+        {
+          "name": "Thunder Bolt",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 17,
+          "setsWon": 2,
+          "setsLost": 0,
           "poolPosition": 2
+        },
+        {
+          "name": "Gamma Team",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -17,
+          "setsWon": 0,
+          "setsLost": 2,
+          "poolPosition": 3
         },
         {
           "name": "Pulsar Wave",
@@ -320,16 +330,6 @@
           "losses": 1,
           "draws": 0,
           "pointsDiff": -27,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
-          "name": "Gamma Team",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -32,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -619,7 +619,7 @@
       "set1Team1": 21,
       "set1Team2": 10,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 15,
       "winner": "Thunder Bolt"
     },
     {
