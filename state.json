@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T15:36:26.669Z",
+    "updatedAt": "2026-06-15T15:38:46.573Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1760,10 +1760,10 @@
           "phase": "3ème place",
           "team1": "Julien et Stéphanie - Apach",
           "team2": "Romain et Antoni",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 4,
+          "set2Team1": 21,
+          "set2Team2": 4,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null,
