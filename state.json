@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T13:46:04.231Z",
+    "updatedAt": "2026-06-15T13:48:16.936Z",
     "phase": "tournois",
     "numTeams": 31,
     "poolSize": 4,
@@ -1800,5 +1800,174 @@
       "Meteor Strike"
     ]
   },
-  "finalRanking": []
+  "finalRanking": [
+    {
+      "pos": 1,
+      "team": "Galaxy Stars",
+      "tourn": "OR",
+      "medal": "🥇"
+    },
+    {
+      "pos": 2,
+      "team": "Quasar Beam",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 3,
+      "team": "Lions United",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 4,
+      "team": "Dragons Fire",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 5,
+      "team": "Gamma Team",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 6,
+      "team": "Tigers Team",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 7,
+      "team": "Alpha Squad",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 8,
+      "team": "Pulsar Wave",
+      "tourn": "OR",
+      "medal": ""
+    },
+    {
+      "pos": 9,
+      "team": "Beta Force",
+      "tourn": "ARGENT",
+      "medal": "🥈"
+    },
+    {
+      "pos": 10,
+      "team": "Supernova Blast",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 11,
+      "team": "Phoenix Rise",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 12,
+      "team": "Sharks Attack",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 13,
+      "team": "Zeta Club",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 14,
+      "team": "Stellar Light",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 15,
+      "team": "Bears Strong",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 16,
+      "team": "Storm Force",
+      "tourn": "ARGENT",
+      "medal": ""
+    },
+    {
+      "pos": 17,
+      "team": "Hawks Elite",
+      "tourn": "BRONZE",
+      "medal": "🥉"
+    },
+    {
+      "pos": 18,
+      "team": "Lightning Fast",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 19,
+      "team": "Nebula Dream",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 20,
+      "team": "Cyclone Speed",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 21,
+      "team": "Delta Strike",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 22,
+      "team": "Hurricane Power",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 23,
+      "team": "Comet Tail",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 24,
+      "team": "Panthers Pro",
+      "tourn": "BRONZE",
+      "medal": ""
+    },
+    {
+      "pos": 25,
+      "team": "Wolves Pack",
+      "tourn": "CUIVRE",
+      "medal": "🏅"
+    },
+    {
+      "pos": 26,
+      "team": "Meteor Strike",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 27,
+      "team": "Epsilon Pro",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 28,
+      "team": "Eta United",
+      "tourn": "CUIVRE",
+      "medal": ""
+    }
+  ]
 }
