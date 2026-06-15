@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T15:43:45.130Z",
+    "updatedAt": "2026-06-15T15:44:48.018Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1202,13 +1202,13 @@
           "phase": "Finale",
           "team1": "Gaetan et Angélique - Cattenom",
           "team2": "Eric et Mika - Cattenom",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 17,
+          "set2Team1": 20,
+          "set2Team2": 22,
+          "set3Team1": 21,
+          "set3Team2": 14,
+          "winner": "Gaetan et Angélique - Cattenom",
           "time": "06:30"
         },
         {
@@ -1375,13 +1375,13 @@
           "phase": "Finale",
           "team1": "Emmanuel et Eva - Cattenom",
           "team2": "Elaine et Noa - Cattenom",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 17,
+          "set2Team1": 21,
+          "set2Team2": 18,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Emmanuel et Eva - Cattenom",
           "time": "05:35"
         },
         {
@@ -1548,13 +1548,13 @@
           "phase": "Finale",
           "team1": "Christelle et José - Hayange",
           "team2": "Alexia et Arnaud - Yutz",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 14,
+          "set2Team1": 12,
+          "set2Team2": 21,
+          "set3Team1": 21,
+          "set3Team2": 17,
+          "winner": "Christelle et José - Hayange",
           "time": "04:40"
         },
         {
@@ -1843,169 +1843,181 @@
   "finalRanking": [
     {
       "pos": 1,
-      "team": "Galaxy Stars",
+      "team": "Gaetan et Angélique - Cattenom",
       "tourn": "OR",
       "medal": "🥇"
     },
     {
       "pos": 2,
-      "team": "Quasar Beam",
+      "team": "Eric et Mika - Cattenom",
       "tourn": "OR",
       "medal": ""
     },
     {
       "pos": 3,
-      "team": "Lions United",
+      "team": "Fred et Marisa - ASBK/ Cattenom",
       "tourn": "OR",
       "medal": ""
     },
     {
       "pos": 4,
-      "team": "Dragons Fire",
+      "team": "Nathan et Edison - ASBK",
       "tourn": "OR",
       "medal": ""
     },
     {
       "pos": 5,
-      "team": "Gamma Team",
+      "team": "Arnaud et Gauthier - Nilvange",
       "tourn": "OR",
       "medal": ""
     },
     {
       "pos": 6,
-      "team": "Tigers Team",
-      "tourn": "OR",
-      "medal": ""
-    },
-    {
-      "pos": 7,
-      "team": "Alpha Squad",
-      "tourn": "OR",
-      "medal": ""
-    },
-    {
-      "pos": 8,
-      "team": "Pulsar Wave",
+      "team": "Sophie et Julian - Metz/Nilvange",
       "tourn": "OR",
       "medal": ""
     },
     {
       "pos": 9,
-      "team": "Beta Force",
+      "team": "Emmanuel et Eva - Cattenom",
       "tourn": "ARGENT",
       "medal": "🥈"
     },
     {
       "pos": 10,
-      "team": "Supernova Blast",
+      "team": "Elaine et Noa - Cattenom",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 11,
-      "team": "Phoenix Rise",
+      "team": "Nico et Viviane - Cattenom",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 12,
-      "team": "Sharks Attack",
+      "team": "Virginie et Gamache",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 13,
-      "team": "Zeta Club",
+      "team": "Aline et Sylvain LBG",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 14,
-      "team": "Stellar Light",
+      "team": "Alex et Céline - Nilvange",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 15,
-      "team": "Bears Strong",
+      "team": "Cédric et Mathieu - BCHS",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 16,
-      "team": "Storm Force",
+      "team": "Benoît et Amandine - Illange",
       "tourn": "ARGENT",
       "medal": ""
     },
     {
       "pos": 17,
-      "team": "Hawks Elite",
+      "team": "Christelle et José - Hayange",
       "tourn": "BRONZE",
       "medal": "🥉"
     },
     {
       "pos": 18,
-      "team": "Lightning Fast",
+      "team": "Alexia et Arnaud - Yutz",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 19,
-      "team": "Nebula Dream",
+      "team": "Sébastien et Christina - Nilvange",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 20,
-      "team": "Cyclone Speed",
+      "team": "Jean-Baptiste et Jérémy - Kédange",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 21,
-      "team": "Delta Strike",
+      "team": "Manu et Christophe - Nilvange",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 22,
-      "team": "Hurricane Power",
+      "team": "Benjamin et Noé - Bertrange",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 23,
-      "team": "Comet Tail",
+      "team": "Yohann et Lucie - Nilvange",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 24,
-      "team": "Panthers Pro",
+      "team": "Alain et Lenny - Kédange",
       "tourn": "BRONZE",
       "medal": ""
     },
     {
       "pos": 25,
-      "team": "Wolves Pack",
+      "team": "Maxime et Laurent - Cattenom",
       "tourn": "CUIVRE",
       "medal": "🏅"
     },
     {
       "pos": 26,
-      "team": "Meteor Strike",
+      "team": "Sandy et Lilou",
       "tourn": "CUIVRE",
       "medal": ""
     },
     {
       "pos": 27,
-      "team": "Epsilon Pro",
+      "team": "Julien et Stéphanie - Apach",
       "tourn": "CUIVRE",
       "medal": ""
     },
     {
       "pos": 28,
-      "team": "Eta United",
+      "team": "Romain et Antoni",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 29,
+      "team": "Estelle et Priscilla - Kédange",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 30,
+      "team": "Célia et Bilel",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 31,
+      "team": "Nicolas et Léo",
+      "tourn": "CUIVRE",
+      "medal": ""
+    },
+    {
+      "pos": 32,
+      "team": "Forfait",
       "tourn": "CUIVRE",
       "medal": ""
     }
