@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:23:39.688Z",
+    "updatedAt": "2026-06-15T14:27:17.209Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,21 +150,21 @@
     },
     {
       "poolName": "Poule B",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Aline et Sylvain LBG",
-          "wins": 0,
+          "name": "Eric et Mika - Cattenom",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Alain et Lenny - Kédange",
+          "name": "Aline et Sylvain LBG",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -174,7 +174,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Eric et Mika - Cattenom",
+          "name": "Alain et Lenny - Kédange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -186,11 +186,11 @@
         {
           "name": "Nicolas et Léo",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -486,17 +486,17 @@
       "status": "finished",
       "team1": "Eric et Mika - Cattenom",
       "team2": "Nicolas et Léo",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 10,
+      "set2Team1": 21,
+      "set2Team2": 11,
+      "winner": "Eric et Mika - Cattenom"
     },
     {
       "poolName": "Poule D",
       "court": 2,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Maxime et Laurent - Cattenom",
       "set1Team1": "",
