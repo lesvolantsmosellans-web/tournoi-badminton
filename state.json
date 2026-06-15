@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:28:11.383Z",
+    "updatedAt": "2026-06-15T14:30:22.846Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -346,8 +346,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 11,
-          "setsWon": 1,
+          "pointsDiff": 23,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -376,30 +376,30 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -11,
+          "pointsDiff": -23,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
     },
     {
       "poolName": "Poule G",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Elaine et Noa - Cattenom",
-          "wins": 0,
+          "name": "Oscar et Baptiste - Hettange",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 10,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Manu et Christophe - Nilvange",
+          "name": "Elaine et Noa - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -409,7 +409,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Oscar et Baptiste - Hettange",
+          "name": "Julien et Stéphanie - Apach",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -419,13 +419,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Julien et Stéphanie - Apach",
+          "name": "Manu et Christophe - Nilvange",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -10,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -548,33 +548,33 @@
       "poolName": "Poule F",
       "court": 6,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Sandy et Lilou",
       "set1Team1": 21,
       "set1Team2": 10,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 21,
+      "set2Team2": 9,
       "winner": "Alex et Céline - Nilvange"
     },
     {
       "poolName": "Poule G",
       "court": 7,
       "time": "09:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Manu et Christophe - Nilvange",
       "team2": "Oscar et Baptiste - Hettange",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 15,
+      "set1Team2": 21,
+      "set2Team1": 17,
+      "set2Team2": 21,
+      "winner": "Oscar et Baptiste - Hettange"
     },
     {
       "poolName": "Poule C",
       "court": 1,
       "time": "09:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": "",
