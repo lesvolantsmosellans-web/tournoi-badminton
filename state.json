@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T15:26:25.517Z",
+    "updatedAt": "2026-06-15T15:27:27.428Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1734,13 +1734,13 @@
           "phase": "Demi 5-8 (1)",
           "team1": "Forfait",
           "team2": "Estelle et Priscilla - Kédange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 0,
+          "set1Team2": 21,
+          "set2Team1": 0,
+          "set2Team2": 21,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Estelle et Priscilla - Kédange",
           "time": "16:45"
         },
         {
@@ -1771,7 +1771,7 @@
         },
         {
           "phase": "5ème place",
-          "team1": "Gagnant D5-8(1)",
+          "team1": "Estelle et Priscilla - Kédange",
           "team2": "Gagnant D5-8(2)",
           "set1Team1": "",
           "set1Team2": "",
@@ -1784,7 +1784,7 @@
         },
         {
           "phase": "7ème place",
-          "team1": "Perdant D5-8(1)",
+          "team1": "Forfait",
           "team2": "Perdant D5-8(2)",
           "set1Team1": "",
           "set1Team2": "",
