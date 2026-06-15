@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T15:31:15.565Z",
+    "updatedAt": "2026-06-15T15:32:37.448Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1228,13 +1228,13 @@
           "phase": "Demi 5-8 (2)",
           "team1": "Roland et Florine - ASBK",
           "team2": "Sophie et Julian - Metz/Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 14,
+          "set1Team2": 21,
+          "set2Team1": 15,
+          "set2Team2": 21,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Sophie et Julian - Metz/Nilvange",
           "time": "19:30"
         },
         {
@@ -1253,7 +1253,7 @@
         {
           "phase": "5ème place",
           "team1": "Arnaud et Gauthier - Nilvange",
-          "team2": "Gagnant D5-8(2)",
+          "team2": "Sophie et Julian - Metz/Nilvange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1266,7 +1266,7 @@
         {
           "phase": "7ème place",
           "team1": "Oscar et Baptiste - Hettange",
-          "team2": "Perdant D5-8(2)",
+          "team2": "Roland et Florine - ASBK",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1695,13 +1695,13 @@
           "phase": "Demi 1",
           "team1": "Maxime et Laurent - Cattenom",
           "team2": "Julien et Stéphanie - Apach",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null,
+          "set1Team1": 21,
+          "set1Team2": 15,
+          "set2Team1": 21,
+          "set2Team2": 17,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Maxime et Laurent - Cattenom",
           "time": "20:25"
         },
         {
@@ -1719,7 +1719,7 @@
         },
         {
           "phase": "Finale",
-          "team1": "Gagnant D1",
+          "team1": "Maxime et Laurent - Cattenom",
           "team2": "Gagnant D2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1758,7 +1758,7 @@
         },
         {
           "phase": "3ème place",
-          "team1": "Perdant D1",
+          "team1": "Julien et Stéphanie - Apach",
           "team2": "Perdant D2",
           "set1Team1": "",
           "set1Team2": "",
