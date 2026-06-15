@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T09:47:37.794Z",
+    "updatedAt": "2026-06-15T09:51:48.267Z",
     "phase": "poules",
     "numTeams": 31,
     "poolSize": 4,
@@ -209,16 +209,16 @@
     },
     {
       "poolName": "Poule C",
-      "played": 0,
+      "played": 1,
       "total": 7,
       "teams": [
         {
           "name": "Galaxy Stars",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -243,7 +243,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Dragons Fire",
+          "name": "Zeta Club",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -253,13 +253,13 @@
           "poolPosition": 4
         },
         {
-          "name": "Zeta Club",
+          "name": "Dragons Fire",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 5
         }
       ]
@@ -461,17 +461,17 @@
       "status": "ongoing",
       "team1": "Galaxy Stars",
       "team2": "Dragons Fire",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Galaxy Stars"
     },
     {
       "poolName": "Poule B",
       "court": 2,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Tigers Team",
       "team2": "Meteor Strike",
       "set1Team1": "",
@@ -484,7 +484,7 @@
       "poolName": "Poule F",
       "court": 3,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Eagles FC",
       "team2": "Nebula Dream",
       "set1Team1": "",
@@ -497,7 +497,7 @@
       "poolName": "Poule A",
       "court": 4,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Storm Force",
       "team2": "Thunder Bolt",
       "set1Team1": "",
@@ -510,7 +510,7 @@
       "poolName": "Poule E",
       "court": 5,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Supernova Blast",
       "team2": "Tornado Spin",
       "set1Team1": "",
@@ -523,7 +523,7 @@
       "poolName": "Poule G",
       "court": 6,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Hurricane Power",
       "team2": "Eta United",
       "set1Team1": "",
@@ -536,7 +536,7 @@
       "poolName": "Poule D",
       "court": 7,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Gamma Team",
       "team2": "Hawks Elite",
       "set1Team1": "",
