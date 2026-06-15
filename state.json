@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:39:26.289Z",
+    "updatedAt": "2026-06-15T14:40:21.739Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,27 +103,27 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
-          "name": "Yohann et Lucie - Nilvange",
+          "name": "Nathan et Edison - ASBK",
           "wins": 1,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 16,
-          "setsWon": 2,
-          "setsLost": 0,
+          "draws": 1,
+          "pointsDiff": 14,
+          "setsWon": 3,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
-          "name": "Nathan et Edison - ASBK",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 1,
-          "setsWon": 1,
-          "setsLost": 1,
+          "name": "Yohann et Lucie - Nilvange",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": 3,
+          "setsWon": 2,
+          "setsLost": 2,
           "poolPosition": 2
         },
         {
@@ -244,7 +244,7 @@
     },
     {
       "poolName": "Poule D",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
@@ -271,20 +271,20 @@
           "name": "Benjamin et Noé - Bertrange",
           "wins": 0,
           "losses": 0,
-          "draws": 1,
-          "pointsDiff": -2,
-          "setsWon": 1,
-          "setsLost": 1,
+          "draws": 2,
+          "pointsDiff": 1,
+          "setsWon": 2,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
           "name": "Maxime et Laurent - Cattenom",
           "wins": 0,
           "losses": 1,
-          "draws": 0,
-          "pointsDiff": -11,
-          "setsWon": 0,
-          "setsLost": 2,
+          "draws": 1,
+          "pointsDiff": -14,
+          "setsWon": 1,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -717,7 +717,7 @@
       "poolName": "Poule B",
       "court": 1,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Alain et Lenny - Kédange",
       "team2": "Eric et Mika - Cattenom",
       "set1Team1": 14,
@@ -730,33 +730,33 @@
       "poolName": "Poule D",
       "court": 2,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Maxime et Laurent - Cattenom",
       "team2": "Benjamin et Noé - Bertrange",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team1": 21,
+      "set1Team2": 18,
+      "set2Team1": 15,
+      "set2Team2": 21,
       "winner": null
     },
     {
       "poolName": "Poule A",
       "court": 3,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Nathan et Edison - ASBK",
       "team2": "Yohann et Lucie - Nilvange",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 14,
+      "set2Team1": 21,
+      "set2Team2": 15,
+      "winner": "Nathan et Edison - ASBK"
     },
     {
       "poolName": "Poule F",
       "court": 4,
       "time": "11:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Alexia et Arnaud - Yutz",
       "set1Team1": "",
