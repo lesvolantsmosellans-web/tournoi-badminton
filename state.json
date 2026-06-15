@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:19:09.291Z",
+    "updatedAt": "2026-06-15T14:20:27.446Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -483,7 +483,7 @@
       "poolName": "Poule B",
       "court": 1,
       "time": "09:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Eric et Mika - Cattenom",
       "team2": "Nicolas et Léo",
       "set1Team1": "",
