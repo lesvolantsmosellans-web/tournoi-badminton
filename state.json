@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:38:31.288Z",
+    "updatedAt": "2026-06-15T14:39:26.289Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,16 +150,16 @@
     },
     {
       "poolName": "Poule B",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Eric et Mika - Cattenom",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 2,
+          "pointsDiff": 34,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -174,16 +174,6 @@
           "poolPosition": 2
         },
         {
-          "name": "Alain et Lenny - Kédange",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -13,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
           "name": "Nicolas et Léo",
           "wins": 0,
           "losses": 1,
@@ -191,6 +181,16 @@
           "pointsDiff": -21,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Alain et Lenny - Kédange",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -26,
+          "setsWon": 0,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -291,47 +291,47 @@
     },
     {
       "poolName": "Poule E",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
-          "name": "Roland et Florine - ASBK",
-          "wins": 2,
-          "losses": 0,
+          "name": "Sébastien et Christina - Nilvange",
+          "wins": 1,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 23,
-          "setsWon": 3,
-          "setsLost": 0,
+          "pointsDiff": 7,
+          "setsWon": 2,
+          "setsLost": 2,
           "poolPosition": 1
         },
         {
-          "name": "Estelle et Priscilla - Kédange",
-          "wins": 0,
+          "name": "Roland et Florine - ASBK",
+          "wins": 1,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
+          "draws": 1,
+          "pointsDiff": 4,
+          "setsWon": 3,
+          "setsLost": 1,
           "poolPosition": 2
-        },
-        {
-          "name": "Sébastien et Christina - Nilvange",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -6,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
         },
         {
           "name": "Nico et Viviane - Cattenom",
           "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 2,
+          "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
+        },
+        {
+          "name": "Estelle et Priscilla - Kédange",
+          "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -17,
+          "pointsDiff": -13,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -432,47 +432,47 @@
     },
     {
       "poolName": "Poule H",
-      "played": 1,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Benoît et Amandine - Illange",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 1,
-          "pointsDiff": 2,
-          "setsWon": 1,
+          "pointsDiff": 44,
+          "setsWon": 3,
           "setsLost": 1,
           "poolPosition": 1
         },
         {
           "name": "Gaetan et Angélique - Cattenom",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 13,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 2
         },
         {
-          "name": "Forfait",
+          "name": "Christelle et José - Hayange",
           "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": -15,
+          "setsWon": 1,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
-          "name": "Christelle et José - Hayange",
+          "name": "Forfait",
           "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -2,
-          "setsWon": 1,
-          "setsLost": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -42,
+          "setsWon": 0,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -669,49 +669,49 @@
       "team1": "Roland et Florine - ASBK",
       "team2": "Nico et Viviane - Cattenom",
       "set1Team1": 17,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Roland et Florine - ASBK"
+      "set1Team2": 21,
+      "set2Team1": 21,
+      "set2Team2": 19,
+      "winner": null
     },
     {
       "poolName": "Poule H",
       "court": 2,
       "time": "10:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Christelle et José - Hayange",
       "team2": "Gaetan et Angélique - Cattenom",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 14,
+      "set1Team2": 21,
+      "set2Team1": 15,
+      "set2Team2": 21,
+      "winner": "Gaetan et Angélique - Cattenom"
     },
     {
       "poolName": "Poule E",
       "court": 3,
       "time": "10:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Sébastien et Christina - Nilvange",
       "team2": "Estelle et Priscilla - Kédange",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 14,
+      "set2Team1": 21,
+      "set2Team2": 15,
+      "winner": "Sébastien et Christina - Nilvange"
     },
     {
       "poolName": "Poule H",
       "court": 4,
       "time": "10:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Benoît et Amandine - Illange",
       "team2": "Forfait",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
-      "set2Team1": "",
+      "set2Team1": 21,
       "set2Team2": "",
-      "winner": null
+      "winner": "Benoît et Amandine - Illange"
     },
     {
       "poolName": "Poule B",
@@ -720,11 +720,11 @@
       "status": "ongoing",
       "team1": "Alain et Lenny - Kédange",
       "team2": "Eric et Mika - Cattenom",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 14,
+      "set1Team2": 21,
+      "set2Team1": 15,
+      "set2Team2": 21,
+      "winner": "Eric et Mika - Cattenom"
     },
     {
       "poolName": "Poule D",
