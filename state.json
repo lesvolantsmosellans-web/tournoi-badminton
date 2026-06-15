@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:33:07.865Z",
+    "updatedAt": "2026-06-15T14:34:14.726Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -111,8 +111,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 7,
-          "setsWon": 1,
+          "pointsDiff": 16,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -141,9 +141,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -7,
+          "pointsDiff": -16,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -244,7 +244,7 @@
     },
     {
       "poolName": "Poule D",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
         {
@@ -261,20 +261,20 @@
           "name": "Cédric et Mathieu - BCHS",
           "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
+          "draws": 1,
+          "pointsDiff": 2,
+          "setsWon": 1,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
           "name": "Benjamin et Noé - Bertrange",
           "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
+          "draws": 1,
+          "pointsDiff": -2,
+          "setsWon": 1,
+          "setsLost": 1,
           "poolPosition": 3
         },
         {
@@ -338,7 +338,7 @@
     },
     {
       "poolName": "Poule F",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
         {
@@ -353,22 +353,22 @@
         },
         {
           "name": "Fred et Marisa - ASBK/ Cattenom",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 19,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 2
         },
         {
           "name": "Alexia et Arnaud - Yutz",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -19,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -631,41 +631,41 @@
       "team2": "Romain et Antoni",
       "set1Team1": 21,
       "set1Team2": 14,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 21,
+      "set2Team2": 12,
       "winner": "Yohann et Lucie - Nilvange"
     },
     {
       "poolName": "Poule F",
       "court": 6,
       "time": "09:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alexia et Arnaud - Yutz",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 14,
+      "set2Team1": 21,
+      "set2Team2": 9,
+      "winner": "Fred et Marisa - ASBK/ Cattenom"
     },
     {
       "poolName": "Poule D",
       "court": 7,
       "time": "09:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Cédric et Mathieu - BCHS",
       "team2": "Benjamin et Noé - Bertrange",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team1": 21,
+      "set1Team2": 13,
+      "set2Team1": 15,
+      "set2Team2": 21,
       "winner": null
     },
     {
       "poolName": "Poule E",
       "court": 1,
       "time": "10:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Roland et Florine - ASBK",
       "team2": "Nico et Viviane - Cattenom",
       "set1Team1": "",
