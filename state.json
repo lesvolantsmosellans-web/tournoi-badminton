@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T13:52:44.910Z",
+    "updatedAt": "2026-06-15T13:58:23.941Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -23,80 +23,80 @@
       "id": 1,
       "name": "Poule A",
       "teams": [
-        "Galaxy Stars",
-        "Nebula Dream",
-        "Stellar Light",
-        "Gamma Team"
+        "Nathan et Edison - ASBK",
+        "Virginie et Gamache",
+        "Yohann et Lucie - Nilvange",
+        "Romain et Antoni"
       ]
     },
     {
       "id": 2,
       "name": "Poule B",
       "teams": [
-        "Supernova Blast",
-        "Theta Elite",
-        "Lightning Fast",
-        "Tigers Team"
+        "Aline et Sylvain LBG",
+        "Alain et Lenny - Kédange",
+        "Eric et Mika - Cattenom",
+        "Nicolas et Léo"
       ]
     },
     {
       "id": 3,
       "name": "Poule C",
       "teams": [
-        "Phoenix Rise",
-        "Zeta Club",
-        "Storm Force",
-        "Bears Strong"
+        "Sophie et Julian - Metz/Nilvange",
+        "Emmanuel et Eva - Cattenom",
+        "Jean-Baptiste et Jérémy - Kédange",
+        "Célia et Bilel"
       ]
     },
     {
       "id": 4,
       "name": "Poule D",
       "teams": [
-        "Cyclone Speed",
-        "Wolves Pack",
-        "Thunder Bolt",
-        "Beta Force"
+        "Arnaud et Gauthier - Nilvange",
+        "Maxime et Laurent - Cattenom",
+        "Cédric et Mathieu - BCHS",
+        "Benjamin et Noé - Bertrange"
       ]
     },
     {
       "id": 5,
       "name": "Poule E",
       "teams": [
-        "Eta United",
-        "Alpha Squad",
-        "Eagles FC",
-        "Hawks Elite"
+        "Roland et Florine - ASBK",
+        "Nico et Viviane - Cattenom",
+        "Sébastien et Christina - Nilvange",
+        "Estelle et Priscilla - Kédange"
       ]
     },
     {
       "id": 6,
       "name": "Poule F",
       "teams": [
-        "Epsilon Pro",
-        "Pulsar Wave",
-        "Meteor Strike",
-        "Quasar Beam"
+        "Fred et Marisa - ASBK/ Cattenom",
+        "Alex et Céline - Nilvange",
+        "Sandy et Lilou",
+        "Alexia et Arnaud - Yutz"
       ]
     },
     {
       "id": 7,
       "name": "Poule G",
       "teams": [
-        "Dragons Fire",
-        "Tornado Spin",
-        "Comet Tail",
-        "Lions United"
+        "Elaine et Noa - Cattenom",
+        "Manu et Christophe - Nilvange",
+        "Oscar et Baptiste - Hettange",
+        "Julien et Stéphanie - Apach"
       ]
     },
     {
       "id": 8,
       "name": "Poule H",
       "teams": [
-        "Hurricane Power",
-        "Panthers Pro",
-        "Delta Strike",
-        "Sharks Attack"
+        "Christelle et José - Hayange",
+        "Gaetan et Angélique - Cattenom",
+        "Benoît et Amandine - Illange",
+        "Forfait"
       ]
     }
   ],
@@ -107,7 +107,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Galaxy Stars",
+          "name": "Nathan et Edison - ASBK",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -117,7 +117,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Nebula Dream",
+          "name": "Virginie et Gamache",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -127,7 +127,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Stellar Light",
+          "name": "Yohann et Lucie - Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -137,7 +137,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Gamma Team",
+          "name": "Romain et Antoni",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -154,7 +154,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Supernova Blast",
+          "name": "Aline et Sylvain LBG",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -164,7 +164,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Theta Elite",
+          "name": "Alain et Lenny - Kédange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -174,7 +174,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Lightning Fast",
+          "name": "Eric et Mika - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -184,7 +184,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Tigers Team",
+          "name": "Nicolas et Léo",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -201,7 +201,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Phoenix Rise",
+          "name": "Sophie et Julian - Metz/Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -211,7 +211,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Zeta Club",
+          "name": "Emmanuel et Eva - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -221,7 +221,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Storm Force",
+          "name": "Jean-Baptiste et Jérémy - Kédange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -231,7 +231,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Bears Strong",
+          "name": "Célia et Bilel",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -248,7 +248,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Cyclone Speed",
+          "name": "Arnaud et Gauthier - Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -258,7 +258,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Wolves Pack",
+          "name": "Maxime et Laurent - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -268,7 +268,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Thunder Bolt",
+          "name": "Cédric et Mathieu - BCHS",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -278,7 +278,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Beta Force",
+          "name": "Benjamin et Noé - Bertrange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -295,7 +295,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Eta United",
+          "name": "Roland et Florine - ASBK",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -305,7 +305,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Alpha Squad",
+          "name": "Nico et Viviane - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -315,7 +315,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Eagles FC",
+          "name": "Sébastien et Christina - Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -325,7 +325,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Hawks Elite",
+          "name": "Estelle et Priscilla - Kédange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -342,7 +342,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Epsilon Pro",
+          "name": "Fred et Marisa - ASBK/ Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -352,7 +352,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Pulsar Wave",
+          "name": "Alex et Céline - Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -362,7 +362,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Meteor Strike",
+          "name": "Sandy et Lilou",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -372,7 +372,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Quasar Beam",
+          "name": "Alexia et Arnaud - Yutz",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -389,7 +389,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Dragons Fire",
+          "name": "Elaine et Noa - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -399,7 +399,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Tornado Spin",
+          "name": "Manu et Christophe - Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -409,7 +409,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Comet Tail",
+          "name": "Oscar et Baptiste - Hettange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -419,7 +419,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Lions United",
+          "name": "Julien et Stéphanie - Apach",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -436,7 +436,7 @@
       "total": 6,
       "teams": [
         {
-          "name": "Hurricane Power",
+          "name": "Christelle et José - Hayange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -446,7 +446,7 @@
           "poolPosition": 1
         },
         {
-          "name": "Panthers Pro",
+          "name": "Gaetan et Angélique - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -456,7 +456,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Delta Strike",
+          "name": "Benoît et Amandine - Illange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -466,7 +466,7 @@
           "poolPosition": 3
         },
         {
-          "name": "Sharks Attack",
+          "name": "Forfait",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -484,34 +484,8 @@
       "court": 1,
       "time": "09:00",
       "status": "upcoming",
-      "team1": "Theta Elite",
-      "team2": "Tigers Team",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule A",
-      "court": 2,
-      "time": "09:00",
-      "status": "upcoming",
-      "team1": "Galaxy Stars",
-      "team2": "Nebula Dream",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule E",
-      "court": 3,
-      "time": "09:00",
-      "status": "upcoming",
-      "team1": "Eta United",
-      "team2": "Hawks Elite",
+      "team1": "Eric et Mika - Cattenom",
+      "team2": "Nicolas et Léo",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -520,11 +494,50 @@
     },
     {
       "poolName": "Poule D",
+      "court": 2,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Arnaud et Gauthier - Nilvange",
+      "team2": "Maxime et Laurent - Cattenom",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 3,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Nathan et Edison - ASBK",
+      "team2": "Virginie et Gamache",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
       "court": 4,
       "time": "09:00",
       "status": "upcoming",
-      "team1": "Thunder Bolt",
-      "team2": "Beta Force",
+      "team1": "Roland et Florine - ASBK",
+      "team2": "Sébastien et Christina - Nilvange",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule H",
+      "court": 5,
+      "time": "09:00",
+      "status": "upcoming",
+      "team1": "Christelle et José - Hayange",
+      "team2": "Benoît et Amandine - Illange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -533,24 +546,11 @@
     },
     {
       "poolName": "Poule F",
-      "court": 5,
-      "time": "09:00",
-      "status": "upcoming",
-      "team1": "Pulsar Wave",
-      "team2": "Meteor Strike",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule C",
       "court": 6,
       "time": "09:00",
       "status": "upcoming",
-      "team1": "Phoenix Rise",
-      "team2": "Storm Force",
+      "team1": "Alex et Céline - Nilvange",
+      "team2": "Sandy et Lilou",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -562,21 +562,8 @@
       "court": 7,
       "time": "09:00",
       "status": "upcoming",
-      "team1": "Comet Tail",
-      "team2": "Lions United",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule H",
-      "court": 1,
-      "time": "09:40",
-      "status": "upcoming",
-      "team1": "Panthers Pro",
-      "team2": "Sharks Attack",
+      "team1": "Manu et Christophe - Nilvange",
+      "team2": "Oscar et Baptiste - Hettange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -585,11 +572,11 @@
     },
     {
       "poolName": "Poule C",
-      "court": 2,
+      "court": 1,
       "time": "09:40",
       "status": "upcoming",
-      "team1": "Zeta Club",
-      "team2": "Bears Strong",
+      "team1": "Emmanuel et Eva - Cattenom",
+      "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -597,12 +584,25 @@
       "winner": null
     },
     {
-      "poolName": "Poule H",
+      "poolName": "Poule G",
+      "court": 2,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Elaine et Noa - Cattenom",
+      "team2": "Julien et Stéphanie - Apach",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
       "court": 3,
       "time": "09:40",
       "status": "upcoming",
-      "team1": "Hurricane Power",
-      "team2": "Delta Strike",
+      "team1": "Sophie et Julian - Metz/Nilvange",
+      "team2": "Célia et Bilel",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -614,34 +614,8 @@
       "court": 4,
       "time": "09:40",
       "status": "upcoming",
-      "team1": "Supernova Blast",
-      "team2": "Lightning Fast",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule F",
-      "court": 5,
-      "time": "09:40",
-      "status": "upcoming",
-      "team1": "Epsilon Pro",
-      "team2": "Quasar Beam",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule G",
-      "court": 6,
-      "time": "09:40",
-      "status": "upcoming",
-      "team1": "Dragons Fire",
-      "team2": "Tornado Spin",
+      "team1": "Aline et Sylvain LBG",
+      "team2": "Alain et Lenny - Kédange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -650,11 +624,37 @@
     },
     {
       "poolName": "Poule A",
+      "court": 5,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Yohann et Lucie - Nilvange",
+      "team2": "Romain et Antoni",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 6,
+      "time": "09:40",
+      "status": "upcoming",
+      "team1": "Fred et Marisa - ASBK/ Cattenom",
+      "team2": "Alexia et Arnaud - Yutz",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
       "court": 7,
       "time": "09:40",
       "status": "upcoming",
-      "team1": "Stellar Light",
-      "team2": "Gamma Team",
+      "team1": "Cédric et Mathieu - BCHS",
+      "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -666,8 +666,8 @@
       "court": 1,
       "time": "10:20",
       "status": "upcoming",
-      "team1": "Eta United",
-      "team2": "Alpha Squad",
+      "team1": "Roland et Florine - ASBK",
+      "team2": "Nico et Viviane - Cattenom",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -675,12 +675,12 @@
       "winner": null
     },
     {
-      "poolName": "Poule D",
+      "poolName": "Poule H",
       "court": 2,
       "time": "10:20",
       "status": "upcoming",
-      "team1": "Cyclone Speed",
-      "team2": "Thunder Bolt",
+      "team1": "Christelle et José - Hayange",
+      "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -692,8 +692,8 @@
       "court": 3,
       "time": "10:20",
       "status": "upcoming",
-      "team1": "Eagles FC",
-      "team2": "Hawks Elite",
+      "team1": "Sébastien et Christina - Nilvange",
+      "team2": "Estelle et Priscilla - Kédange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -701,12 +701,12 @@
       "winner": null
     },
     {
-      "poolName": "Poule D",
+      "poolName": "Poule H",
       "court": 4,
       "time": "10:20",
       "status": "upcoming",
-      "team1": "Wolves Pack",
-      "team2": "Beta Force",
+      "team1": "Benoît et Amandine - Illange",
+      "team2": "Forfait",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -718,8 +718,21 @@
       "court": 1,
       "time": "11:00",
       "status": "upcoming",
-      "team1": "Supernova Blast",
-      "team2": "Theta Elite",
+      "team1": "Alain et Lenny - Kédange",
+      "team2": "Eric et Mika - Cattenom",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 2,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Maxime et Laurent - Cattenom",
+      "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -728,11 +741,11 @@
     },
     {
       "poolName": "Poule A",
-      "court": 2,
+      "court": 3,
       "time": "11:00",
       "status": "upcoming",
-      "team1": "Nebula Dream",
-      "team2": "Stellar Light",
+      "team1": "Nathan et Edison - ASBK",
+      "team2": "Yohann et Lucie - Nilvange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -741,37 +754,11 @@
     },
     {
       "poolName": "Poule F",
-      "court": 3,
-      "time": "11:00",
-      "status": "upcoming",
-      "team1": "Pulsar Wave",
-      "team2": "Quasar Beam",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule G",
       "court": 4,
       "time": "11:00",
       "status": "upcoming",
-      "team1": "Dragons Fire",
-      "team2": "Lions United",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule A",
-      "court": 5,
-      "time": "11:00",
-      "status": "upcoming",
-      "team1": "Galaxy Stars",
-      "team2": "Gamma Team",
+      "team1": "Alex et Céline - Nilvange",
+      "team2": "Alexia et Arnaud - Yutz",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -780,11 +767,37 @@
     },
     {
       "poolName": "Poule C",
+      "court": 5,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Emmanuel et Eva - Cattenom",
+      "team2": "Célia et Bilel",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
       "court": 6,
       "time": "11:00",
       "status": "upcoming",
-      "team1": "Storm Force",
-      "team2": "Bears Strong",
+      "team1": "Aline et Sylvain LBG",
+      "team2": "Nicolas et Léo",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 7,
+      "time": "11:00",
+      "status": "upcoming",
+      "team1": "Virginie et Gamache",
+      "team2": "Romain et Antoni",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -793,11 +806,180 @@
     },
     {
       "poolName": "Poule H",
-      "court": 7,
-      "time": "11:00",
+      "court": 1,
+      "time": "11:40",
       "status": "upcoming",
-      "team1": "Delta Strike",
-      "team2": "Sharks Attack",
+      "team1": "Christelle et José - Hayange",
+      "team2": "Forfait",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule G",
+      "court": 2,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Elaine et Noa - Cattenom",
+      "team2": "Oscar et Baptiste - Hettange",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule D",
+      "court": 3,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Arnaud et Gauthier - Nilvange",
+      "team2": "Cédric et Mathieu - BCHS",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 4,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Roland et Florine - ASBK",
+      "team2": "Estelle et Priscilla - Kédange",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule H",
+      "court": 5,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Gaetan et Angélique - Cattenom",
+      "team2": "Benoît et Amandine - Illange",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 6,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Fred et Marisa - ASBK/ Cattenom",
+      "team2": "Sandy et Lilou",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule G",
+      "court": 7,
+      "time": "11:40",
+      "status": "upcoming",
+      "team1": "Manu et Christophe - Nilvange",
+      "team2": "Julien et Stéphanie - Apach",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 1,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Sophie et Julian - Metz/Nilvange",
+      "team2": "Emmanuel et Eva - Cattenom",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 2,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Alain et Lenny - Kédange",
+      "team2": "Nicolas et Léo",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 3,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Virginie et Gamache",
+      "team2": "Yohann et Lucie - Nilvange",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule E",
+      "court": 4,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Nico et Viviane - Cattenom",
+      "team2": "Sébastien et Christina - Nilvange",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule B",
+      "court": 5,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Aline et Sylvain LBG",
+      "team2": "Eric et Mika - Cattenom",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule A",
+      "court": 6,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Nathan et Edison - ASBK",
+      "team2": "Romain et Antoni",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 7,
+      "time": "12:20",
+      "status": "upcoming",
+      "team1": "Jean-Baptiste et Jérémy - Kédange",
+      "team2": "Célia et Bilel",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -807,10 +989,10 @@
     {
       "poolName": "Poule D",
       "court": 1,
-      "time": "11:40",
+      "time": "13:00",
       "status": "upcoming",
-      "team1": "Wolves Pack",
-      "team2": "Thunder Bolt",
+      "team1": "Arnaud et Gauthier - Nilvange",
+      "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -818,12 +1000,12 @@
       "winner": null
     },
     {
-      "poolName": "Poule E",
+      "poolName": "Poule F",
       "court": 2,
-      "time": "11:40",
+      "time": "13:00",
       "status": "upcoming",
-      "team1": "Alpha Squad",
-      "team2": "Eagles FC",
+      "team1": "Fred et Marisa - ASBK/ Cattenom",
+      "team2": "Alex et Céline - Nilvange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -833,23 +1015,10 @@
     {
       "poolName": "Poule D",
       "court": 3,
-      "time": "11:40",
+      "time": "13:00",
       "status": "upcoming",
-      "team1": "Cyclone Speed",
-      "team2": "Beta Force",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule C",
-      "court": 4,
-      "time": "11:40",
-      "status": "upcoming",
-      "team1": "Phoenix Rise",
-      "team2": "Zeta Club",
+      "team1": "Maxime et Laurent - Cattenom",
+      "team2": "Cédric et Mathieu - BCHS",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -858,11 +1027,11 @@
     },
     {
       "poolName": "Poule G",
-      "court": 5,
-      "time": "11:40",
+      "court": 4,
+      "time": "13:00",
       "status": "upcoming",
-      "team1": "Tornado Spin",
-      "team2": "Comet Tail",
+      "team1": "Elaine et Noa - Cattenom",
+      "team2": "Manu et Christophe - Nilvange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -871,89 +1040,50 @@
     },
     {
       "poolName": "Poule H",
-      "court": 6,
-      "time": "11:40",
-      "status": "upcoming",
-      "team1": "Hurricane Power",
-      "team2": "Panthers Pro",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule F",
-      "court": 7,
-      "time": "11:40",
-      "status": "upcoming",
-      "team1": "Epsilon Pro",
-      "team2": "Meteor Strike",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule B",
-      "court": 1,
-      "time": "12:20",
-      "status": "upcoming",
-      "team1": "Supernova Blast",
-      "team2": "Tigers Team",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule B",
-      "court": 2,
-      "time": "12:20",
-      "status": "upcoming",
-      "team1": "Theta Elite",
-      "team2": "Lightning Fast",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule A",
-      "court": 3,
-      "time": "12:20",
-      "status": "upcoming",
-      "team1": "Galaxy Stars",
-      "team2": "Stellar Light",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule A",
-      "court": 4,
-      "time": "12:20",
-      "status": "upcoming",
-      "team1": "Nebula Dream",
-      "team2": "Gamma Team",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule F",
-      "court": 1,
+      "court": 5,
       "time": "13:00",
       "status": "upcoming",
-      "team1": "Meteor Strike",
-      "team2": "Quasar Beam",
+      "team1": "Gaetan et Angélique - Cattenom",
+      "team2": "Forfait",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule F",
+      "court": 6,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Sandy et Lilou",
+      "team2": "Alexia et Arnaud - Yutz",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule G",
+      "court": 7,
+      "time": "13:00",
+      "status": "upcoming",
+      "team1": "Oscar et Baptiste - Hettange",
+      "team2": "Julien et Stéphanie - Apach",
+      "set1Team1": "",
+      "set1Team2": "",
+      "set2Team1": "",
+      "set2Team2": "",
+      "winner": null
+    },
+    {
+      "poolName": "Poule C",
+      "court": 1,
+      "time": "13:40",
+      "status": "upcoming",
+      "team1": "Sophie et Julian - Metz/Nilvange",
+      "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
@@ -963,140 +1093,10 @@
     {
       "poolName": "Poule E",
       "court": 2,
-      "time": "13:00",
-      "status": "upcoming",
-      "team1": "Eta United",
-      "team2": "Eagles FC",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule C",
-      "court": 3,
-      "time": "13:00",
-      "status": "upcoming",
-      "team1": "Phoenix Rise",
-      "team2": "Bears Strong",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule G",
-      "court": 4,
-      "time": "13:00",
-      "status": "upcoming",
-      "team1": "Dragons Fire",
-      "team2": "Comet Tail",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule H",
-      "court": 5,
-      "time": "13:00",
-      "status": "upcoming",
-      "team1": "Panthers Pro",
-      "team2": "Delta Strike",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule E",
-      "court": 6,
-      "time": "13:00",
-      "status": "upcoming",
-      "team1": "Alpha Squad",
-      "team2": "Hawks Elite",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule D",
-      "court": 7,
-      "time": "13:00",
-      "status": "upcoming",
-      "team1": "Cyclone Speed",
-      "team2": "Wolves Pack",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule B",
-      "court": 1,
       "time": "13:40",
       "status": "upcoming",
-      "team1": "Lightning Fast",
-      "team2": "Tigers Team",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule F",
-      "court": 2,
-      "time": "13:40",
-      "status": "upcoming",
-      "team1": "Epsilon Pro",
-      "team2": "Pulsar Wave",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule C",
-      "court": 3,
-      "time": "13:40",
-      "status": "upcoming",
-      "team1": "Zeta Club",
-      "team2": "Storm Force",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule G",
-      "court": 4,
-      "time": "13:40",
-      "status": "upcoming",
-      "team1": "Tornado Spin",
-      "team2": "Lions United",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
-    },
-    {
-      "poolName": "Poule H",
-      "court": 5,
-      "time": "13:40",
-      "status": "upcoming",
-      "team1": "Hurricane Power",
-      "team2": "Sharks Attack",
+      "team1": "Nico et Viviane - Cattenom",
+      "team2": "Estelle et Priscilla - Kédange",
       "set1Team1": "",
       "set1Team2": "",
       "set2Team1": "",
