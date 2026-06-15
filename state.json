@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T15:00:15.247Z",
+    "updatedAt": "2026-06-15T15:01:41.641Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,7 +291,7 @@
     },
     {
       "poolName": "Poule E",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
@@ -305,23 +305,23 @@
           "poolPosition": 1
         },
         {
-          "name": "Sébastien et Christina - Nilvange",
+          "name": "Nico et Viviane - Cattenom",
           "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": 7,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 23,
           "setsWon": 2,
-          "setsLost": 2,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
-          "name": "Nico et Viviane - Cattenom",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 2,
-          "setsWon": 1,
-          "setsLost": 1,
+          "name": "Sébastien et Christina - Nilvange",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -14,
+          "setsWon": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -941,11 +941,11 @@
       "status": "ongoing",
       "team1": "Nico et Viviane - Cattenom",
       "team2": "Sébastien et Christina - Nilvange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Nico et Viviane - Cattenom"
     },
     {
       "poolName": "Poule B",
@@ -977,7 +977,7 @@
       "poolName": "Poule C",
       "court": 7,
       "time": "12:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Jean-Baptiste et Jérémy - Kédange",
       "team2": "Célia et Bilel",
       "set1Team1": "",
@@ -990,7 +990,7 @@
       "poolName": "Poule D",
       "court": 1,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": "",
@@ -1003,7 +1003,7 @@
       "poolName": "Poule F",
       "court": 2,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alex et Céline - Nilvange",
       "set1Team1": "",
@@ -1016,7 +1016,7 @@
       "poolName": "Poule D",
       "court": 3,
       "time": "13:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Maxime et Laurent - Cattenom",
       "team2": "Cédric et Mathieu - BCHS",
       "set1Team1": "",
