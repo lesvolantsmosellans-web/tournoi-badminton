@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:54:22.034Z",
+    "updatedAt": "2026-06-15T14:55:17.131Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,9 +150,19 @@
     },
     {
       "poolName": "Poule B",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
+        {
+          "name": "Aline et Sylvain LBG",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 40,
+          "setsWon": 4,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Eric et Mika - Cattenom",
           "wins": 2,
@@ -161,27 +171,7 @@
           "pointsDiff": 34,
           "setsWon": 4,
           "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Aline et Sylvain LBG",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 13,
-          "setsWon": 2,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Nicolas et Léo",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -21,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
         },
         {
           "name": "Alain et Lenny - Kédange",
@@ -191,31 +181,41 @@
           "pointsDiff": -26,
           "setsWon": 0,
           "setsLost": 4,
+          "poolPosition": 3
+        },
+        {
+          "name": "Nicolas et Léo",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -48,
+          "setsWon": 0,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
     },
     {
       "poolName": "Poule C",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
+        {
+          "name": "Emmanuel et Eva - Cattenom",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 42,
+          "setsWon": 4,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Sophie et Julian - Metz/Nilvange",
           "wins": 1,
           "losses": 0,
           "draws": 0,
           "pointsDiff": 33,
-          "setsWon": 2,
-          "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Emmanuel et Eva - Cattenom",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 13,
           "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 2
@@ -233,11 +233,11 @@
         {
           "name": "Célia et Bilel",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -33,
+          "pointsDiff": -62,
           "setsWon": 0,
-          "setsLost": 2,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -338,16 +338,16 @@
     },
     {
       "poolName": "Poule F",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Alex et Céline - Nilvange",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 23,
-          "setsWon": 2,
+          "pointsDiff": 49,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -362,16 +362,6 @@
           "poolPosition": 2
         },
         {
-          "name": "Alexia et Arnaud - Yutz",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -19,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
-        },
-        {
           "name": "Sandy et Lilou",
           "wins": 0,
           "losses": 1,
@@ -379,6 +369,16 @@
           "pointsDiff": -23,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Alexia et Arnaud - Yutz",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -45,
+          "setsWon": 0,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -756,27 +756,27 @@
       "poolName": "Poule F",
       "court": 4,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Alexia et Arnaud - Yutz",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 1,
+      "set2Team1": 21,
+      "set2Team2": 15,
+      "winner": "Alex et Céline - Nilvange"
     },
     {
       "poolName": "Poule C",
       "court": 5,
       "time": "11:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Célia et Bilel",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 4,
+      "set2Team1": 21,
+      "set2Team2": 9,
+      "winner": "Emmanuel et Eva - Cattenom"
     },
     {
       "poolName": "Poule B",
@@ -785,11 +785,11 @@
       "status": "ongoing",
       "team1": "Aline et Sylvain LBG",
       "team2": "Nicolas et Léo",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 5,
+      "set2Team1": 21,
+      "set2Team2": 10,
+      "winner": "Aline et Sylvain LBG"
     },
     {
       "poolName": "Poule A",
@@ -834,7 +834,7 @@
       "poolName": "Poule D",
       "court": 3,
       "time": "11:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Cédric et Mathieu - BCHS",
       "set1Team1": "",
