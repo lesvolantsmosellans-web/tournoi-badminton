@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-15T14:37:31.620Z",
+    "updatedAt": "2026-06-15T14:38:31.288Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,28 +291,18 @@
     },
     {
       "poolName": "Poule E",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
         {
           "name": "Roland et Florine - ASBK",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 6,
-          "setsWon": 2,
+          "pointsDiff": 23,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
-        },
-        {
-          "name": "Nico et Viviane - Cattenom",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 2
         },
         {
           "name": "Estelle et Priscilla - Kédange",
@@ -322,7 +312,7 @@
           "pointsDiff": 0,
           "setsWon": 0,
           "setsLost": 0,
-          "poolPosition": 3
+          "poolPosition": 2
         },
         {
           "name": "Sébastien et Christina - Nilvange",
@@ -332,6 +322,16 @@
           "pointsDiff": -6,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Nico et Viviane - Cattenom",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -17,
+          "setsWon": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -665,14 +665,14 @@
       "poolName": "Poule E",
       "court": 1,
       "time": "10:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Roland et Florine - ASBK",
       "team2": "Nico et Viviane - Cattenom",
-      "set1Team1": "",
+      "set1Team1": 17,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Roland et Florine - ASBK"
     },
     {
       "poolName": "Poule H",
