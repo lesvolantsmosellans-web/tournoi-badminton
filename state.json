@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:04:12.145Z",
+    "updatedAt": "2026-06-20T10:04:17.792Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -385,7 +385,7 @@
     },
     {
       "poolName": "Poule G",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
@@ -410,22 +410,22 @@
         },
         {
           "name": "Manu et Christophe - Nilvange",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -26,
-          "setsWon": 0,
+          "pointsDiff": -5,
+          "setsWon": 1,
           "setsLost": 4,
           "poolPosition": 3
         },
         {
           "name": "Romain et Antoni",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -49,
+          "pointsDiff": -70,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -967,11 +967,11 @@
       "status": "ongoing",
       "team1": "Manu et Christophe - Nilvange",
       "team2": "Romain et Antoni",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Manu et Christophe - Nilvange"
     },
     {
       "poolName": "Poule F",
