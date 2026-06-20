@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:09:33.217Z",
+    "updatedAt": "2026-06-20T13:13:28.368Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1715,12 +1715,12 @@
           "phase": "3ème place",
           "team1": "Nicolas et Léo",
           "team2": "Cédric et Mathieu - BCHS",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 16,
+          "set1Team2": 21,
+          "set2Team1": 21,
+          "set2Team2": 19,
+          "set3Team1": 13,
+          "set3Team2": 21,
           "winner": null
         },
         {
