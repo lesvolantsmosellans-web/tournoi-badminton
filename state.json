@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:03:34.266Z",
+    "updatedAt": "2026-06-20T09:03:43.142Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -338,28 +338,18 @@
     },
     {
       "poolName": "Poule F",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Alex et Céline - Nilvange",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 31,
-          "setsWon": 2,
+          "pointsDiff": 47,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
-        },
-        {
-          "name": "Alexia et Arnaud - Yutz",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 4,
-          "setsWon": 1,
-          "setsLost": 1,
-          "poolPosition": 2
         },
         {
           "name": "Fred et Marisa - ASBK/ Cattenom",
@@ -369,6 +359,16 @@
           "pointsDiff": -4,
           "setsWon": 1,
           "setsLost": 1,
+          "poolPosition": 2
+        },
+        {
+          "name": "Alexia et Arnaud - Yutz",
+          "wins": 0,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": -12,
+          "setsWon": 1,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -720,11 +720,11 @@
       "status": "ongoing",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Alexia et Arnaud - Yutz",
-      "set1Team1": "",
+      "set1Team1": 16,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Alex et Céline - Nilvange"
     },
     {
       "poolName": "Poule D",
