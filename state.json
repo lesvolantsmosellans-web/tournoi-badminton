@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:39:30.885Z",
+    "updatedAt": "2026-06-20T11:45:54.015Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1579,9 +1579,9 @@
           "team1": "Estelle et Priscilla - Kédange",
           "team2": "Perdant D5-8(2)",
           "set1Team1": "",
-          "set1Team2": "",
+          "set1Team2": 21,
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
