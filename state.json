@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:06:19.991Z",
+    "updatedAt": "2026-06-20T10:09:02.809Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -1016,7 +1016,7 @@
       "poolName": "Poule D",
       "court": 2,
       "time": "14:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Cédric et Mathieu - BCHS",
       "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": 11,
@@ -1092,9 +1092,9 @@
     },
     {
       "poolName": "Poule A",
-      "court": 3,
+      "court": 4,
       "time": "14:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Nathan et Edison - ASBK",
       "team2": "Julien et Stéphanie - Apach",
       "set1Team1": "",
