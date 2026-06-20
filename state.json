@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:14:24.577Z",
+    "updatedAt": "2026-06-20T10:15:30.702Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,16 +197,16 @@
     },
     {
       "poolName": "Poule C",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
           "name": "Sophie et Julian - Metz/Nilvange",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 42,
-          "setsWon": 4,
+          "pointsDiff": 63,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -223,11 +223,11 @@
         {
           "name": "Emmanuel et Eva - Cattenom",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 1,
-          "pointsDiff": 12,
+          "pointsDiff": -9,
           "setsWon": 3,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -446,23 +446,23 @@
           "poolPosition": 1
         },
         {
-          "name": "Christelle et José - Hayange",
+          "name": "Benoît et Amandine - Illange",
           "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 13,
-          "setsWon": 3,
+          "pointsDiff": 9,
+          "setsWon": 4,
           "setsLost": 2,
           "poolPosition": 2
         },
         {
-          "name": "Benoît et Amandine - Illange",
+          "name": "Christelle et José - Hayange",
           "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -16,
+          "pointsDiff": -12,
           "setsWon": 2,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
@@ -1029,14 +1029,14 @@
       "poolName": "Poule H",
       "court": 1,
       "time": "14:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Christelle et José - Hayange",
       "team2": "Benoît et Amandine - Illange",
       "set1Team1": 15,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Christelle et José - Hayange"
+      "set1Team2": 21,
+      "set2Team1": 17,
+      "set2Team2": 21,
+      "winner": "Benoît et Amandine - Illange"
     },
     {
       "poolName": "Poule C",
@@ -1045,11 +1045,11 @@
       "status": "ongoing",
       "team1": "Sophie et Julian - Metz/Nilvange",
       "team2": "Emmanuel et Eva - Cattenom",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Sophie et Julian - Metz/Nilvange"
     },
     {
       "poolName": "Poule H",
