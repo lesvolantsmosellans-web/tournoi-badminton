@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:24:24.709Z",
+    "updatedAt": "2026-06-20T10:29:06.189Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,9 +103,19 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
+        {
+          "name": "Nathan et Edison - ASBK",
+          "wins": 2,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 14,
+          "setsWon": 4,
+          "setsLost": 1,
+          "poolPosition": 1
+        },
         {
           "name": "Maxime et Antonin",
           "wins": 1,
@@ -114,26 +124,16 @@
           "pointsDiff": 36,
           "setsWon": 4,
           "setsLost": 2,
-          "poolPosition": 1
+          "poolPosition": 2
         },
         {
           "name": "Julien et Stéphanie - Apach",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 1,
-          "pointsDiff": 24,
+          "pointsDiff": 6,
           "setsWon": 3,
-          "setsLost": 1,
-          "poolPosition": 2
-        },
-        {
-          "name": "Nathan et Edison - ASBK",
-          "wins": 1,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -4,
-          "setsWon": 3,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -155,12 +155,12 @@
       "teams": [
         {
           "name": "Gaetan et Angélique - Cattenom",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
-          "draws": 1,
-          "pointsDiff": 33,
-          "setsWon": 5,
-          "setsLost": 1,
+          "draws": 0,
+          "pointsDiff": 54,
+          "setsWon": 6,
+          "setsLost": 0,
           "poolPosition": 1
         },
         {
@@ -176,11 +176,11 @@
         {
           "name": "Alain et Lenny - Kédange",
           "wins": 0,
-          "losses": 0,
-          "draws": 3,
-          "pointsDiff": 20,
-          "setsWon": 3,
-          "setsLost": 3,
+          "losses": 1,
+          "draws": 2,
+          "pointsDiff": -1,
+          "setsWon": 2,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
@@ -1068,14 +1068,14 @@
       "poolName": "Poule B",
       "court": 7,
       "time": "14:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Alain et Lenny - Kédange",
       "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": 13,
       "set1Team2": 21,
       "set2Team1": 12,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Gaetan et Angélique - Cattenom"
     },
     {
       "poolName": "Poule E",
@@ -1097,11 +1097,11 @@
       "status": "ongoing",
       "team1": "Nathan et Edison - ASBK",
       "team2": "Julien et Stéphanie - Apach",
-      "set1Team1": "",
+      "set1Team1": 18,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Nathan et Edison - ASBK"
     }
   ],
   "tournaments": {},
