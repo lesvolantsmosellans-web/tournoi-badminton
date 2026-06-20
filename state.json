@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:02:35.376Z",
+    "updatedAt": "2026-06-20T08:09:11.545Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,21 +291,21 @@
     },
     {
       "poolName": "Poule E",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Roland et Florine - ASBK",
-          "wins": 0,
+          "name": "Nico et Viviane - Cattenom",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 25,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Nico et Viviane - Cattenom",
+          "name": "Roland et Florine - ASBK",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -327,11 +327,11 @@
         {
           "name": "Estelle et Priscilla - Kédange",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -25,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -564,11 +564,11 @@
       "status": "ongoing",
       "team1": "Nico et Viviane - Cattenom",
       "team2": "Estelle et Priscilla - Kédange",
-      "set1Team1": "",
+      "set1Team1": 25,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Nico et Viviane - Cattenom"
     },
     {
       "poolName": "Poule A",
