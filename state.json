@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:23:10.869Z",
+    "updatedAt": "2026-06-20T10:23:15.043Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -356,8 +356,8 @@
           "wins": 2,
           "losses": 0,
           "draws": 1,
-          "pointsDiff": 38,
-          "setsWon": 4,
+          "pointsDiff": 34,
+          "setsWon": 5,
           "setsLost": 1,
           "poolPosition": 2
         },
@@ -366,9 +366,9 @@
           "wins": 1,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -3,
+          "pointsDiff": 1,
           "setsWon": 2,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
@@ -1007,9 +1007,9 @@
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alex et Céline - Nilvange",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 11,
+      "set2Team1": 21,
+      "set2Team2": 14,
       "winner": "Fred et Marisa - ASBK/ Cattenom"
     },
     {
