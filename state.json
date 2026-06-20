@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:38:06.929Z",
+    "updatedAt": "2026-06-20T08:38:12.245Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -441,7 +441,7 @@
           "losses": 0,
           "draws": 0,
           "pointsDiff": 21,
-          "setsWon": 1,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -472,7 +472,7 @@
           "draws": 0,
           "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -604,9 +604,9 @@
       "team1": "Eric et Mika - Cattenom",
       "team2": "Benoît et Amandine - Illange",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 9,
+      "set2Team1": 21,
+      "set2Team2": 12,
       "winner": "Eric et Mika - Cattenom"
     },
     {
