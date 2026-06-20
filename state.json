@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:32:27.654Z",
+    "updatedAt": "2026-06-20T12:34:26.695Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1406,9 +1406,9 @@
           "team1": "Benjamin et Noé - Bertrange",
           "team2": "Jean-Baptiste et Jérémy - Kédange",
           "set1Team1": "",
-          "set1Team2": "",
+          "set1Team2": 21,
           "set2Team1": "",
-          "set2Team2": "",
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
@@ -1498,26 +1498,26 @@
           "set1Team2": 12,
           "set2Team1": 21,
           "set2Team2": 16,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Alex et Céline - Nilvange"
         },
         {
           "phase": "Demi 2",
           "team1": "Emmanuel et Eva - Cattenom",
           "team2": "Manu et Christophe - Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set1Team1": 17,
+          "set1Team2": 21,
+          "set2Team1": 17,
+          "set2Team2": 21,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Manu et Christophe - Nilvange"
         },
         {
           "phase": "Finale",
-          "team1": "Gagnant D1",
-          "team2": "Gagnant D2",
+          "team1": "Alex et Céline - Nilvange",
+          "team2": "Manu et Christophe - Nilvange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1552,8 +1552,8 @@
         },
         {
           "phase": "3ème place",
-          "team1": "Perdant D1",
-          "team2": "Perdant D2",
+          "team1": "Maxime et Laurent - Cattenom",
+          "team2": "Emmanuel et Eva - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
