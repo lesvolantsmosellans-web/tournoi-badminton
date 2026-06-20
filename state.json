@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:22:26.238Z",
+    "updatedAt": "2026-06-20T08:23:33.305Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,16 +150,16 @@
     },
     {
       "poolName": "Poule B",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
           "name": "Aline et Sylvain LBG",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 10,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -186,11 +186,11 @@
         {
           "name": "Nicolas et Léo",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -10,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -440,8 +440,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 9,
-          "setsWon": 1,
+          "pointsDiff": 11,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -470,9 +470,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -9,
+          "pointsDiff": -11,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -483,7 +483,7 @@
       "poolName": "Poule F",
       "court": 1,
       "time": "10:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alexia et Arnaud - Yutz",
       "set1Team1": 13,
@@ -535,27 +535,27 @@
       "poolName": "Poule H",
       "court": 5,
       "time": "10:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Christelle et José - Hayange",
       "team2": "Virginie et Gamache",
       "set1Team1": 21,
       "set1Team2": 12,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 28,
+      "set2Team2": 26,
       "winner": "Christelle et José - Hayange"
     },
     {
       "poolName": "Poule B",
       "court": 6,
       "time": "10:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Aline et Sylvain LBG",
       "team2": "Nicolas et Léo",
-      "set1Team1": "",
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": null
+      "set1Team1": 21,
+      "set1Team2": 17,
+      "set2Team1": 21,
+      "set2Team2": 15,
+      "winner": "Aline et Sylvain LBG"
     },
     {
       "poolName": "Poule E",
@@ -611,9 +611,9 @@
     },
     {
       "poolName": "Poule A",
-      "court": 4,
+      "court": 5,
       "time": "10:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Nathan et Edison - ASBK",
       "team2": "Yohann et Lucie - Nilvange",
       "set1Team1": "",
@@ -624,9 +624,9 @@
     },
     {
       "poolName": "Poule F",
-      "court": 5,
+      "court": 6,
       "time": "10:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Sandy et Lilou",
       "set1Team1": "",
