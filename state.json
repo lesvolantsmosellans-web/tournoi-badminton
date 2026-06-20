@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:43:34.717Z",
+    "updatedAt": "2026-06-20T08:43:38.891Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -252,7 +252,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 24,
+          "pointsDiff": 25,
           "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
@@ -282,7 +282,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -24,
+          "pointsDiff": -25,
           "setsWon": 0,
           "setsLost": 2,
           "poolPosition": 4
@@ -643,7 +643,7 @@
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Cédric et Mathieu - BCHS",
       "set1Team1": 21,
-      "set1Team2": 7,
+      "set1Team2": 6,
       "set2Team1": 21,
       "set2Team2": 11,
       "winner": "Arnaud et Gauthier - Nilvange"
