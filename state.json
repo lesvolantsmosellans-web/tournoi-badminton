@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:30:49.026Z",
+    "updatedAt": "2026-06-20T12:31:08.471Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1387,7 +1387,7 @@
           "set2Team2": 20,
           "set3Team1": 22,
           "set3Team2": 20,
-          "winner": null
+          "winner": "Jean-Baptiste et Jérémy - Kédange"
         },
         {
           "phase": "3ème place",
@@ -1404,7 +1404,7 @@
         {
           "phase": "5ème place",
           "team1": "Benjamin et Noé - Bertrange",
-          "team2": "Gagnant D5-8(2)",
+          "team2": "Jean-Baptiste et Jérémy - Kédange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1416,7 +1416,7 @@
         {
           "phase": "7ème place",
           "team1": "Aline et Sylvain LBG",
-          "team2": "Perdant D5-8(2)",
+          "team2": "Benoît et Amandine - Illange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
