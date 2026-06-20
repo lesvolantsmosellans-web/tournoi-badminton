@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:24:13.568Z",
+    "updatedAt": "2026-06-20T08:35:33.495Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -343,12 +343,12 @@
       "teams": [
         {
           "name": "Alexia et Arnaud - Yutz",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 8,
+          "draws": 1,
+          "pointsDiff": 4,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -374,10 +374,10 @@
         {
           "name": "Fred et Marisa - ASBK/ Cattenom",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -8,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -4,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -393,8 +393,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 7,
-          "setsWon": 1,
+          "pointsDiff": 15,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -423,9 +423,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -7,
+          "pointsDiff": -15,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -483,14 +483,14 @@
       "poolName": "Poule F",
       "court": 1,
       "time": "10:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alexia et Arnaud - Yutz",
       "set1Team1": 13,
       "set1Team2": 21,
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Alexia et Arnaud - Yutz"
+      "set2Team1": 21,
+      "set2Team2": 17,
+      "winner": null
     },
     {
       "poolName": "Poule D",
@@ -509,13 +509,13 @@
       "poolName": "Poule G",
       "court": 3,
       "time": "10:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Manu et Christophe - Nilvange",
       "team2": "Oscar et Baptiste - Hettange",
       "set1Team1": 14,
       "set1Team2": 21,
-      "set2Team1": "",
-      "set2Team2": "",
+      "set2Team1": 13,
+      "set2Team2": 21,
       "winner": "Oscar et Baptiste - Hettange"
     },
     {
@@ -637,9 +637,9 @@
     },
     {
       "poolName": "Poule D",
-      "court": 6,
+      "court": 3,
       "time": "10:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Cédric et Mathieu - BCHS",
       "set1Team1": "",
@@ -650,9 +650,9 @@
     },
     {
       "poolName": "Poule E",
-      "court": 7,
+      "court": 1,
       "time": "10:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Roland et Florine - ASBK",
       "team2": "Sébastien et Christina - Nilvange",
       "set1Team1": "",
@@ -663,9 +663,9 @@
     },
     {
       "poolName": "Poule C",
-      "court": 1,
+      "court": 7,
       "time": "11:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": "",
