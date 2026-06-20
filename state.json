@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:18:39.024Z",
+    "updatedAt": "2026-06-20T12:19:06.648Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1667,10 +1667,10 @@
           "phase": "Demi 2",
           "team1": "Virginie et Gamache",
           "team2": "Cédric et Mathieu - BCHS",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 17,
+          "set2Team1": 21,
+          "set2Team2": 13,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
