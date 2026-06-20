@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:48:11.391Z",
+    "updatedAt": "2026-06-20T08:56:08.310Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,31 +197,31 @@
     },
     {
       "poolName": "Poule C",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
         {
-          "name": "Jean-Baptiste et Jérémy - Kédange",
+          "name": "Emmanuel et Eva - Cattenom",
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 32,
-          "setsWon": 2,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Sophie et Julian - Metz/Nilvange",
-          "wins": 0,
-          "losses": 0,
+          "name": "Jean-Baptiste et Jérémy - Kédange",
+          "wins": 1,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
+          "pointsDiff": 11,
+          "setsWon": 2,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
-          "name": "Emmanuel et Eva - Cattenom",
+          "name": "Sophie et Julian - Metz/Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -668,11 +668,11 @@
       "status": "ongoing",
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Jean-Baptiste et Jérémy - Kédange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Emmanuel et Eva - Cattenom"
     },
     {
       "poolName": "Poule B",
