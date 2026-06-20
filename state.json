@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:22:21.758Z",
+    "updatedAt": "2026-06-20T08:22:26.238Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -440,7 +440,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
+          "pointsDiff": 9,
           "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
@@ -470,7 +470,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -9,
           "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
@@ -539,7 +539,7 @@
       "team1": "Christelle et José - Hayange",
       "team2": "Virginie et Gamache",
       "set1Team1": 21,
-      "set1Team2": "",
+      "set1Team2": 12,
       "set2Team1": "",
       "set2Team2": "",
       "winner": "Christelle et José - Hayange"
