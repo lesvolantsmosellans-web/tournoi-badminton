@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:17:55.744Z",
+    "updatedAt": "2026-06-20T09:18:24.825Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -393,8 +393,8 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 36,
-          "setsWon": 3,
+          "pointsDiff": 47,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -423,9 +423,9 @@
           "wins": 0,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -38,
+          "pointsDiff": -49,
           "setsWon": 0,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -760,9 +760,9 @@
       "team1": "Oscar et Baptiste - Hettange",
       "team2": "Romain et Antoni",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 8,
+      "set2Team1": 21,
+      "set2Team2": 2,
       "winner": "Oscar et Baptiste - Hettange"
     },
     {
