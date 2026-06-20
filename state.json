@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:40:23.416Z",
+    "updatedAt": "2026-06-20T08:43:15.502Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -702,9 +702,9 @@
     },
     {
       "poolName": "Poule B",
-      "court": 4,
+      "court": 3,
       "time": "11:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Aline et Sylvain LBG",
       "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": "",
