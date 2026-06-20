@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:02:38.469Z",
+    "updatedAt": "2026-06-20T10:02:43.172Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -343,12 +343,12 @@
       "teams": [
         {
           "name": "Alexia et Arnaud - Yutz",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "draws": 2,
-          "pointsDiff": 20,
-          "setsWon": 4,
-          "setsLost": 2,
+          "draws": 1,
+          "pointsDiff": 41,
+          "setsWon": 5,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -374,11 +374,11 @@
         {
           "name": "Sandy et Lilou",
           "wins": 0,
-          "losses": 2,
-          "draws": 1,
-          "pointsDiff": -55,
-          "setsWon": 1,
-          "setsLost": 5,
+          "losses": 3,
+          "draws": 0,
+          "pointsDiff": -76,
+          "setsWon": 0,
+          "setsLost": 6,
           "poolPosition": 4
         }
       ]
@@ -983,8 +983,8 @@
       "set1Team1": 13,
       "set1Team2": 21,
       "set2Team1": 5,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Alexia et Arnaud - Yutz"
     },
     {
       "poolName": "Poule D",
