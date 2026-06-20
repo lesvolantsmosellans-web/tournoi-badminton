@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:08:31.549Z",
+    "updatedAt": "2026-06-20T09:10:50.775Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,9 +103,19 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
+        {
+          "name": "Maxime et Antonin",
+          "wins": 1,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 25,
+          "setsWon": 2,
+          "setsLost": 1,
+          "poolPosition": 1
+        },
         {
           "name": "Nathan et Edison - ASBK",
           "wins": 1,
@@ -114,27 +124,7 @@
           "pointsDiff": 4,
           "setsWon": 2,
           "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Maxime et Antonin",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": 4,
-          "setsWon": 1,
-          "setsLost": 1,
           "poolPosition": 2
-        },
-        {
-          "name": "Yohann et Lucie - Nilvange",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -4,
-          "setsWon": 0,
-          "setsLost": 2,
-          "poolPosition": 3
         },
         {
           "name": "Julien et Stéphanie - Apach",
@@ -144,6 +134,16 @@
           "pointsDiff": -4,
           "setsWon": 1,
           "setsLost": 1,
+          "poolPosition": 3
+        },
+        {
+          "name": "Yohann et Lucie - Nilvange",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -25,
+          "setsWon": 0,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -154,14 +154,24 @@
       "total": 6,
       "teams": [
         {
-          "name": "Aline et Sylvain LBG",
+          "name": "Gaetan et Angélique - Cattenom",
           "wins": 1,
           "losses": 0,
-          "draws": 1,
-          "pointsDiff": 16,
-          "setsWon": 3,
-          "setsLost": 1,
+          "draws": 0,
+          "pointsDiff": 15,
+          "setsWon": 2,
+          "setsLost": 0,
           "poolPosition": 1
+        },
+        {
+          "name": "Aline et Sylvain LBG",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -5,
+          "setsWon": 2,
+          "setsLost": 2,
+          "poolPosition": 2
         },
         {
           "name": "Alain et Lenny - Kédange",
@@ -169,16 +179,6 @@
           "losses": 0,
           "draws": 1,
           "pointsDiff": 13,
-          "setsWon": 1,
-          "setsLost": 1,
-          "poolPosition": 2
-        },
-        {
-          "name": "Gaetan et Angélique - Cattenom",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -6,
           "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 3
@@ -704,14 +704,14 @@
       "poolName": "Poule B",
       "court": 3,
       "time": "11:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Aline et Sylvain LBG",
       "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": 17,
       "set1Team2": 21,
       "set2Team1": 10,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Gaetan et Angélique - Cattenom"
     },
     {
       "poolName": "Poule F",
@@ -785,11 +785,11 @@
       "status": "ongoing",
       "team1": "Maxime et Antonin",
       "team2": "Yohann et Lucie - Nilvange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Maxime et Antonin"
     },
     {
       "poolName": "Poule G",
@@ -819,9 +819,9 @@
     },
     {
       "poolName": "Poule B",
-      "court": 2,
+      "court": 3,
       "time": "12:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Aline et Sylvain LBG",
       "team2": "Alain et Lenny - Kédange",
       "set1Team1": "",
