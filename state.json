@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:23:00.082Z",
+    "updatedAt": "2026-06-20T11:23:49.059Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1488,7 +1488,7 @@
           "set2Team2": 14,
           "set3Team1": 17,
           "set3Team2": 21,
-          "winner": null
+          "winner": "Manu et Christophe - Nilvange"
         },
         {
           "phase": "Demi 1",
@@ -1505,7 +1505,7 @@
         {
           "phase": "Demi 2",
           "team1": "Emmanuel et Eva - Cattenom",
-          "team2": "Gagnant Q4",
+          "team2": "Manu et Christophe - Nilvange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1541,7 +1541,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Christelle et José - Hayange",
-          "team2": "Perdant Q4",
+          "team2": "Nathan et Edison - ASBK",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1643,13 +1643,13 @@
           "phase": "Quart 4",
           "team1": "Cédric et Mathieu - BCHS",
           "team2": "Yohann et Lucie - Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set1Team1": 21,
+          "set1Team2": 13,
+          "set2Team1": 16,
+          "set2Team2": 21,
+          "set3Team1": 21,
+          "set3Team2": 12,
+          "winner": "Cédric et Mathieu - BCHS"
         },
         {
           "phase": "Demi 1",
@@ -1666,7 +1666,7 @@
         {
           "phase": "Demi 2",
           "team1": "Virginie et Gamache",
-          "team2": "Gagnant Q4",
+          "team2": "Cédric et Mathieu - BCHS",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1702,7 +1702,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Célia et Bilel",
-          "team2": "Perdant Q4",
+          "team2": "Yohann et Lucie - Nilvange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
