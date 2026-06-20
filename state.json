@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:12:47.759Z",
+    "updatedAt": "2026-06-20T12:13:23.821Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1548,7 +1548,7 @@
           "set2Team2": 22,
           "set3Team1": 17,
           "set3Team2": 21,
-          "winner": null
+          "winner": "Nathan et Edison - ASBK"
         },
         {
           "phase": "3ème place",
@@ -1565,7 +1565,7 @@
         {
           "phase": "5ème place",
           "team1": "Alain et Lenny - Kédange",
-          "team2": "Gagnant D5-8(2)",
+          "team2": "Nathan et Edison - ASBK",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1577,14 +1577,14 @@
         {
           "phase": "7ème place",
           "team1": "Estelle et Priscilla - Kédange",
-          "team2": "Perdant D5-8(2)",
+          "team2": "Christelle et José - Hayange",
           "set1Team1": 0,
           "set1Team2": 21,
           "set2Team1": 0,
           "set2Team2": 21,
           "set3Team1": 0,
           "set3Team2": 0,
-          "winner": "Perdant D5-8(2)"
+          "winner": "Christelle et José - Hayange"
         }
       ]
     },
