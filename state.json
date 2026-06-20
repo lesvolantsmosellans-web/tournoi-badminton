@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:51:22.964Z",
+    "updatedAt": "2026-06-20T11:06:54.880Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1607,10 +1607,10 @@
           "phase": "Quart 1",
           "team1": "Nicolas et Léo",
           "team2": "Sandy et Lilou",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 17,
+          "set2Team1": 21,
+          "set2Team2": 17,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
