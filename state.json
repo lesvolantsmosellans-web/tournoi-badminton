@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:56:42.979Z",
+    "updatedAt": "2026-06-20T12:11:13.267Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1160,13 +1160,13 @@
           "phase": "Quart 4",
           "team1": "Gaetan et Angélique - Cattenom",
           "team2": "Arnaud et Gauthier - Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set1Team1": 8,
+          "set1Team2": 21,
+          "set2Team1": 21,
+          "set2Team2": 19,
+          "set3Team1": 13,
+          "set3Team2": 21,
+          "winner": "Arnaud et Gauthier - Nilvange"
         },
         {
           "phase": "Demi 1",
@@ -1183,7 +1183,7 @@
         {
           "phase": "Demi 2",
           "team1": "Oscar et Baptiste - Hettange",
-          "team2": "Gagnant Q4",
+          "team2": "Arnaud et Gauthier - Nilvange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1219,7 +1219,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Alexia et Arnaud - Yutz",
-          "team2": "Perdant Q4",
+          "team2": "Gaetan et Angélique - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
