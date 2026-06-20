@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:58:31.533Z",
+    "updatedAt": "2026-06-20T09:58:34.390Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -309,10 +309,20 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 38,
+          "pointsDiff": 23,
           "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 2
+        },
+        {
+          "name": "Estelle et Priscilla - Kédange",
+          "wins": 0,
+          "losses": 2,
+          "draws": 1,
+          "pointsDiff": -40,
+          "setsWon": 1,
+          "setsLost": 5,
+          "poolPosition": 3
         },
         {
           "name": "Sébastien et Christina - Nilvange",
@@ -320,16 +330,6 @@
           "losses": 2,
           "draws": 1,
           "pointsDiff": -48,
-          "setsWon": 1,
-          "setsLost": 5,
-          "poolPosition": 3
-        },
-        {
-          "name": "Estelle et Priscilla - Kédange",
-          "wins": 0,
-          "losses": 2,
-          "draws": 1,
-          "pointsDiff": -55,
           "setsWon": 1,
           "setsLost": 5,
           "poolPosition": 4
@@ -905,7 +905,7 @@
       "set1Team1": 21,
       "set1Team2": 19,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 15,
       "winner": "Roland et Florine - ASBK"
     },
     {
