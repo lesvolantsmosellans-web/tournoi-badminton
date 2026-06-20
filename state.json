@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:39:50.353Z",
+    "updatedAt": "2026-06-20T13:51:18.008Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1232,12 +1232,12 @@
           "phase": "3ème place",
           "team1": "Nico et Viviane - Cattenom",
           "team2": "Oscar et Baptiste - Hettange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 12,
+          "set1Team2": 21,
+          "set2Team1": 21,
+          "set2Team2": 19,
+          "set3Team1": 12,
+          "set3Team2": 21,
           "winner": null
         },
         {
@@ -1397,9 +1397,9 @@
           "set1Team2": 21,
           "set2Team1": 18,
           "set2Team2": 21,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Roland et Florine - ASBK"
         },
         {
           "phase": "5ème place",
