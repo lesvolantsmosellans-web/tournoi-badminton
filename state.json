@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:54:32.967Z",
+    "updatedAt": "2026-06-20T12:55:13.270Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1349,14 +1349,14 @@
           "set1Team2": 17,
           "set2Team1": 23,
           "set2Team2": 21,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Maxime et Antonin"
         },
         {
           "phase": "Finale",
           "team1": "Elaine et Noa - Cattenom",
-          "team2": "Gagnant D2",
+          "team2": "Maxime et Antonin",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1392,7 +1392,7 @@
         {
           "phase": "3ème place",
           "team1": "Fred et Marisa - ASBK/ Cattenom",
-          "team2": "Perdant D2",
+          "team2": "Roland et Florine - ASBK",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
