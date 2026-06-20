@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:17:03.933Z",
+    "updatedAt": "2026-06-20T08:19:30.657Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,21 +197,21 @@
     },
     {
       "poolName": "Poule C",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Sophie et Julian - Metz/Nilvange",
-          "wins": 0,
+          "name": "Jean-Baptiste et Jérémy - Kédange",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Emmanuel et Eva - Cattenom",
+          "name": "Sophie et Julian - Metz/Nilvange",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -221,7 +221,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Jean-Baptiste et Jérémy - Kédange",
+          "name": "Emmanuel et Eva - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -233,11 +233,11 @@
         {
           "name": "Célia et Bilel",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -525,11 +525,11 @@
       "status": "ongoing",
       "team1": "Jean-Baptiste et Jérémy - Kédange",
       "team2": "Célia et Bilel",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Jean-Baptiste et Jérémy - Kédange"
     },
     {
       "poolName": "Poule H",
