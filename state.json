@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:21:24.030Z",
+    "updatedAt": "2026-06-20T13:23:53.819Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1554,12 +1554,12 @@
           "phase": "3ème place",
           "team1": "Maxime et Laurent - Cattenom",
           "team2": "Emmanuel et Eva - Cattenom",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 19,
+          "set1Team2": 21,
+          "set2Team1": 22,
+          "set2Team2": 20,
+          "set3Team1": 19,
+          "set3Team2": 21,
           "winner": null
         },
         {
