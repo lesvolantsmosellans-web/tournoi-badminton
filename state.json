@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:07:02.629Z",
+    "updatedAt": "2026-06-20T11:08:21.471Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1458,10 +1458,10 @@
           "phase": "Quart 2",
           "team1": "Christelle et José - Hayange",
           "team2": "Maxime et Laurent - Cattenom",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 15,
+          "set1Team2": 21,
+          "set2Team1": 12,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
