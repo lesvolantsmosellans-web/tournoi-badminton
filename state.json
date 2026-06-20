@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:13:10.102Z",
+    "updatedAt": "2026-06-20T09:13:21.797Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -316,21 +316,21 @@
         },
         {
           "name": "Sébastien et Christina - Nilvange",
-          "wins": 1,
+          "wins": 0,
           "losses": 1,
-          "draws": 0,
-          "pointsDiff": 2,
+          "draws": 1,
+          "pointsDiff": -15,
           "setsWon": 1,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
           "name": "Estelle et Priscilla - Kédange",
           "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "pointsDiff": -49,
-          "setsWon": 0,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": -32,
+          "setsWon": 1,
           "setsLost": 3,
           "poolPosition": 4
         }
@@ -747,10 +747,10 @@
       "team1": "Sébastien et Christina - Nilvange",
       "team2": "Estelle et Priscilla - Kédange",
       "set1Team1": 17,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Sébastien et Christina - Nilvange"
+      "set1Team2": 21,
+      "set2Team1": 21,
+      "set2Team2": 17,
+      "winner": null
     },
     {
       "poolName": "Poule G",
