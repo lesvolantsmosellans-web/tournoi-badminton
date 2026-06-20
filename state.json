@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:55:35.118Z",
+    "updatedAt": "2026-06-20T11:56:27.229Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1703,10 +1703,10 @@
           "phase": "Demi 5-8 (2)",
           "team1": "Célia et Bilel",
           "team2": "Yohann et Lucie - Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 12,
+          "set1Team2": 21,
+          "set2Team1": 17,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
