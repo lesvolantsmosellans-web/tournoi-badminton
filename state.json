@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:56:38.969Z",
+    "updatedAt": "2026-06-20T08:56:46.736Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,9 +150,19 @@
     },
     {
       "poolName": "Poule B",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Alain et Lenny - Kédange",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 19,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Aline et Sylvain LBG",
           "wins": 1,
@@ -160,16 +170,6 @@
           "draws": 0,
           "pointsDiff": 10,
           "setsWon": 2,
-          "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Alain et Lenny - Kédange",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
           "setsLost": 0,
           "poolPosition": 2
         },
@@ -186,11 +186,11 @@
         {
           "name": "Nicolas et Léo",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -10,
+          "pointsDiff": -29,
           "setsWon": 0,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -681,11 +681,11 @@
       "status": "ongoing",
       "team1": "Alain et Lenny - Kédange",
       "team2": "Nicolas et Léo",
-      "set1Team1": "",
+      "set1Team1": 19,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Alain et Lenny - Kédange"
     },
     {
       "poolName": "Poule C",
