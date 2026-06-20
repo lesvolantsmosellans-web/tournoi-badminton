@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:29:09.983Z",
+    "updatedAt": "2026-06-20T10:30:14.015Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -107,6 +107,16 @@
       "total": 6,
       "teams": [
         {
+          "name": "Julien et Stéphanie - Apach",
+          "wins": 2,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 35,
+          "setsWon": 5,
+          "setsLost": 1,
+          "poolPosition": 1
+        },
+        {
           "name": "Maxime et Antonin",
           "wins": 1,
           "losses": 0,
@@ -114,26 +124,16 @@
           "pointsDiff": 36,
           "setsWon": 4,
           "setsLost": 2,
-          "poolPosition": 1
-        },
-        {
-          "name": "Julien et Stéphanie - Apach",
-          "wins": 1,
-          "losses": 0,
-          "draws": 2,
-          "pointsDiff": 14,
-          "setsWon": 4,
-          "setsLost": 2,
           "poolPosition": 2
         },
         {
           "name": "Nathan et Edison - ASBK",
           "wins": 1,
-          "losses": 0,
-          "draws": 2,
-          "pointsDiff": 6,
-          "setsWon": 4,
-          "setsLost": 2,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": -15,
+          "setsWon": 3,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -291,27 +291,27 @@
     },
     {
       "poolName": "Poule E",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
-          "name": "Nico et Viviane - Cattenom",
-          "wins": 2,
+          "name": "Roland et Florine - ASBK",
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 65,
-          "setsWon": 4,
+          "pointsDiff": 38,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Roland et Florine - ASBK",
+          "name": "Nico et Viviane - Cattenom",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 23,
+          "pointsDiff": 50,
           "setsWon": 4,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -1084,24 +1084,24 @@
       "status": "ongoing",
       "team1": "Roland et Florine - ASBK",
       "team2": "Nico et Viviane - Cattenom",
-      "set1Team1": "",
+      "set1Team1": 15,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Roland et Florine - ASBK"
     },
     {
       "poolName": "Poule A",
       "court": 4,
       "time": "14:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Nathan et Edison - ASBK",
       "team2": "Julien et Stéphanie - Apach",
       "set1Team1": 18,
       "set1Team2": 21,
       "set2Team1": 13,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Julien et Stéphanie - Apach"
     }
   ],
   "tournaments": {},
