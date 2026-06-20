@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:52:08.951Z",
+    "updatedAt": "2026-06-20T11:52:34.463Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1130,7 +1130,7 @@
           "set2Team2": 13,
           "set3Team1": 21,
           "set3Team2": 18,
-          "winner": null
+          "winner": "Nico et Viviane - Cattenom"
         },
         {
           "phase": "Quart 2",
@@ -1170,7 +1170,7 @@
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Nico et Viviane - Cattenom",
           "team2": "Sophie et Julian - Metz/Nilvange",
           "set1Team1": "",
           "set1Team2": "",
@@ -1206,7 +1206,7 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
+          "team1": "Julien et Stéphanie - Apach",
           "team2": "Eric et Mika - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
