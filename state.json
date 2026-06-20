@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:56:25.225Z",
+    "updatedAt": "2026-06-20T08:56:38.969Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -767,9 +767,9 @@
     },
     {
       "poolName": "Poule H",
-      "court": 5,
+      "court": 2,
       "time": "12:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Christelle et José - Hayange",
       "team2": "Eric et Mika - Cattenom",
       "set1Team1": "",
