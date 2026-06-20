@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:44:59.566Z",
+    "updatedAt": "2026-06-20T08:46:25.027Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,9 +103,19 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Nathan et Edison - ASBK",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Maxime et Antonin",
           "wins": 0,
@@ -114,27 +124,7 @@
           "pointsDiff": 4,
           "setsWon": 1,
           "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Nathan et Edison - ASBK",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Yohann et Lucie - Nilvange",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Julien et Stéphanie - Apach",
@@ -143,6 +133,16 @@
           "draws": 1,
           "pointsDiff": -4,
           "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
+        },
+        {
+          "name": "Yohann et Lucie - Nilvange",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
+          "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -616,11 +616,11 @@
       "status": "ongoing",
       "team1": "Nathan et Edison - ASBK",
       "team2": "Yohann et Lucie - Nilvange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Nathan et Edison - ASBK"
     },
     {
       "poolName": "Poule F",
