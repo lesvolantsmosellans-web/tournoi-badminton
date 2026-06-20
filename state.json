@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:24:20.033Z",
+    "updatedAt": "2026-06-20T10:24:24.709Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -155,12 +155,12 @@
       "teams": [
         {
           "name": "Gaetan et Angélique - Cattenom",
-          "wins": 3,
+          "wins": 2,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 45,
+          "draws": 1,
+          "pointsDiff": 33,
           "setsWon": 5,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -176,10 +176,10 @@
         {
           "name": "Alain et Lenny - Kédange",
           "wins": 0,
-          "losses": 1,
-          "draws": 2,
-          "pointsDiff": 8,
-          "setsWon": 2,
+          "losses": 0,
+          "draws": 3,
+          "pointsDiff": 20,
+          "setsWon": 3,
           "setsLost": 3,
           "poolPosition": 3
         },
@@ -1073,9 +1073,9 @@
       "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": 13,
       "set1Team2": 21,
-      "set2Team1": "",
+      "set2Team1": 12,
       "set2Team2": "",
-      "winner": "Gaetan et Angélique - Cattenom"
+      "winner": null
     },
     {
       "poolName": "Poule E",
