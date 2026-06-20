@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:46:25.027Z",
+    "updatedAt": "2026-06-20T08:46:29.768Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -111,8 +111,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 1,
+          "pointsDiff": 4,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -127,22 +127,22 @@
           "poolPosition": 2
         },
         {
+          "name": "Yohann et Lucie - Nilvange",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -4,
+          "setsWon": 0,
+          "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
           "name": "Julien et Stéphanie - Apach",
           "wins": 0,
           "losses": 0,
           "draws": 1,
           "pointsDiff": -4,
           "setsWon": 1,
-          "setsLost": 1,
-          "poolPosition": 3
-        },
-        {
-          "name": "Yohann et Lucie - Nilvange",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -21,
-          "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -617,9 +617,9 @@
       "team1": "Nathan et Edison - ASBK",
       "team2": "Yohann et Lucie - Nilvange",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 19,
+      "set2Team1": 21,
+      "set2Team2": 19,
       "winner": "Nathan et Edison - ASBK"
     },
     {
