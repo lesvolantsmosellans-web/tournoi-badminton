@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:42:52.097Z",
+    "updatedAt": "2026-06-20T09:45:49.273Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -367,7 +367,7 @@
           "losses": 0,
           "draws": 1,
           "pointsDiff": 17,
-          "setsWon": 2,
+          "setsWon": 3,
           "setsLost": 1,
           "poolPosition": 3
         },
@@ -378,7 +378,7 @@
           "draws": 0,
           "pointsDiff": -52,
           "setsWon": 0,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -873,13 +873,13 @@
       "poolName": "Poule F",
       "court": 7,
       "time": "12:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Sandy et Lilou",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 11,
+      "set2Team1": 21,
+      "set2Team2": 10,
       "winner": "Fred et Marisa - ASBK/ Cattenom"
     },
     {
@@ -975,9 +975,9 @@
     },
     {
       "poolName": "Poule F",
-      "court": 1,
+      "court": 3,
       "time": "14:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Sandy et Lilou",
       "team2": "Alexia et Arnaud - Yutz",
       "set1Team1": "",
