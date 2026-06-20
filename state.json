@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:45:59.867Z",
+    "updatedAt": "2026-06-20T09:46:05.215Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -127,23 +127,23 @@
           "poolPosition": 2
         },
         {
-          "name": "Yohann et Lucie - Nilvange",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0,
-          "pointsDiff": -22,
-          "setsWon": 1,
-          "setsLost": 4,
+          "name": "Julien et Stéphanie - Apach",
+          "wins": 0,
+          "losses": 0,
+          "draws": 2,
+          "pointsDiff": 3,
+          "setsWon": 2,
+          "setsLost": 2,
           "poolPosition": 3
         },
         {
-          "name": "Julien et Stéphanie - Apach",
+          "name": "Yohann et Lucie - Nilvange",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 1,
-          "pointsDiff": -10,
+          "pointsDiff": -35,
           "setsWon": 1,
-          "setsLost": 2,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -955,10 +955,10 @@
       "team1": "Yohann et Lucie - Nilvange",
       "team2": "Julien et Stéphanie - Apach",
       "set1Team1": 6,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 8,
       "set2Team2": "",
-      "winner": "Yohann et Lucie - Nilvange"
+      "winner": null
     },
     {
       "poolName": "Poule G",
