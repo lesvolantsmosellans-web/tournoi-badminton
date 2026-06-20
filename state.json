@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:23:38.800Z",
+    "updatedAt": "2026-06-20T08:24:11.545Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -385,21 +385,21 @@
     },
     {
       "poolName": "Poule G",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
-          "name": "Elaine et Noa - Cattenom",
-          "wins": 0,
+          "name": "Manu et Christophe - Nilvange",
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 14,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Manu et Christophe - Nilvange",
+          "name": "Elaine et Noa - Cattenom",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -409,7 +409,7 @@
           "poolPosition": 2
         },
         {
-          "name": "Oscar et Baptiste - Hettange",
+          "name": "Romain et Antoni",
           "wins": 0,
           "losses": 0,
           "draws": 0,
@@ -419,13 +419,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Romain et Antoni",
+          "name": "Oscar et Baptiste - Hettange",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -14,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -512,11 +512,11 @@
       "status": "ongoing",
       "team1": "Manu et Christophe - Nilvange",
       "team2": "Oscar et Baptiste - Hettange",
-      "set1Team1": "",
+      "set1Team1": 14,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Manu et Christophe - Nilvange"
     },
     {
       "poolName": "Poule C",
