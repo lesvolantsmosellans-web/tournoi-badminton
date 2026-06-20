@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:11:17.111Z",
+    "updatedAt": "2026-06-20T11:12:33.973Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1462,9 +1462,9 @@
           "set1Team2": 21,
           "set2Team1": 12,
           "set2Team2": 21,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Maxime et Laurent - Cattenom"
         },
         {
           "phase": "Quart 3",
@@ -1474,9 +1474,9 @@
           "set1Team2": 9,
           "set2Team1": 21,
           "set2Team2": 11,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Emmanuel et Eva - Cattenom"
         },
         {
           "phase": "Quart 4",
@@ -1493,7 +1493,7 @@
         {
           "phase": "Demi 1",
           "team1": "Gagnant Q1",
-          "team2": "Gagnant Q2",
+          "team2": "Maxime et Laurent - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1504,7 +1504,7 @@
         },
         {
           "phase": "Demi 2",
-          "team1": "Gagnant Q3",
+          "team1": "Emmanuel et Eva - Cattenom",
           "team2": "Gagnant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1529,7 +1529,7 @@
         {
           "phase": "Demi 5-8 (1)",
           "team1": "Perdant Q1",
-          "team2": "Perdant Q3",
+          "team2": "Alain et Lenny - Kédange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1540,7 +1540,7 @@
         },
         {
           "phase": "Demi 5-8 (2)",
-          "team1": "Perdant Q2",
+          "team1": "Christelle et José - Hayange",
           "team2": "Perdant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1611,18 +1611,18 @@
           "set1Team2": 17,
           "set2Team1": 21,
           "set2Team2": 17,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Nicolas et Léo"
         },
         {
           "phase": "Quart 2",
           "team1": "Sébastien et Christina - Nilvange",
           "team2": "Célia et Bilel",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 15,
+          "set2Team1": 21,
+          "set2Team2": 15,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
@@ -1635,9 +1635,9 @@
           "set1Team2": 16,
           "set2Team1": 21,
           "set2Team2": 16,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Virginie et Gamache"
         },
         {
           "phase": "Quart 4",
@@ -1653,7 +1653,7 @@
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Nicolas et Léo",
           "team2": "Gagnant Q2",
           "set1Team1": "",
           "set1Team2": "",
@@ -1665,7 +1665,7 @@
         },
         {
           "phase": "Demi 2",
-          "team1": "Gagnant Q3",
+          "team1": "Virginie et Gamache",
           "team2": "Gagnant Q4",
           "set1Team1": "",
           "set1Team2": "",
@@ -1689,8 +1689,8 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
-          "team2": "Perdant Q3",
+          "team1": "Sandy et Lilou",
+          "team2": "Romain et Antoni",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
