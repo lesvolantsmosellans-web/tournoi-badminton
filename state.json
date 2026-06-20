@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:03:50.992Z",
+    "updatedAt": "2026-06-20T09:07:01.154Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,27 +244,27 @@
     },
     {
       "poolName": "Poule D",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Arnaud et Gauthier - Nilvange",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 25,
-          "setsWon": 2,
+          "pointsDiff": 46,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
           "name": "Benjamin et Noé - Bertrange",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 12,
+          "pointsDiff": -9,
           "setsWon": 2,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -717,7 +717,7 @@
       "poolName": "Poule F",
       "court": 4,
       "time": "12:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Alexia et Arnaud - Yutz",
       "set1Team1": 16,
@@ -733,11 +733,11 @@
       "status": "ongoing",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Benjamin et Noé - Bertrange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Arnaud et Gauthier - Nilvange"
     },
     {
       "poolName": "Poule E",
