@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:43:15.502Z",
+    "updatedAt": "2026-06-20T08:43:25.975Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,9 +244,19 @@
     },
     {
       "poolName": "Poule D",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Arnaud et Gauthier - Nilvange",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Benjamin et Noé - Bertrange",
           "wins": 1,
@@ -255,27 +265,7 @@
           "pointsDiff": 12,
           "setsWon": 2,
           "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Arnaud et Gauthier - Nilvange",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Cédric et Mathieu - BCHS",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Maxime et Laurent - Cattenom",
@@ -285,6 +275,16 @@
           "pointsDiff": -12,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Cédric et Mathieu - BCHS",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
+          "setsWon": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -642,11 +642,11 @@
       "status": "ongoing",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Cédric et Mathieu - BCHS",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Arnaud et Gauthier - Nilvange"
     },
     {
       "poolName": "Poule E",
