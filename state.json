@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:30:15.025Z",
+    "updatedAt": "2026-06-20T11:32:41.939Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1297,10 +1297,10 @@
           "phase": "Quart 2",
           "team1": "Elaine et Noa - Cattenom",
           "team2": "Jean-Baptiste et Jérémy - Kédange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 15,
+          "set2Team1": 21,
+          "set2Team2": 12,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
