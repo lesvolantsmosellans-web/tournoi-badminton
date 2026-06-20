@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:56:08.310Z",
+    "updatedAt": "2026-06-20T08:56:11.751Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -205,8 +205,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 1,
+          "pointsDiff": 20,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -215,9 +215,9 @@
           "wins": 1,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": 11,
+          "pointsDiff": 12,
           "setsWon": 2,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 2
         },
         {
@@ -669,8 +669,8 @@
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 16,
+      "set2Team1": 15,
       "set2Team2": "",
       "winner": "Emmanuel et Eva - Cattenom"
     },
