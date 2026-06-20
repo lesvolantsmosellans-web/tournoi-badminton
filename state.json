@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:56:15.398Z",
+    "updatedAt": "2026-06-20T08:56:25.225Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -665,7 +665,7 @@
       "poolName": "Poule C",
       "court": 7,
       "time": "11:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": 21,
@@ -754,9 +754,9 @@
     },
     {
       "poolName": "Poule G",
-      "court": 4,
+      "court": 7,
       "time": "12:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Oscar et Baptiste - Hettange",
       "team2": "Romain et Antoni",
       "set1Team1": "",
