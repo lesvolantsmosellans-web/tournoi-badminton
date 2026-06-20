@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:22:17.419Z",
+    "updatedAt": "2026-06-20T11:23:00.082Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1482,12 +1482,12 @@
           "phase": "Quart 4",
           "team1": "Nathan et Edison - ASBK",
           "team2": "Manu et Christophe - Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 14,
+          "set1Team2": 21,
+          "set2Team1": 21,
+          "set2Team2": 14,
+          "set3Team1": 17,
+          "set3Team2": 21,
           "winner": null
         },
         {
