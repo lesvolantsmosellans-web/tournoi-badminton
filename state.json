@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:31:23.599Z",
+    "updatedAt": "2026-06-20T09:31:34.886Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -197,7 +197,7 @@
     },
     {
       "poolName": "Poule C",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
@@ -211,6 +211,16 @@
           "poolPosition": 1
         },
         {
+          "name": "Emmanuel et Eva - Cattenom",
+          "wins": 1,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 20,
+          "setsWon": 2,
+          "setsLost": 1,
+          "poolPosition": 2
+        },
+        {
           "name": "Jean-Baptiste et Jérémy - Kédange",
           "wins": 1,
           "losses": 1,
@@ -218,26 +228,16 @@
           "pointsDiff": 18,
           "setsWon": 3,
           "setsLost": 3,
-          "poolPosition": 2
-        },
-        {
-          "name": "Emmanuel et Eva - Cattenom",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -1,
-          "setsWon": 1,
-          "setsLost": 1,
           "poolPosition": 3
         },
         {
           "name": "Célia et Bilel",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -59,
+          "pointsDiff": -80,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -811,11 +811,11 @@
       "status": "ongoing",
       "team1": "Emmanuel et Eva - Cattenom",
       "team2": "Célia et Bilel",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Emmanuel et Eva - Cattenom"
     },
     {
       "poolName": "Poule B",
