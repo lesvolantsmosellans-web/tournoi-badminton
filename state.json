@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:51:18.008Z",
+    "updatedAt": "2026-06-20T13:52:55.617Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1238,7 +1238,7 @@
           "set2Team2": 19,
           "set3Team1": 12,
           "set3Team2": 21,
-          "winner": null
+          "winner": "Oscar et Baptiste - Hettange"
         },
         {
           "phase": "5ème place",
