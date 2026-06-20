@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:47:21.193Z",
+    "updatedAt": "2026-06-20T09:47:27.815Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -291,16 +291,16 @@
     },
     {
       "poolName": "Poule E",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
           "name": "Nico et Viviane - Cattenom",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 32,
-          "setsWon": 2,
+          "pointsDiff": 53,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -315,16 +315,6 @@
           "poolPosition": 2
         },
         {
-          "name": "Sébastien et Christina - Nilvange",
-          "wins": 0,
-          "losses": 1,
-          "draws": 1,
-          "pointsDiff": -15,
-          "setsWon": 1,
-          "setsLost": 3,
-          "poolPosition": 3
-        },
-        {
           "name": "Estelle et Priscilla - Kédange",
           "wins": 0,
           "losses": 1,
@@ -332,6 +322,16 @@
           "pointsDiff": -32,
           "setsWon": 1,
           "setsLost": 3,
+          "poolPosition": 3
+        },
+        {
+          "name": "Sébastien et Christina - Nilvange",
+          "wins": 0,
+          "losses": 2,
+          "draws": 1,
+          "pointsDiff": -36,
+          "setsWon": 1,
+          "setsLost": 4,
           "poolPosition": 4
         }
       ]
@@ -915,11 +915,11 @@
       "status": "ongoing",
       "team1": "Nico et Viviane - Cattenom",
       "team2": "Sébastien et Christina - Nilvange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Nico et Viviane - Cattenom"
     },
     {
       "poolName": "Poule A",
