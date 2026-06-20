@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:10:18.160Z",
+    "updatedAt": "2026-06-20T08:12:11.635Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -248,11 +248,11 @@
       "total": 6,
       "teams": [
         {
-          "name": "Maxime et Laurent - Cattenom",
+          "name": "Benjamin et Noé - Bertrange",
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 13,
+          "pointsDiff": 8,
           "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
@@ -278,11 +278,11 @@
           "poolPosition": 3
         },
         {
-          "name": "Benjamin et Noé - Bertrange",
+          "name": "Maxime et Laurent - Cattenom",
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -13,
+          "pointsDiff": -8,
           "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
@@ -338,16 +338,16 @@
     },
     {
       "poolName": "Poule F",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
           "name": "Fred et Marisa - ASBK/ Cattenom",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 13,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -374,11 +374,11 @@
         {
           "name": "Alexia et Arnaud - Yutz",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -13,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -486,11 +486,11 @@
       "status": "ongoing",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alexia et Arnaud - Yutz",
-      "set1Team1": "",
+      "set1Team1": 13,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Fred et Marisa - ASBK/ Cattenom"
     },
     {
       "poolName": "Poule D",
@@ -500,10 +500,10 @@
       "team1": "Maxime et Laurent - Cattenom",
       "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": 13,
-      "set1Team2": "",
+      "set1Team2": 21,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": "Maxime et Laurent - Cattenom"
+      "winner": "Benjamin et Noé - Bertrange"
     },
     {
       "poolName": "Poule G",
