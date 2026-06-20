@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:20:33.429Z",
+    "updatedAt": "2026-06-20T08:20:37.608Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -248,13 +248,13 @@
       "total": 6,
       "teams": [
         {
-          "name": "Maxime et Laurent - Cattenom",
-          "wins": 0,
+          "name": "Benjamin et Noé - Bertrange",
+          "wins": 1,
           "losses": 0,
-          "draws": 1,
-          "pointsDiff": 9,
-          "setsWon": 1,
-          "setsLost": 1,
+          "draws": 0,
+          "pointsDiff": 12,
+          "setsWon": 2,
+          "setsLost": 0,
           "poolPosition": 1
         },
         {
@@ -278,13 +278,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Benjamin et Noé - Bertrange",
+          "name": "Maxime et Laurent - Cattenom",
           "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -9,
-          "setsWon": 1,
-          "setsLost": 1,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -12,
+          "setsWon": 0,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -502,8 +502,8 @@
       "set1Team1": 13,
       "set1Team2": 21,
       "set2Team1": 17,
-      "set2Team2": "",
-      "winner": null
+      "set2Team2": 21,
+      "winner": "Benjamin et Noé - Bertrange"
     },
     {
       "poolName": "Poule G",
