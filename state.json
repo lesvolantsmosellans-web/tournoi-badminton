@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:23:15.043Z",
+    "updatedAt": "2026-06-20T10:24:15.829Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -150,18 +150,28 @@
     },
     {
       "poolName": "Poule B",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
           "name": "Gaetan et Angélique - Cattenom",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 37,
+          "pointsDiff": 24,
           "setsWon": 4,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
+        },
+        {
+          "name": "Alain et Lenny - Kédange",
+          "wins": 1,
+          "losses": 0,
+          "draws": 2,
+          "pointsDiff": 29,
+          "setsWon": 3,
+          "setsLost": 2,
+          "poolPosition": 2
         },
         {
           "name": "Aline et Sylvain LBG",
@@ -171,16 +181,6 @@
           "pointsDiff": -8,
           "setsWon": 3,
           "setsLost": 3,
-          "poolPosition": 2
-        },
-        {
-          "name": "Alain et Lenny - Kédange",
-          "wins": 0,
-          "losses": 0,
-          "draws": 2,
-          "pointsDiff": 16,
-          "setsWon": 2,
-          "setsLost": 2,
           "poolPosition": 3
         },
         {
@@ -1003,7 +1003,7 @@
       "poolName": "Poule F",
       "court": 6,
       "time": "14:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
       "team2": "Alex et Céline - Nilvange",
       "set1Team1": 21,
@@ -1071,11 +1071,11 @@
       "status": "ongoing",
       "team1": "Alain et Lenny - Kédange",
       "team2": "Gaetan et Angélique - Cattenom",
-      "set1Team1": "",
+      "set1Team1": 13,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Alain et Lenny - Kédange"
     },
     {
       "poolName": "Poule E",
