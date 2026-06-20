@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:56:51.142Z",
+    "updatedAt": "2026-06-20T08:56:57.945Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -164,13 +164,13 @@
           "poolPosition": 1
         },
         {
-          "name": "Nicolas et Léo",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -8,
+          "name": "Alain et Lenny - Kédange",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": 13,
           "setsWon": 1,
-          "setsLost": 2,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -184,13 +184,13 @@
           "poolPosition": 3
         },
         {
-          "name": "Alain et Lenny - Kédange",
+          "name": "Nicolas et Léo",
           "wins": 0,
           "losses": 1,
-          "draws": 0,
-          "pointsDiff": -2,
-          "setsWon": 0,
-          "setsLost": 1,
+          "draws": 1,
+          "pointsDiff": -23,
+          "setsWon": 1,
+          "setsLost": 3,
           "poolPosition": 4
         }
       ]
@@ -683,9 +683,9 @@
       "team2": "Nicolas et Léo",
       "set1Team1": 19,
       "set1Team2": 21,
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Nicolas et Léo"
+      "set2Team1": 21,
+      "set2Team2": 6,
+      "winner": null
     },
     {
       "poolName": "Poule C",
