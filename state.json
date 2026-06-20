@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:09:02.809Z",
+    "updatedAt": "2026-06-20T10:09:12.221Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -244,16 +244,16 @@
     },
     {
       "poolName": "Poule D",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
           "name": "Arnaud et Gauthier - Nilvange",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 31,
-          "setsWon": 4,
+          "pointsDiff": 52,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -270,11 +270,11 @@
         {
           "name": "Maxime et Laurent - Cattenom",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 1,
-          "pointsDiff": -1,
+          "pointsDiff": -22,
           "setsWon": 1,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
@@ -993,11 +993,11 @@
       "status": "ongoing",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Maxime et Laurent - Cattenom",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Arnaud et Gauthier - Nilvange"
     },
     {
       "poolName": "Poule F",
