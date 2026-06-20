@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:28:32.577Z",
+    "updatedAt": "2026-06-20T11:30:15.025Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1450,9 +1450,9 @@
           "set1Team2": 8,
           "set2Team1": 21,
           "set2Team2": 8,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Alex et Céline - Nilvange"
         },
         {
           "phase": "Quart 2",
@@ -1492,7 +1492,7 @@
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Alex et Céline - Nilvange",
           "team2": "Maxime et Laurent - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
@@ -1528,7 +1528,7 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
+          "team1": "Estelle et Priscilla - Kédange",
           "team2": "Alain et Lenny - Kédange",
           "set1Team1": "",
           "set1Team2": "",
