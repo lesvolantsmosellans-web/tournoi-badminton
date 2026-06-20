@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:58:14.972Z",
+    "updatedAt": "2026-06-20T09:03:34.266Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -793,9 +793,9 @@
     },
     {
       "poolName": "Poule G",
-      "court": 7,
+      "court": 4,
       "time": "12:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Elaine et Noa - Cattenom",
       "team2": "Manu et Christophe - Nilvange",
       "set1Team1": "",
