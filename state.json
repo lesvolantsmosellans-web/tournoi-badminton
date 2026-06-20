@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:59:10.044Z",
+    "updatedAt": "2026-06-20T12:59:33.387Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1566,10 +1566,10 @@
           "phase": "5ème place",
           "team1": "Alain et Lenny - Kédange",
           "team2": "Nathan et Edison - ASBK",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 17,
+          "set1Team2": 21,
+          "set2Team1": 19,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
