@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:35:31.982Z",
+    "updatedAt": "2026-06-20T11:35:52.483Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1285,10 +1285,10 @@
           "phase": "Quart 1",
           "team1": "Fred et Marisa - ASBK/ Cattenom",
           "team2": "Aline et Sylvain LBG",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 11,
+          "set2Team1": 21,
+          "set2Team2": 6,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
