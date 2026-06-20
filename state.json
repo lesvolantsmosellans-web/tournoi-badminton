@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:19:30.657Z",
+    "updatedAt": "2026-06-20T08:19:35.825Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -205,8 +205,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 1,
+          "pointsDiff": 40,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -235,9 +235,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -40,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -526,8 +526,8 @@
       "team1": "Jean-Baptiste et Jérémy - Kédange",
       "team2": "Célia et Bilel",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 2,
+      "set2Team1": 21,
       "set2Team2": "",
       "winner": "Jean-Baptiste et Jérémy - Kédange"
     },
