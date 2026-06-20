@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:18:32.191Z",
+    "updatedAt": "2026-06-20T09:18:35.436Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -871,7 +871,7 @@
     },
     {
       "poolName": "Poule F",
-      "court": 6,
+      "court": 7,
       "time": "12:40",
       "status": "ongoing",
       "team1": "Fred et Marisa - ASBK/ Cattenom",
