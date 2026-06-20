@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:08:26.872Z",
+    "updatedAt": "2026-06-20T09:08:31.549Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -155,12 +155,12 @@
       "teams": [
         {
           "name": "Aline et Sylvain LBG",
-          "wins": 2,
+          "wins": 1,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 27,
+          "draws": 1,
+          "pointsDiff": 16,
           "setsWon": 3,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -176,10 +176,10 @@
         {
           "name": "Gaetan et Angélique - Cattenom",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -17,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -6,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 3
         },
@@ -708,10 +708,10 @@
       "team1": "Aline et Sylvain LBG",
       "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": 17,
-      "set1Team2": "",
-      "set2Team1": "",
+      "set1Team2": 21,
+      "set2Team1": 10,
       "set2Team2": "",
-      "winner": "Aline et Sylvain LBG"
+      "winner": null
     },
     {
       "poolName": "Poule F",
