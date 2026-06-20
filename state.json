@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:09:21.716Z",
+    "updatedAt": "2026-06-20T10:14:24.577Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -252,7 +252,7 @@
           "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 56,
+          "pointsDiff": 49,
           "setsWon": 6,
           "setsLost": 0,
           "poolPosition": 1
@@ -272,7 +272,7 @@
           "wins": 0,
           "losses": 2,
           "draws": 1,
-          "pointsDiff": -26,
+          "pointsDiff": -19,
           "setsWon": 1,
           "setsLost": 5,
           "poolPosition": 3
@@ -432,7 +432,7 @@
     },
     {
       "poolName": "Poule H",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
@@ -446,23 +446,23 @@
           "poolPosition": 1
         },
         {
-          "name": "Benoît et Amandine - Illange",
-          "wins": 1,
+          "name": "Christelle et José - Hayange",
+          "wins": 2,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -1,
-          "setsWon": 2,
+          "pointsDiff": 13,
+          "setsWon": 3,
           "setsLost": 2,
           "poolPosition": 2
         },
         {
-          "name": "Christelle et José - Hayange",
+          "name": "Benoît et Amandine - Illange",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0,
-          "pointsDiff": -2,
+          "pointsDiff": -16,
           "setsWon": 2,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 3
         },
         {
@@ -990,13 +990,13 @@
       "poolName": "Poule D",
       "court": 4,
       "time": "14:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Arnaud et Gauthier - Nilvange",
       "team2": "Maxime et Laurent - Cattenom",
       "set1Team1": 21,
       "set1Team2": 17,
       "set2Team1": 21,
-      "set2Team2": "",
+      "set2Team2": 7,
       "winner": "Arnaud et Gauthier - Nilvange"
     },
     {
@@ -1032,11 +1032,11 @@
       "status": "ongoing",
       "team1": "Christelle et José - Hayange",
       "team2": "Benoît et Amandine - Illange",
-      "set1Team1": "",
+      "set1Team1": 15,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Christelle et José - Hayange"
     },
     {
       "poolName": "Poule C",
