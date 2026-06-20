@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:24:15.829Z",
+    "updatedAt": "2026-06-20T10:24:20.033Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -155,23 +155,13 @@
       "teams": [
         {
           "name": "Gaetan et Angélique - Cattenom",
-          "wins": 2,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": 24,
-          "setsWon": 4,
-          "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Alain et Lenny - Kédange",
-          "wins": 1,
+          "wins": 3,
           "losses": 0,
-          "draws": 2,
-          "pointsDiff": 29,
-          "setsWon": 3,
-          "setsLost": 2,
-          "poolPosition": 2
+          "draws": 0,
+          "pointsDiff": 45,
+          "setsWon": 5,
+          "setsLost": 0,
+          "poolPosition": 1
         },
         {
           "name": "Aline et Sylvain LBG",
@@ -180,6 +170,16 @@
           "draws": 1,
           "pointsDiff": -8,
           "setsWon": 3,
+          "setsLost": 3,
+          "poolPosition": 2
+        },
+        {
+          "name": "Alain et Lenny - Kédange",
+          "wins": 0,
+          "losses": 1,
+          "draws": 2,
+          "pointsDiff": 8,
+          "setsWon": 2,
           "setsLost": 3,
           "poolPosition": 3
         },
@@ -1072,10 +1072,10 @@
       "team1": "Alain et Lenny - Kédange",
       "team2": "Gaetan et Angélique - Cattenom",
       "set1Team1": 13,
-      "set1Team2": "",
+      "set1Team2": 21,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": "Alain et Lenny - Kédange"
+      "winner": "Gaetan et Angélique - Cattenom"
     },
     {
       "poolName": "Poule E",
