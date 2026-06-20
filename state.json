@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:38:12.245Z",
+    "updatedAt": "2026-06-20T08:39:18.938Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -338,9 +338,19 @@
     },
     {
       "poolName": "Poule F",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Alex et Céline - Nilvange",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Alexia et Arnaud - Yutz",
           "wins": 0,
@@ -349,27 +359,7 @@
           "pointsDiff": 4,
           "setsWon": 1,
           "setsLost": 1,
-          "poolPosition": 1
-        },
-        {
-          "name": "Alex et Céline - Nilvange",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Sandy et Lilou",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Fred et Marisa - ASBK/ Cattenom",
@@ -378,6 +368,16 @@
           "draws": 1,
           "pointsDiff": -4,
           "setsWon": 1,
+          "setsLost": 1,
+          "poolPosition": 3
+        },
+        {
+          "name": "Sandy et Lilou",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
+          "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -600,7 +600,7 @@
       "poolName": "Poule H",
       "court": 2,
       "time": "10:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Eric et Mika - Cattenom",
       "team2": "Benoît et Amandine - Illange",
       "set1Team1": 21,
@@ -629,11 +629,11 @@
       "status": "ongoing",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Sandy et Lilou",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Alex et Céline - Nilvange"
     },
     {
       "poolName": "Poule D",
