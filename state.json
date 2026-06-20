@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:34:26.695Z",
+    "updatedAt": "2026-06-20T12:34:29.154Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1405,13 +1405,13 @@
           "phase": "5ème place",
           "team1": "Benjamin et Noé - Bertrange",
           "team2": "Jean-Baptiste et Jérémy - Kédange",
-          "set1Team1": "",
+          "set1Team1": 0,
           "set1Team2": 21,
-          "set2Team1": "",
+          "set2Team1": 0,
           "set2Team2": 21,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Jean-Baptiste et Jérémy - Kédange"
         },
         {
           "phase": "7ème place",
