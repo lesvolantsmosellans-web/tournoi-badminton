@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:35:45.138Z",
+    "updatedAt": "2026-06-20T08:38:01.716Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -108,12 +108,12 @@
       "teams": [
         {
           "name": "Maxime et Antonin",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "draws": 0,
-          "pointsDiff": 21,
+          "draws": 1,
+          "pointsDiff": 4,
           "setsWon": 1,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 1
         },
         {
@@ -139,10 +139,10 @@
         {
           "name": "Julien et Stéphanie - Apach",
           "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "pointsDiff": -21,
-          "setsWon": 0,
+          "losses": 0,
+          "draws": 1,
+          "pointsDiff": -4,
+          "setsWon": 1,
           "setsLost": 1,
           "poolPosition": 4
         }
@@ -574,14 +574,14 @@
       "poolName": "Poule A",
       "court": 7,
       "time": "10:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Maxime et Antonin",
       "team2": "Julien et Stéphanie - Apach",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
-      "winner": "Maxime et Antonin"
+      "set1Team2": 13,
+      "set2Team1": 17,
+      "set2Team2": 21,
+      "winner": null
     },
     {
       "poolName": "Poule G",
@@ -678,7 +678,7 @@
       "poolName": "Poule B",
       "court": 2,
       "time": "11:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Alain et Lenny - Kédange",
       "team2": "Nicolas et Léo",
       "set1Team1": "",
