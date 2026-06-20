@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:38:01.716Z",
+    "updatedAt": "2026-06-20T08:38:06.929Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -432,9 +432,19 @@
     },
     {
       "poolName": "Poule H",
-      "played": 1,
+      "played": 2,
       "total": 6,
       "teams": [
+        {
+          "name": "Eric et Mika - Cattenom",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
+          "setsLost": 0,
+          "poolPosition": 1
+        },
         {
           "name": "Christelle et José - Hayange",
           "wins": 1,
@@ -443,27 +453,7 @@
           "pointsDiff": 11,
           "setsWon": 2,
           "setsLost": 0,
-          "poolPosition": 1
-        },
-        {
-          "name": "Eric et Mika - Cattenom",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
           "poolPosition": 2
-        },
-        {
-          "name": "Benoît et Amandine - Illange",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
-          "setsLost": 0,
-          "poolPosition": 3
         },
         {
           "name": "Virginie et Gamache",
@@ -473,6 +463,16 @@
           "pointsDiff": -11,
           "setsWon": 0,
           "setsLost": 2,
+          "poolPosition": 3
+        },
+        {
+          "name": "Benoît et Amandine - Illange",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "pointsDiff": -21,
+          "setsWon": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -603,11 +603,11 @@
       "status": "ongoing",
       "team1": "Eric et Mika - Cattenom",
       "team2": "Benoît et Amandine - Illange",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Eric et Mika - Cattenom"
     },
     {
       "poolName": "Poule A",
