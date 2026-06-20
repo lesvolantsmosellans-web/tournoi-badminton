@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:20:37.608Z",
+    "updatedAt": "2026-06-20T08:22:21.758Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -432,16 +432,16 @@
     },
     {
       "poolName": "Poule H",
-      "played": 0,
+      "played": 1,
       "total": 6,
       "teams": [
         {
           "name": "Christelle et José - Hayange",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 0,
-          "setsWon": 0,
+          "pointsDiff": 21,
+          "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -468,11 +468,11 @@
         {
           "name": "Virginie et Gamache",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 0,
+          "pointsDiff": -21,
           "setsWon": 0,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 4
         }
       ]
@@ -496,7 +496,7 @@
       "poolName": "Poule D",
       "court": 2,
       "time": "10:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Maxime et Laurent - Cattenom",
       "team2": "Benjamin et Noé - Bertrange",
       "set1Team1": 13,
@@ -538,11 +538,11 @@
       "status": "ongoing",
       "team1": "Christelle et José - Hayange",
       "team2": "Virginie et Gamache",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Christelle et José - Hayange"
     },
     {
       "poolName": "Poule B",
@@ -598,9 +598,9 @@
     },
     {
       "poolName": "Poule H",
-      "court": 3,
+      "court": 2,
       "time": "10:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Eric et Mika - Cattenom",
       "team2": "Benoît et Amandine - Illange",
       "set1Team1": "",
