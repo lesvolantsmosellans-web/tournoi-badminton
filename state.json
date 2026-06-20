@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:28:27.611Z",
+    "updatedAt": "2026-06-20T13:32:36.102Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1256,12 +1256,12 @@
           "phase": "7ème place",
           "team1": "Julien et Stéphanie - Apach",
           "team2": "Alexia et Arnaud - Yutz",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 12,
+          "set1Team2": 21,
+          "set2Team1": 21,
+          "set2Team2": 18,
+          "set3Team1": 20,
+          "set3Team2": 22,
           "winner": null
         }
       ]
@@ -1421,9 +1421,9 @@
           "set1Team2": 25,
           "set2Team1": 21,
           "set2Team2": 23,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Benoît et Amandine - Illange"
         }
       ]
     },
