@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:31:05.621Z",
+    "updatedAt": "2026-06-20T09:31:08.906Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -205,8 +205,8 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 48,
-          "setsWon": 3,
+          "pointsDiff": 42,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -215,9 +215,9 @@
           "wins": 1,
           "losses": 1,
           "draws": 1,
-          "pointsDiff": 12,
+          "pointsDiff": 18,
           "setsWon": 3,
-          "setsLost": 2,
+          "setsLost": 3,
           "poolPosition": 2
         },
         {
@@ -851,9 +851,9 @@
       "team1": "Sophie et Julian - Metz/Nilvange",
       "team2": "Jean-Baptiste et Jérémy - Kédange",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 13,
+      "set2Team1": 21,
+      "set2Team2": 14,
       "winner": "Sophie et Julian - Metz/Nilvange"
     },
     {
