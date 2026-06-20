@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:44:51.794Z",
+    "updatedAt": "2026-06-20T12:45:46.837Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1172,10 +1172,10 @@
           "phase": "Demi 1",
           "team1": "Nico et Viviane - Cattenom",
           "team2": "Sophie et Julian - Metz/Nilvange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 11,
+          "set1Team2": 21,
+          "set2Team1": 9,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
@@ -1224,9 +1224,9 @@
           "set1Team2": 21,
           "set2Team1": 19,
           "set2Team2": 21,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Gaetan et Angélique - Cattenom"
         },
         {
           "phase": "3ème place",
@@ -1243,7 +1243,7 @@
         {
           "phase": "5ème place",
           "team1": "Eric et Mika - Cattenom",
-          "team2": "Gagnant D5-8(2)",
+          "team2": "Gaetan et Angélique - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1255,7 +1255,7 @@
         {
           "phase": "7ème place",
           "team1": "Julien et Stéphanie - Apach",
-          "team2": "Perdant D5-8(2)",
+          "team2": "Alexia et Arnaud - Yutz",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
