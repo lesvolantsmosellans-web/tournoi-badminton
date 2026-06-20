@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:57:17.621Z",
+    "updatedAt": "2026-06-20T08:58:14.972Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -691,7 +691,7 @@
       "poolName": "Poule C",
       "court": 6,
       "time": "11:20",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Sophie et Julian - Metz/Nilvange",
       "team2": "Célia et Bilel",
       "set1Team1": 21,
@@ -782,7 +782,7 @@
       "poolName": "Poule A",
       "court": 6,
       "time": "12:00",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Maxime et Antonin",
       "team2": "Yohann et Lucie - Nilvange",
       "set1Team1": "",
