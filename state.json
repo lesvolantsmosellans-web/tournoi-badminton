@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:32:36.102Z",
+    "updatedAt": "2026-06-20T13:39:50.353Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1262,7 +1262,7 @@
           "set2Team2": 18,
           "set3Team1": 20,
           "set3Team2": 22,
-          "winner": null
+          "winner": "Alexia et Arnaud - Yutz"
         }
       ]
     },
@@ -1393,10 +1393,10 @@
           "phase": "3ème place",
           "team1": "Fred et Marisa - ASBK/ Cattenom",
           "team2": "Roland et Florine - ASBK",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 13,
+          "set1Team2": 21,
+          "set2Team1": 18,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
