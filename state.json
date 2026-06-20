@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:35:52.483Z",
+    "updatedAt": "2026-06-20T11:36:32.063Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1289,9 +1289,9 @@
           "set1Team2": 11,
           "set2Team1": 21,
           "set2Team2": 6,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Fred et Marisa - ASBK/ Cattenom"
         },
         {
           "phase": "Quart 2",
@@ -1321,17 +1321,17 @@
           "phase": "Quart 4",
           "team1": "Roland et Florine - ASBK",
           "team2": "Benoît et Amandine - Illange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 15,
+          "set2Team1": 21,
+          "set2Team2": 10,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
         },
         {
           "phase": "Demi 1",
-          "team1": "Gagnant Q1",
+          "team1": "Fred et Marisa - ASBK/ Cattenom",
           "team2": "Elaine et Noa - Cattenom",
           "set1Team1": "",
           "set1Team2": "",
@@ -1367,7 +1367,7 @@
         },
         {
           "phase": "Demi 5-8 (1)",
-          "team1": "Perdant Q1",
+          "team1": "Aline et Sylvain LBG",
           "team2": "Perdant Q3",
           "set1Team1": "",
           "set1Team2": "",
