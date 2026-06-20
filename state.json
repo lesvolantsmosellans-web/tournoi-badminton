@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:39:21.015Z",
+    "updatedAt": "2026-06-20T12:44:51.794Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1220,10 +1220,10 @@
           "phase": "Demi 5-8 (2)",
           "team1": "Alexia et Arnaud - Yutz",
           "team2": "Gaetan et Angélique - Cattenom",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 19,
+          "set1Team2": 21,
+          "set2Team1": 19,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
