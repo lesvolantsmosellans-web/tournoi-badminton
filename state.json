@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:13:28.368Z",
+    "updatedAt": "2026-06-20T13:19:44.935Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1244,13 +1244,13 @@
           "phase": "5ème place",
           "team1": "Eric et Mika - Cattenom",
           "team2": "Gaetan et Angélique - Cattenom",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set1Team1": 19,
+          "set1Team2": 21,
+          "set2Team1": 15,
+          "set2Team2": 21,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Gaetan et Angélique - Cattenom"
         },
         {
           "phase": "7ème place",
@@ -1721,7 +1721,7 @@
           "set2Team2": 19,
           "set3Team1": 13,
           "set3Team2": 21,
-          "winner": null
+          "winner": "Cédric et Mathieu - BCHS"
         },
         {
           "phase": "5ème place",
