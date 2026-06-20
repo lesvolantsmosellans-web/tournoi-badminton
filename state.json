@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:00:03.837Z",
+    "updatedAt": "2026-06-20T10:00:11.938Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -385,27 +385,27 @@
     },
     {
       "poolName": "Poule G",
-      "played": 4,
+      "played": 5,
       "total": 6,
       "teams": [
         {
-          "name": "Oscar et Baptiste - Hettange",
-          "wins": 2,
+          "name": "Elaine et Noa - Cattenom",
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 47,
-          "setsWon": 4,
+          "pointsDiff": 46,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
-          "name": "Elaine et Noa - Cattenom",
+          "name": "Oscar et Baptiste - Hettange",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 28,
+          "pointsDiff": 29,
           "setsWon": 4,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -941,11 +941,11 @@
       "status": "ongoing",
       "team1": "Elaine et Noa - Cattenom",
       "team2": "Oscar et Baptiste - Hettange",
-      "set1Team1": "",
+      "set1Team1": 18,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Elaine et Noa - Cattenom"
     },
     {
       "poolName": "Poule A",
