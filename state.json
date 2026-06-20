@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:39:18.938Z",
+    "updatedAt": "2026-06-20T08:40:23.416Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -346,8 +346,8 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 1,
+          "pointsDiff": 31,
+          "setsWon": 2,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -376,9 +376,9 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -31,
           "setsWon": 0,
-          "setsLost": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -626,13 +626,13 @@
       "poolName": "Poule F",
       "court": 6,
       "time": "10:40",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Alex et Céline - Nilvange",
       "team2": "Sandy et Lilou",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 4,
+      "set2Team1": 21,
+      "set2Team2": 7,
       "winner": "Alex et Céline - Nilvange"
     },
     {
@@ -689,9 +689,9 @@
     },
     {
       "poolName": "Poule C",
-      "court": 3,
+      "court": 6,
       "time": "11:20",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Sophie et Julian - Metz/Nilvange",
       "team2": "Célia et Bilel",
       "set1Team1": "",
