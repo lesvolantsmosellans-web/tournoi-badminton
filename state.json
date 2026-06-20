@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:36:32.063Z",
+    "updatedAt": "2026-06-20T11:36:52.935Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1325,9 +1325,9 @@
           "set1Team2": 15,
           "set2Team1": 21,
           "set2Team2": 10,
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Roland et Florine - ASBK"
         },
         {
           "phase": "Demi 1",
@@ -1344,7 +1344,7 @@
         {
           "phase": "Demi 2",
           "team1": "Gagnant Q3",
-          "team2": "Gagnant Q4",
+          "team2": "Roland et Florine - ASBK",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
@@ -1380,7 +1380,7 @@
         {
           "phase": "Demi 5-8 (2)",
           "team1": "Jean-Baptiste et Jérémy - Kédange",
-          "team2": "Perdant Q4",
+          "team2": "Benoît et Amandine - Illange",
           "set1Team1": "",
           "set1Team2": "",
           "set2Team1": "",
