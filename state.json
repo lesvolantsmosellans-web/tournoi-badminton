@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:09:17.208Z",
+    "updatedAt": "2026-06-20T08:09:21.273Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -299,7 +299,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
+          "pointsDiff": 16,
           "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 1
@@ -329,7 +329,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -16,
           "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 4
@@ -564,7 +564,7 @@
       "status": "ongoing",
       "team1": "Nico et Viviane - Cattenom",
       "team2": "Estelle et Priscilla - Kédange",
-      "set1Team1": 26,
+      "set1Team1": 21,
       "set1Team2": 5,
       "set2Team1": "",
       "set2Team2": "",
