@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T11:38:08.648Z",
+    "updatedAt": "2026-06-20T11:39:09.755Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1136,10 +1136,10 @@
           "phase": "Quart 2",
           "team1": "Sophie et Julian - Metz/Nilvange",
           "team2": "Alexia et Arnaud - Yutz",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 11,
+          "set2Team1": 21,
+          "set2Team2": 7,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
