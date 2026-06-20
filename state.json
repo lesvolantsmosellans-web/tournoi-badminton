@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:24:54.193Z",
+    "updatedAt": "2026-06-20T12:25:14.407Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1214,7 +1214,7 @@
           "set2Team2": 21,
           "set3Team1": 14,
           "set3Team2": 21,
-          "winner": null
+          "winner": "Eric et Mika - Cattenom"
         },
         {
           "phase": "Demi 5-8 (2)",
@@ -1242,7 +1242,7 @@
         },
         {
           "phase": "5ème place",
-          "team1": "Gagnant D5-8(1)",
+          "team1": "Eric et Mika - Cattenom",
           "team2": "Gagnant D5-8(2)",
           "set1Team1": "",
           "set1Team2": "",
@@ -1254,7 +1254,7 @@
         },
         {
           "phase": "7ème place",
-          "team1": "Perdant D5-8(1)",
+          "team1": "Julien et Stéphanie - Apach",
           "team2": "Perdant D5-8(2)",
           "set1Team1": "",
           "set1Team2": "",
