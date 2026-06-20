@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:11:13.267Z",
+    "updatedAt": "2026-06-20T12:11:59.569Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1369,12 +1369,12 @@
           "phase": "Demi 5-8 (1)",
           "team1": "Aline et Sylvain LBG",
           "team2": "Benjamin et Noé - Bertrange",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 23,
+          "set2Team1": 21,
+          "set2Team2": 19,
+          "set3Team1": 19,
+          "set3Team2": 21,
           "winner": null
         },
         {
