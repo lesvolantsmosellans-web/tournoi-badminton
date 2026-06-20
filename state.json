@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:47:43.935Z",
+    "updatedAt": "2026-06-20T08:47:49.958Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -309,7 +309,7 @@
           "wins": 1,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
+          "pointsDiff": 7,
           "setsWon": 1,
           "setsLost": 0,
           "poolPosition": 2
@@ -319,7 +319,7 @@
           "wins": 0,
           "losses": 1,
           "draws": 0,
-          "pointsDiff": -21,
+          "pointsDiff": -7,
           "setsWon": 0,
           "setsLost": 1,
           "poolPosition": 3
@@ -656,7 +656,7 @@
       "team1": "Roland et Florine - ASBK",
       "team2": "Sébastien et Christina - Nilvange",
       "set1Team1": 21,
-      "set1Team2": "",
+      "set1Team2": 14,
       "set2Team1": "",
       "set2Team2": "",
       "winner": "Roland et Florine - ASBK"
