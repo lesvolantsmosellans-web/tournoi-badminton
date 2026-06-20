@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:13:40.854Z",
+    "updatedAt": "2026-06-20T09:13:58.756Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -432,27 +432,27 @@
     },
     {
       "poolName": "Poule H",
-      "played": 2,
+      "played": 3,
       "total": 6,
       "teams": [
         {
           "name": "Eric et Mika - Cattenom",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 21,
-          "setsWon": 2,
+          "pointsDiff": 37,
+          "setsWon": 3,
           "setsLost": 0,
           "poolPosition": 1
         },
         {
           "name": "Christelle et José - Hayange",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0,
-          "pointsDiff": 11,
+          "pointsDiff": -5,
           "setsWon": 2,
-          "setsLost": 0,
+          "setsLost": 1,
           "poolPosition": 2
         },
         {
@@ -773,10 +773,10 @@
       "team1": "Christelle et José - Hayange",
       "team2": "Eric et Mika - Cattenom",
       "set1Team1": "",
-      "set1Team2": "",
+      "set1Team2": 16,
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Eric et Mika - Cattenom"
     },
     {
       "poolName": "Poule A",
