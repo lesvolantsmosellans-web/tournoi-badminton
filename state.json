@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T13:57:15.718Z",
+    "updatedAt": "2026-06-20T14:14:32.200Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1679,13 +1679,13 @@
           "phase": "Finale",
           "team1": "Sébastien et Christina - Nilvange",
           "team2": "Virginie et Gamache",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
-          "set3Team1": "",
-          "set3Team2": "",
-          "winner": null
+          "set1Team1": 15,
+          "set1Team2": 21,
+          "set2Team1": 16,
+          "set2Team2": 21,
+          "set3Team1": 0,
+          "set3Team2": 0,
+          "winner": "Virginie et Gamache"
         },
         {
           "phase": "Demi 5-8 (1)",
