@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:45:49.273Z",
+    "updatedAt": "2026-06-20T09:45:59.867Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -103,7 +103,7 @@
   "poolRankings": [
     {
       "poolName": "Poule A",
-      "played": 3,
+      "played": 4,
       "total": 6,
       "teams": [
         {
@@ -127,23 +127,23 @@
           "poolPosition": 2
         },
         {
-          "name": "Julien et Stéphanie - Apach",
-          "wins": 0,
-          "losses": 0,
-          "draws": 1,
-          "pointsDiff": -4,
+          "name": "Yohann et Lucie - Nilvange",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "pointsDiff": -22,
           "setsWon": 1,
-          "setsLost": 1,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
-          "name": "Yohann et Lucie - Nilvange",
+          "name": "Julien et Stéphanie - Apach",
           "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "pointsDiff": -28,
-          "setsWon": 0,
-          "setsLost": 4,
+          "losses": 1,
+          "draws": 1,
+          "pointsDiff": -10,
+          "setsWon": 1,
+          "setsLost": 2,
           "poolPosition": 4
         }
       ]
@@ -954,11 +954,11 @@
       "status": "ongoing",
       "team1": "Yohann et Lucie - Nilvange",
       "team2": "Julien et Stéphanie - Apach",
-      "set1Team1": "",
+      "set1Team1": 6,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Yohann et Lucie - Nilvange"
     },
     {
       "poolName": "Poule G",
