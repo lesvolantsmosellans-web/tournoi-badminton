@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T09:25:55.254Z",
+    "updatedAt": "2026-06-20T09:25:59.585Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -403,8 +403,8 @@
           "wins": 2,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 38,
-          "setsWon": 3,
+          "pointsDiff": 28,
+          "setsWon": 4,
           "setsLost": 0,
           "poolPosition": 2
         },
@@ -413,9 +413,9 @@
           "wins": 0,
           "losses": 2,
           "draws": 0,
-          "pointsDiff": -36,
+          "pointsDiff": -26,
           "setsWon": 0,
-          "setsLost": 3,
+          "setsLost": 4,
           "poolPosition": 3
         },
         {
@@ -799,9 +799,9 @@
       "team1": "Elaine et Noa - Cattenom",
       "team2": "Manu et Christophe - Nilvange",
       "set1Team1": 21,
-      "set1Team2": "",
-      "set2Team1": "",
-      "set2Team2": "",
+      "set1Team2": 14,
+      "set2Team1": 21,
+      "set2Team2": 17,
       "winner": "Elaine et Noa - Cattenom"
     },
     {
