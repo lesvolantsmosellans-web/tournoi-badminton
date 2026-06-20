@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T12:54:08.750Z",
+    "updatedAt": "2026-06-20T12:54:32.967Z",
     "phase": "tournois",
     "numTeams": 32,
     "poolSize": 4,
@@ -1345,10 +1345,10 @@
           "phase": "Demi 2",
           "team1": "Maxime et Antonin",
           "team2": "Roland et Florine - ASBK",
-          "set1Team1": "",
-          "set1Team2": "",
-          "set2Team1": "",
-          "set2Team2": "",
+          "set1Team1": 21,
+          "set1Team2": 17,
+          "set2Team1": 23,
+          "set2Team2": 21,
           "set3Team1": "",
           "set3Team2": "",
           "winner": null
