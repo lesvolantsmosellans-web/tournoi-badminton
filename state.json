@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T10:15:34.483Z",
+    "updatedAt": "2026-06-20T10:17:57.729Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -432,16 +432,16 @@
     },
     {
       "poolName": "Poule H",
-      "played": 5,
+      "played": 6,
       "total": 6,
       "teams": [
         {
           "name": "Eric et Mika - Cattenom",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0,
-          "pointsDiff": 34,
-          "setsWon": 4,
+          "pointsDiff": 55,
+          "setsWon": 5,
           "setsLost": 0,
           "poolPosition": 1
         },
@@ -468,11 +468,11 @@
         {
           "name": "Virginie et Gamache",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0,
-          "pointsDiff": -31,
+          "pointsDiff": -52,
           "setsWon": 0,
-          "setsLost": 4,
+          "setsLost": 5,
           "poolPosition": 4
         }
       ]
@@ -1042,7 +1042,7 @@
       "poolName": "Poule C",
       "court": 5,
       "time": "14:00",
-      "status": "ongoing",
+      "status": "finished",
       "team1": "Sophie et Julian - Metz/Nilvange",
       "team2": "Emmanuel et Eva - Cattenom",
       "set1Team1": 21,
@@ -1058,11 +1058,11 @@
       "status": "ongoing",
       "team1": "Eric et Mika - Cattenom",
       "team2": "Virginie et Gamache",
-      "set1Team1": "",
+      "set1Team1": 21,
       "set1Team2": "",
       "set2Team1": "",
       "set2Team2": "",
-      "winner": null
+      "winner": "Eric et Mika - Cattenom"
     },
     {
       "poolName": "Poule B",
