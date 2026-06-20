@@ -1,7 +1,7 @@
 {
   "meta": {
     "tournamentName": "🏸 Tournoi de Badminton",
-    "updatedAt": "2026-06-20T08:16:48.157Z",
+    "updatedAt": "2026-06-20T08:17:03.933Z",
     "phase": "poules",
     "numTeams": 32,
     "poolSize": 4,
@@ -572,9 +572,9 @@
     },
     {
       "poolName": "Poule A",
-      "court": 1,
+      "court": 7,
       "time": "10:40",
-      "status": "upcoming",
+      "status": "ongoing",
       "team1": "Maxime et Antonin",
       "team2": "Julien et Stéphanie - Apach",
       "set1Team1": "",
